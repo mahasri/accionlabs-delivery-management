@@ -118,9 +118,7 @@ Technology Innovations, References, Summits, Strategic initiatives through Archi
 
 ## Templates and Tools
 
-- [Value Assessment Matrix](../appendix/sdlc-tools/value-assessment.md)
-- [ROI Calculator](../appendix/sdlc-tools/roi-calculator.md)
-- [Business Case Template](../appendix/sdlc-tools/business-case.md)
+*Templates and tools are available in the Delivery Excellence section.*
 
 ## Best Practices
 

@@ -44,7 +44,7 @@ Structured onboarding process for new team members joining active projects.
 ### 📊 Performance Review Checklist
 Regular assessment framework for monitoring and improving delivery performance.
 
-[:octicons-arrow-right-24: View Checklist](performance.md)
+
 
 **Use When**: Monthly/quarterly performance reviews and retrospectives
 

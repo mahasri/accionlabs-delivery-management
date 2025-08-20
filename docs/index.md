@@ -101,7 +101,7 @@ Welcome to the comprehensive AccionLabs Delivery Management Portal - your centra
 - [Pre-Kickoff Checklist](delivery-excellence/checklists/pre-kickoff.md) - Project readiness assessment
 - [Kick-Off Checklist](delivery-excellence/checklists/kick-off.md) - Successful project launch
 - [Induction Checklist](delivery-excellence/checklists/induction.md) - Team onboarding
-- [Performance Review](delivery-excellence/checklists/performance.md) - Team assessment
+
 
 ### 📄 Key Templates
 - [QBR Template](delivery-excellence/templates/qbr.md) - Quarterly Business Review
@@ -133,8 +133,6 @@ Welcome to the comprehensive AccionLabs Delivery Management Portal - your centra
 ### 📚 Learning Resources
 - [Delivery Handbook](introduction/) - Complete methodology
 - [Best Practices](best-practices/) - Proven approaches
-- [Quick Reference](quick-reference/) - Fast access guide
-- [Training Materials](appendix/) - Learning resources
 
 ## 🔄 Recent Activity
 

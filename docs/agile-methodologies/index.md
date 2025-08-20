@@ -166,10 +166,7 @@ After the Sprint is complete, the team holds a Sprint Review Meeting to demonstr
 
 ## Templates and Tools
 
-- [Sprint Planning Template](../appendix/sdlc-tools/sprint-planning.md)
-- [User Story Template](../appendix/sdlc-tools/user-story.md)
-- [Retrospective Template](../appendix/sdlc-tools/retrospective.md)
-- [Kanban Board Setup](../appendix/sdlc-tools/kanban-board.md)
+*Templates and tools are available in the Delivery Excellence section.*
 
 ## Best Practices
 

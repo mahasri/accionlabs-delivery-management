@@ -58,11 +58,15 @@ nav:
   - Delivery Handbook:
     - Introduction: introduction/index.md
     - Project Initiation: project-initiation/index.md
+    - Transition: transition/index.md
     - Delivery Execution: delivery-execution/index.md
-    - Delivery Governance: delivery-governance/index.md
+    - Innovation Engineering Services (Architecture & Design): delivery-execution/innovation-engineering-services/index.md
+    - SDLC - New Development: delivery-execution/sdlc-new-development/index.md
+    - SDLC - Enhancements & Support: delivery-execution/sdlc-enhancements-support/index.md
+    - SDLC - Managed Services: delivery-execution/sdlc-managed-services/index.md
     - Value-Driven Delivery: value-driven-delivery/index.md
-    - Agile Methodologies: agile-methodologies/index.md
     - GenAI Adoption: genai-adoption/index.md
+    - Agile Methodologies: agile-methodologies/index.md
     - Best Practices:
       - Overview: best-practices/index.md
       - Requirements Gathering: best-practices/requirements-gathering.md
@@ -71,25 +75,36 @@ nav:
       - QA Best Practices: best-practices/qa-best-practices.md
       - Testing & QA Process: best-practices/testing-qa-process.md
       - Release Planning: best-practices/release-planning.md
-      - Design Guidelines: best-practices/design-guidelines.md
     - Metrics & KPIs: metrics-kpis/index.md
-    - Transition: transition/index.md
-    - Quick Reference: quick-reference/index.md
-    - Appendix: appendix/index.md
   - Delivery Excellence:
     - Overview: delivery-excellence/index.md
     - Checklists:
       - Overview: delivery-excellence/checklists/index.md
-      - Pre-Kickoff: delivery-excellence/checklists/pre-kickoff.md
-      - Kick-Off: delivery-excellence/checklists/kick-off.md
+      - EDC Checklist: delivery-excellence/checklists/edc.md
       - Induction: delivery-excellence/checklists/induction.md
-      - Performance: delivery-excellence/checklists/performance.md
+      - All Is Well Report Requirements: delivery-excellence/checklists/all-is-well-report-requirements.md
+      - Architecture & Development Review: delivery-excellence/checklists/architecture-development-review.md
+      - Release Checklist: delivery-excellence/checklists/release-checklist.md
+    - Guides:
+      - Disaster Management - DR Approach: delivery-excellence/guides/disaster-management-dr-approach.md
+      - Manager Handbook By HR: delivery-excellence/guides/manager-handbook-by-hr.md
+      - PIP Policy: delivery-excellence/guides/pip-policy.md
     - Templates:
       - Overview: delivery-excellence/templates/index.md
       - QBR Template: delivery-excellence/templates/qbr.md
       - MBR Template: delivery-excellence/templates/mbr.md
       - All Is Well Report: delivery-excellence/templates/all-is-well-report.md
-    - Induction Guide: delivery-excellence/induction-guide.md
+      - Interview Evaluation Sheet: delivery-excellence/templates/interview-evaluation-sheet.md
+      - Issue Register: delivery-excellence/templates/issue-register.md
+      - MOM Template: delivery-excellence/templates/mom-template.md
+      - Project Estimation Template: delivery-excellence/templates/project-estimation-template.md
+      - Project Kickoff Template (Sample): delivery-excellence/templates/project-kickoff-template-sample.md
+      - RAID Log: delivery-excellence/templates/raid-log.md
+      - RASCI Template: delivery-excellence/templates/rasci-template.md
+      - RCA Template: delivery-excellence/templates/rca-template.md
+      - Requirement Traceability Matrix: delivery-excellence/templates/requirement-traceability-matrix.md
+      - Risk Register: delivery-excellence/templates/risk-register.md
+      - Timesheet Document: delivery-excellence/templates/timesheet-document.md
   - Value Board Governance Program:
     - Overview: delivery-governance/index.md
     - Maturity Dashboard: delivery-governance/maturity-dashboard.md
@@ -107,6 +122,7 @@ nav:
       - Review Template: delivery-governance/program-value-board/review-template.md
       - Best Practices: delivery-governance/program-value-board/best-practices.md
       - Review Team: delivery-governance/program-value-board/pvb-review-team.md
+
 
 # Plugins
 plugins:

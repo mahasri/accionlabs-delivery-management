@@ -28,10 +28,10 @@ Ready-to-use templates for all key deliverables, ensuring consistency and reduci
 
 <div class="card" markdown>
 
-### 👥 Team Induction
-Comprehensive onboarding process for new team members to ensure quick integration and productivity.
+### 👥 Team Management
+Comprehensive guides for team management, leadership, and performance improvement.
 
-[:octicons-arrow-right-24: Induction Guide](induction-guide.md)
+[:octicons-arrow-right-24: View Guides](guides/)
 
 </div>
 
@@ -40,11 +40,50 @@ Comprehensive onboarding process for new team members to ensure quick integratio
 ### 📊 Performance Management
 Continuous monitoring and improvement processes to track delivery performance and identify optimization opportunities.
 
-[:octicons-arrow-right-24: Performance Reviews](checklists/performance.md)
-
 </div>
 
 </div>
+
+## 📚 Document Library
+
+Our comprehensive document library provides access to all delivery excellence resources. Each document includes detailed descriptions, usage instructions, and best practices.
+
+### 📋 Checklists (6 Documents)
+
+Essential verification tools to ensure quality and completeness at every project phase:
+
+- **[EDC Checklist](checklists/edc.md)** - Enterprise Data Center infrastructure requirements
+- **[Induction](checklists/induction.md)** - New team member onboarding
+- **[All Is Well Report Requirements](checklists/all-is-well-report-requirements.md)** - Project closure verification
+- **[Architecture & Development Review](checklists/architecture-development-review.md)** - Technical excellence review
+- **[Release Checklist](checklists/release-checklist.md)** - Production deployment preparation
+
+### 📖 Guides (3 Documents)
+
+Comprehensive guides for team management and process implementation:
+
+- **[Disaster Management - DR Approach](guides/disaster-management-dr-approach.md)** - Business continuity planning
+- **[Manager Handbook By HR](guides/manager-handbook-by-hr.md)** - Leadership and HR policy reference
+- **[PIP Policy](guides/pip-policy.md)** - Performance improvement plan procedures
+
+### 📄 Templates (15 Documents)
+
+Ready-to-use templates for all project deliverables:
+
+- **[QBR Template](templates/qbr.md)** - Quarterly Business Review presentations
+- **[MBR Template](templates/mbr.md)** - Monthly Business Review reports
+- **[All Is Well Report](templates/all-is-well-report.md)** - Status reporting and escalation
+- **[Interview Evaluation Sheet](templates/interview-evaluation-sheet.md)** - Standardized candidate assessment
+- **[Issue Register](templates/issue-register.md)** - Project issue tracking template
+- **[MOM Template](templates/mom-template.md)** - Meeting minutes documentation
+- **[Project Estimation Template](templates/project-estimation-template.md)** - Effort and resource estimation
+- **[Project Kickoff Template (Sample)](templates/project-kickoff-template-sample.md)** - Project initiation guide
+- **[RAID Log](templates/raid-log.md)** - Risk, Assumptions, Issues, Dependencies tracking
+- **[RASCI Template](templates/rasci-template.md)** - Role and responsibility matrix
+- **[RCA Template](templates/rca-template.md)** - Root cause analysis framework
+- **[Requirement Traceability Matrix](templates/requirement-traceability-matrix.md)** - Requirements tracking tool
+- **[Risk Register](templates/risk-register.md)** - Comprehensive risk management
+- **[Timesheet Document](templates/timesheet-document.md)** - Time tracking template
 
 ## 🚀 Framework Benefits
 
@@ -75,28 +114,17 @@ Our Delivery Excellence Framework is continuously measured and improved through:
 - **Delivery Efficiency**: 23% improvement in delivery time
 - **Quality Metrics**: 98% first-time acceptance rate for deliverables
 
-## 🔄 Continuous Improvement Process
-
-<div class="mermaid">
-graph TD
-    A[Project Delivery] --> B[Performance Review]
-    B --> C[Identify Improvements]
-    C --> D[Update Framework]
-    D --> E[Train Teams]
-    E --> F[Implement Changes]
-    F --> A
-</div>
-
 ## 📋 Framework Components
 
 ### 1. Project Lifecycle Checklists
 
 Our comprehensive checklist system covers every phase of project delivery:
 
-- **[Pre-Kickoff Checklist](checklists/pre-kickoff.md)** - Project preparation and readiness assessment
-- **[Kick-Off Checklist](checklists/kick-off.md)** - Project launch and team alignment
+- **[EDC Checklist](checklists/edc.md)** - Enterprise Data Center infrastructure requirements
 - **[Induction Checklist](checklists/induction.md)** - New team member onboarding
-- **[Performance Review](checklists/performance.md)** - Regular delivery assessment
+- **[All Is Well Report Requirements](checklists/all-is-well-report-requirements.md)** - Project closure verification
+- **[Architecture & Development Review](checklists/architecture-development-review.md)** - Technical excellence review
+- **[Release Checklist](checklists/release-checklist.md)** - Production deployment preparation
 
 ### 2. Standardized Templates
 
@@ -105,20 +133,22 @@ Ready-to-use templates for all key deliverables:
 - **[QBR Template](templates/qbr.md)** - Quarterly Business Review presentations
 - **[MBR Template](templates/mbr.md)** - Monthly Business Review reports
 - **[All Is Well Report](templates/all-is-well-report.md)** - Status reporting and escalation
+- **[RAID Log](templates/raid-log.md)** - Risk, Assumptions, Issues, Dependencies tracking
+- **[RCA Template](templates/rca-template.md)** - Root cause analysis framework
 
-### 3. Team Development
+### 3. Team Management Guides
 
-Comprehensive resources for team growth and development:
+Comprehensive resources for team leadership and management:
 
-- **[Induction Guide](induction-guide.md)** - Complete onboarding process
-- **Training Materials** - Framework-specific training resources
-- **Best Practices** - Industry and organizational best practices
+- **[Manager Handbook By HR](guides/manager-handbook-by-hr.md)** - Leadership and HR policy reference
+- **[PIP Policy](guides/pip-policy.md)** - Performance improvement plan procedures
+- **[Disaster Management - DR Approach](guides/disaster-management-dr-approach.md)** - Business continuity planning
 
 ## 🎯 Getting Started
 
 ### For New Team Members
 
-1. **Complete Induction**: Follow the [Induction Guide](induction-guide.md)
+1. **Complete Induction**: Follow the [Induction Checklist](checklists/induction.md)
 2. **Review Checklists**: Familiarize yourself with relevant checklists
 3. **Download Templates**: Access templates for your project type
 4. **Attend Training**: Participate in framework training sessions
@@ -136,30 +166,3 @@ Comprehensive resources for team growth and development:
 2. **Performance Monitoring**: Track framework effectiveness metrics
 3. **Continuous Improvement**: Lead framework enhancement initiatives
 4. **Knowledge Sharing**: Facilitate best practice sharing across teams
-
-## 📞 Support & Resources
-
-### Framework Support Team
-
-- **Framework Lead**: framework@accionlabs.com
-- **Training Coordinator**: training@accionlabs.com
-- **Process Improvement**: process@accionlabs.com
-
-### Additional Resources
-
-- **Framework Training**: Available through Learning Management System
-- **Best Practice Library**: Internal knowledge base with case studies
-- **Community Forum**: Team collaboration and knowledge sharing platform
-- **Feedback Portal**: Submit framework improvement suggestions
-
-## 🔄 Framework Updates
-
-!!! info "Latest Framework Updates"
-    - **v2.1** (Q4 2024): Enhanced QBR template with new metrics
-    - **v2.0** (Q3 2024): Complete framework redesign and expansion
-    - **v1.5** (Q2 2024): Added performance review checklists
-    - **v1.0** (Q1 2024): Initial framework release
-
----
-
-*Framework last updated: {{ git_revision_date_localized }}*
