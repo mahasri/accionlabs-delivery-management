@@ -1,0 +1,189 @@
+site_name: AccionLabs Delivery Management
+site_description: Comprehensive delivery management portal for AccionLabs - templates, checklists, dashboards, and governance tools
+site_author: AccionLabs PMO
+site_url: https://accionlabs.com/delivery-management
+
+# Repository
+repo_name: accionlabs-delivery-management
+repo_url: https://github.com/accionlabs/accionlabs-delivery-management
+
+# Theme Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.delay
+    - navigation.instant.loading
+    - navigation.instant.previous
+    - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+  logo: assets/sharepoint/media/accionlabs-logo.png
+  favicon: assets/sharepoint/media/favicon.ico
+
+# Navigation Structure
+nav:
+  - Home: index.md
+  - Delivery Excellence:
+    - Overview: delivery-excellence/index.md
+    - Checklists:
+      - Overview: delivery-excellence/checklists/index.md
+      - Pre-Kickoff: delivery-excellence/checklists/pre-kickoff.md
+      - Kick-Off: delivery-excellence/checklists/kick-off.md
+      - Induction: delivery-excellence/checklists/induction.md
+      - Performance: delivery-excellence/checklists/performance.md
+    - Templates:
+      - Overview: delivery-excellence/templates/index.md
+      - QBR Template: delivery-excellence/templates/qbr.md
+      - MBR Template: delivery-excellence/templates/mbr.md
+      - All Is Well Report: delivery-excellence/templates/all-is-well-report.md
+    - Induction Guide: delivery-excellence/induction-guide.md
+  - Delivery Governance:
+    - Overview: delivery-governance/index.md
+    - Maturity Dashboard: delivery-governance/maturity-dashboard.md
+    - Review Process: delivery-governance/review-process.md
+    - Architecture Value Board:
+      - Overview: delivery-governance/architecture-value-board/index.md
+      - Tools & Technologies: delivery-governance/architecture-value-board/tools-technologies.md
+      - Review Checklist: delivery-governance/architecture-value-board/review-checklist.md
+      - Best Practices: delivery-governance/architecture-value-board/best-practices.md
+      - Schedule: delivery-governance/architecture-value-board/schedule.md
+      - Review Team: delivery-governance/architecture-value-board/avb-review-team.md
+    - Program Value Board:
+      - Overview: delivery-governance/program-value-board/index.md
+      - Process Metrics: delivery-governance/program-value-board/process-metrics.md
+      - Review Template: delivery-governance/program-value-board/review-template.md
+      - Best Practices: delivery-governance/program-value-board/best-practices.md
+      - Review Team: delivery-governance/program-value-board/pvb-review-team.md
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+
+# Extra CSS and JS
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
+  - assets/javascripts/mermaid-init.js
+
+# Markdown Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - codehilite:
+      guess_lang: false
+      use_pygments: true
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/accionlabs
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/accionlabs
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/accionlabs
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  version:
+    provider: mike
+  generator: false
+
+# Copyright
+copyright: Copyright &copy; 2024 AccionLabs. All rights reserved.
+
+# Validation
+validation:
+  nav:
+    omitted_files: ignore
+  not_found: warn
