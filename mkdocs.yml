@@ -117,15 +117,15 @@ plugins:
 
 # Extra CSS and JS
 extra_css:
-  - assets/stylesheets/extra.css
+  - stylesheets/extra.css
 
 extra_javascript:
   - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
   - assets/javascripts/mermaid-init.js
 
 # Theme overrides
-overrides:
-  main.html: overrides/main.html
+# overrides:
+#   main.html: overrides/main.html
 
 # Markdown Extensions
 markdown_extensions:
