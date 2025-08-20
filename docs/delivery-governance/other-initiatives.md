@@ -1,8 +1,8 @@
-# Review Process
+# Other Initiatives
 
 ## Overview
 
-This section covers the review process and procedures.
+This section covers other governance initiatives and programs.
 
 ## Content
 

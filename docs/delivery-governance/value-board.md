@@ -1,8 +1,8 @@
-# Review Process
+# Accionlabs Value Board (AVB & PVB)
 
 ## Overview
 
-This section covers the review process and procedures.
+This section covers the Accionlabs Value Board (AVB & PVB) framework and implementation.
 
 ## Content
 

@@ -1,8 +1,8 @@
-# Review Process
+# Governance Activities
 
 ## Overview
 
-This section covers the review process and procedures.
+This section covers governance activities and processes.
 
 ## Content
 

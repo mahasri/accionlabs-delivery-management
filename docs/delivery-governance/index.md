@@ -1,181 +1,123 @@
-# Delivery Governance Framework
+# Delivery Governance
 
-The AccionLabs Delivery Governance Framework provides structured oversight, control, and continuous improvement mechanisms for all delivery activities. This framework ensures consistent quality, risk management, and value delivery across all projects and programs.
+## Governance Activities
 
-## 🎯 Framework Overview
+Below image shares a snapshot of Governance activities at different stages and events and the owners involved
 
-Our Delivery Governance Framework is built on four core pillars:
+<img src="/accion-delivery-handbook/assets/media/image24.png" style="width:5.00705in;height:6.94271in" />
 
-<div class="grid" markdown>
+### Planning & Requirements Stage:
 
-<div class="card" markdown>
+- Understand the value chain and customer pain points for prioritizing blockers
+- Perform periodic risk analysis ([Template](https://docs.google.com/spreadsheets/d/1Xt8Z9B98tkysk-kZotXQzzq3PTWVenxE/edit?usp=sharing&ouid=117351193828184376313&rtpof=true&sd=true), [sample](https://docs.google.com/spreadsheets/d/1VP7guOWm0adeJf6SHjDjPdDK2KSNOZ8I/edit?usp=sharing&ouid=117351193828184376313&rtpof=true&sd=true))
+- Establish Process Governance like Jira Discipline, Git Version Management etc.
+- Plan Weekly/Bi-weekly/Monthly/QBR review cadence
+- Establish preventive and corrective action processes
+- Focus on delivery-led sales opportunities
+- Monitor and plan team resource allocation
 
-### 📊 Maturity Assessment
-Comprehensive maturity assessment and benchmarking to measure delivery excellence and identify improvement opportunities.
+### Design & Development Stage:
 
-[:octicons-arrow-right-24: View Dashboard](maturity-dashboard.md)
+- Track velocity/productivity using Azure DevOps, JIRA
+- Process checks – coding best practices, source control management
+- Conduct Scrum/Kanban ceremonies including Sprint Planning, Refinement, Retrospective etc.
+- Perform periodic quality checks
+- Foster Agile mindset through regular training
+- Timesheet submission/approvals
+- Include security audits and software development surveys
 
-</div>
+### Testing & Deployment Stage:
 
-<div class="card" markdown>
+- Verify deployment process and CI/CD effectiveness
+- Track and publish release schedule variance
+- Benchmark productivity, quality, and process efficiency
+- Document lessons learned for QBR
+- Regular stakeholder updates (Weekly/Bi-weekly/Monthly/QBR)
 
-### 🔄 Review Processes
-Structured review processes and governance mechanisms to ensure quality and compliance across all delivery activities.
+### Team & Performance Management:
 
-[:octicons-arrow-right-24: Review Process](review-process.md)
+- Identify talent and upskilling opportunities
+- Team collaboration and recognition (Accion Ace awards, spotlight awards)
+- Encourage hackathon participation
+- Conduct regular one-on-ones and skip-level meetings
+- Submit relevant Training Request Forms to L&D team regularly
+- Identify non-performers and put them through PIP ([PIP Policy](https://accionglobal.sharepoint.com/sites/valueboard/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvalueboard%2FShared%20Documents%2FPIP%20Policy%2Epdf&parent=%2Fsites%2Fvalueboard%2FShared%20Documents))
+- Focus on billing optimization and gross margins
+- Monitor CSAT scores and customer delight
+- Interpersonal skill management: regular one-on-ones, business HR connecting with the team, skip-level meetings, and organizing fun and recreation activities
+- Monitor team movement and ensure the release of resources from the team is planned ahead
+- Track and publish the release schedule variance and take the necessary steps to bring it back on track in the bi-weekly or QBR reports
 
-</div>
+### Delivery & Project Management
 
-<div class="card" markdown>
+- Updating the stakeholders - [Weekly / Bi-weekly](https://accionglobal.sharepoint.com/:p:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7B1D785D87-8C1E-466E-9B2E-6DB1257B319C%7D&file=WSR%20Template%20V2.0.pptx&action=edit&mobileredirect=true) / Monthly / [QBR](https://accionglobal.sharepoint.com/:p:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7B51204C8D-07BE-43D1-A7AE-52661C504BF0%7D&file=QBR%20Template%20v0.5.pptx&action=edit&mobileredirect=true)
+- Establish and maintain preventive and corrective actions and processes
+- Timesheet submission/approvals [template](https://accionglobal.sharepoint.com/:x:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7BB655CC44-C3D6-4197-9E41-F8EAC80A9F0A%7D&file=Timesheet%20March%2722%20Template.xlsx&action=default&mobileredirect=true)
+- Focus on delivery-led sales. Look for opportunities to expand the team, arrange emerging tech workshops with the client sponsors/ key stakeholders, and develop trust to improve the CSAT
+- Focus on billing loss/revenue leak to improve the project/account gross margins
 
-### 🏗️ Architecture Value Board
-Technical governance framework for architecture decisions, technology choices, and technical excellence.
+## Accionlabs Value Board (AVB & PVB)
 
-[:octicons-arrow-right-24: AVB Framework](architecture-value-board/)
+### Governance Framework
 
-</div>
+The Accionlabs Governance Framework operates on a structured two-tier model that defines clear focus areas at each level:
 
-<div class="card" markdown>
+<img src="/accion-delivery-handbook/assets/media/image25.png" style="width:6.47396in;height:3.11824in" />
 
-### 📈 Program Value Board
-Program governance framework for strategic alignment, value delivery, and business outcomes.
+#### Tier 1: Operational Monitoring (Regular Project Management)
 
-[:octicons-arrow-right-24: PVB Framework](program-value-board/)
+Project teams maintain continuous oversight of delivery metrics and operational excellence through rigorous monitoring. This includes tracking sprint velocity, defect density, and rework efficiency metrics. Teams measure delivery maturity through DORA metrics - monitoring deployment frequency, lead time for changes, change failure rate, and time to restore service. Project health is assessed through team collaboration indicators like PR review efficiency, merge frequency, and QA automation coverage. Regular tracking of feature delivery and milestone achievements ensures projects stay on course while maintaining quality standards. This tier represents the fundamental day-to-day project management activities essential for successful delivery.
 
-</div>
+#### Tier 2: Strategic Governance (Value Board)
 
-</div>
+The Value Board provides strategic oversight through two specialized units:
 
-## 🚀 Framework Benefits
+The Architecture Value Board (AVB) focuses exclusively on technical excellence through platform architecture assessment, design reviews, and code quality governance. AVB ensures architectural standards and innovation are consistently maintained across the organization's project portfolio through rigorous technical oversight and maturity evaluation. The review is conducted by the key architects and engineering heads of Accionlabs who are part of the core [AVB Team](https://docs.google.com/spreadsheets/d/11EQCWp_62JhTpxxPldP0wY02WjnKt9Rp5YDfZTGzVeA/edit?gid=0#gid=0)
 
-### For Delivery Teams
-- **Clear Governance Structure**: Well-defined roles, responsibilities, and decision-making processes
-- **Quality Assurance**: Built-in quality gates and review mechanisms
-- **Risk Management**: Proactive risk identification and mitigation strategies
-- **Continuous Improvement**: Structured feedback and improvement cycles
+The Program Value Board (PVB) oversees the broader aspects of delivery capabilities including process maturity, project management excellence, people capability development, and product knowledge management. PVB's comprehensive oversight extends to customer satisfaction tracking and continuous improvement initiatives, ensuring programmatic excellence across all non-technical aspects of delivery. The review is conducted by key delivery leaders along with the PMO team.
 
-### For Clients
-- **Transparent Governance**: Clear visibility into governance processes and decisions
-- **Quality Assurance**: Consistent quality standards and review mechanisms
-- **Risk Mitigation**: Proactive risk management and issue resolution
-- **Value Delivery**: Focus on business value and strategic outcomes
+This two-tier model establishes a clear hierarchy - with operational monitoring providing the foundation through day-to-day project management, while the Value Board drives strategic direction and governance at an organizational level. The framework enables Accionlabs to maintain high delivery standards and drive continuous improvement while keeping execution agile and efficient.
 
-### For Organization
-- **Standardized Governance**: Consistent governance approach across all projects
-- **Compliance Management**: Built-in compliance and audit capabilities
-- **Knowledge Management**: Structured knowledge capture and sharing
-- **Strategic Alignment**: Alignment with organizational goals and objectives
+Through this structured governance approach, the organization ensures consistent quality, innovation, and customer satisfaction across its accounts.
 
-## 📈 Framework Metrics
+### Review Process
 
-Our Delivery Governance Framework is continuously measured and improved through:
+Accionlabs Value Board operates as a comprehensive governance framework where Program Value Board, Architecture Value Board, and CoE/LOB/AIC teams collaborate with delivery teams to drive excellence and innovation.
 
-- **Governance Effectiveness**: 96% effectiveness in governance decision-making
-- **Quality Improvement**: 28% improvement in delivery quality scores
-- **Risk Reduction**: 45% reduction in project risks and issues
-- **Compliance Rate**: 98% compliance with governance requirements
+The Value Board reviews focus on multiple dimensions of delivery effectiveness:
 
-## 🔄 Governance Process
+- Process and skill maturity assessment
+- Customer and employee satisfaction tracking
+- Product knowledge and backlog health
+- Tools adoption and automation coverage
+- Architecture maturity and technical debt
+- ROI and business value metrics
 
-<div class="mermaid">
-graph TD
-    A[Project Initiation] --> B[Governance Setup]
-    B --> C[Regular Reviews]
-    C --> D[Decision Making]
-    D --> E[Implementation]
-    E --> F[Monitoring]
-    F --> G[Continuous Improvement]
-    G --> C
-</div>
+<img src="/accion-delivery-handbook/assets/media/image26.png" style="width:6.43229in;height:3.21615in" />
 
-## 📋 Framework Components
+Through regular program and technology reviews, the Value Board teams work with delivery leaders to evaluate the current state and recommend targeted improvements. These recommendations primarily focus on:
 
-### 1. Maturity Assessment
+- Enhancing delivery productivity
+- Improving quality metrics
+- Optimizing delivery speed
+- Driving automation adoption
+- Exploring GenAI opportunities
+- Streamlining processes
 
-Our comprehensive maturity assessment system covers:
+#### Review Outcome
 
-- **[Maturity Dashboard](maturity-dashboard.md)** - Real-time maturity metrics and trends
-- **Assessment Criteria** - Standardized assessment frameworks
-- **Benchmarking** - Industry and internal benchmarking
-- **Improvement Planning** - Targeted improvement initiatives
+The review outcomes generate specific action items at two levels:
 
-### 2. Review Processes
+**Team Level:**
+- Immediate process improvements
+- Skill development recommendations
+- Tool adoption guidance
 
-Structured review mechanisms include:
-
-- **[Review Process](review-process.md)** - Comprehensive review framework
-- **Quality Gates** - Built-in quality assurance checkpoints
-- **Escalation Procedures** - Clear escalation and decision-making paths
-- **Continuous Monitoring** - Ongoing performance and quality monitoring
-
-### 3. Architecture Value Board (AVB)
-
-Technical governance framework:
-
-- **[AVB Overview](architecture-value-board/index.md)** - Technical governance framework
-- **[Tools & Technologies](architecture-value-board/tools-technologies.md)** - Technology stack governance
-- **[Review Checklist](architecture-value-board/review-checklist.md)** - Technical review criteria
-- **[Best Practices](architecture-value-board/best-practices.md)** - Technical excellence standards
-- **[Schedule](architecture-value-board/schedule.md)** - Review scheduling and cadence
-- **[Review Team](architecture-value-board/avb-review-team.md)** - Technical review team structure
-
-### 4. Program Value Board (PVB)
-
-Program governance framework:
-
-- **[PVB Overview](program-value-board/index.md)** - Program governance framework
-- **[Process Metrics](program-value-board/process-metrics.md)** - Program performance metrics
-- **[Review Template](program-value-board/review-template.md)** - Program review templates
-- **[Best Practices](program-value-board/best-practices.md)** - Program excellence standards
-- **[Review Team](program-value-board/pvb-review-team.md)** - Program review team structure
-
-## 🎯 Getting Started
-
-### For Project Managers
-
-1. **Governance Setup**: Establish governance structure for your project
-2. **Maturity Assessment**: Conduct initial maturity assessment
-3. **Review Schedule**: Set up regular review schedule
-4. **Value Board Engagement**: Engage with AVB and PVB as needed
-
-### For Delivery Teams
-
-1. **Governance Awareness**: Understand governance requirements and processes
-2. **Quality Compliance**: Ensure compliance with quality standards
-3. **Review Participation**: Actively participate in governance reviews
-4. **Continuous Improvement**: Contribute to improvement initiatives
-
-### For Governance Teams
-
-1. **Framework Implementation**: Implement governance framework across projects
-2. **Review Execution**: Execute regular governance reviews
-3. **Decision Support**: Provide decision support and guidance
-4. **Process Improvement**: Continuously improve governance processes
-
-## 📞 Support & Resources
-
-### Governance Support Team
-
-- **Governance Lead**: governance@accionlabs.com
-- **Maturity Assessment**: maturity@accionlabs.com
-- **Review Process**: reviews@accionlabs.com
-- **Value Boards**: value-boards@accionlabs.com
-
-### Additional Resources
-
-- **Governance Training**: Available through Learning Management System
-- **Best Practice Library**: Internal knowledge base with governance case studies
-- **Community Forum**: Governance team collaboration and knowledge sharing
-- **Feedback Portal**: Submit governance improvement suggestions
-
-## 🔄 Framework Updates
-
-!!! info "Latest Framework Updates"
-    - **v2.1** (Q4 2024): Enhanced maturity assessment criteria
-    - **v2.0** (Q3 2024): Complete governance framework redesign
-    - **v1.5** (Q2 2024): Added Program Value Board framework
-    - **v1.0** (Q1 2024): Initial governance framework release
+**Organizational Level:**
+- Strategic initiatives
+- Best practice sharing
+- Cross-team collaboration opportunities
 
 ---
 
-*Framework last updated: {{ git_revision_date_localized }}*
+*Previous: [Metrics & KPIs ←](../metrics-kpis/)* | *Next: [Best Practices →](../best-practices/)*

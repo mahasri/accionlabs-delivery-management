@@ -1,0 +1,3 @@
+[submodule "delivery-handbook"]
+	path = delivery-handbook
+	url = https://github.com/mahasri/accion-delivery-handbook.git

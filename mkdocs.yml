@@ -13,22 +13,10 @@ theme:
   name: material
   language: en
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme)"
-      scheme: default
+    # Light mode only
+    - scheme: default
       primary: indigo
       accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
   features:
     - announce.dismiss
     - content.action.edit
@@ -67,6 +55,19 @@ theme:
 # Navigation Structure
 nav:
   - Home: index.md
+  - Delivery Handbook:
+    - Introduction: introduction/index.md
+    - Project Initiation: project-initiation/index.md
+    - Delivery Execution: delivery-execution/index.md
+    - Delivery Governance: delivery-governance/index.md
+    - Value-Driven Delivery: value-driven-delivery/index.md
+    - Agile Methodologies: agile-methodologies/index.md
+    - GenAI Adoption: genai-adoption/index.md
+    - Best Practices: best-practices/index.md
+    - Metrics & KPIs: metrics-kpis/index.md
+    - Transition: transition/index.md
+    - Quick Reference: quick-reference/index.md
+    - Appendix: appendix/index.md
   - Delivery Excellence:
     - Overview: delivery-excellence/index.md
     - Checklists:
@@ -113,6 +114,10 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
   - assets/javascripts/mermaid-init.js
+
+# Theme overrides
+overrides:
+  main.html: overrides/main.html
 
 # Markdown Extensions
 markdown_extensions:

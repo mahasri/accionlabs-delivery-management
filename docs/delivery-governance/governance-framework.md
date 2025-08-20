@@ -1,8 +1,8 @@
-# Review Process
+# Governance Framework
 
 ## Overview
 
-This section covers the review process and procedures.
+This section covers the governance framework and structure.
 
 ## Content
 
