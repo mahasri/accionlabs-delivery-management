@@ -66,16 +66,16 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.5px;
   border-bottom: 2px solid var(--accionlabs-accent);
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
+  padding-bottom: 0.25rem;
+  margin-bottom: 0.5rem;
 }
 
 .md-nav__link {
   color: var(--accionlabs-text);
   transition: var(--transition);
   border-radius: var(--border-radius);
-  padding: 0.5rem 0.75rem;
-  margin: 0.125rem 0;
+  padding: 0.25rem 0.75rem;
+  margin: 0.025rem 0;
 }
 
 .md-nav__link:hover {
@@ -90,6 +90,19 @@ body {
   background: linear-gradient(90deg, rgba(59, 130, 246, 0.1) 0%, transparent 100%);
   border-left: 3px solid var(--accionlabs-secondary);
   padding-left: 1rem;
+}
+
+/* Compact Navigation for Nested Items */
+.md-nav__item .md-nav__item .md-nav__link {
+  padding: 0.15rem 0.75rem;
+  margin: 0.01rem 0;
+  font-size: 0.95rem;
+}
+
+.md-nav__item .md-nav__item .md-nav__item .md-nav__link {
+  padding: 0.1rem 0.75rem;
+  margin: 0.005rem 0;
+  font-size: 0.9rem;
 }
 
 /* Enhanced Sidebar */
