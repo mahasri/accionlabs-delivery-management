@@ -1,7 +1,7 @@
 site_name: AccionLabs Delivery Management
 site_description: Comprehensive delivery management portal for AccionLabs - templates, checklists, dashboards, and governance tools
 site_author: AccionLabs PMO
-site_url: https://accionlabs.com/delivery-management
+# site_url: https://accionlabs.com/delivery-management
 
 # Repository
 repo_name: mahasri/accionlabs-delivery-management
