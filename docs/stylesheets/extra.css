@@ -92,17 +92,17 @@ body {
   padding-left: 1rem;
 }
 
-/* Compact Navigation for Nested Items */
+/* Uniform Font Size for All Navigation Items */
 .md-nav__item .md-nav__item .md-nav__link {
   padding: 0.15rem 0.75rem;
   margin: 0.01rem 0;
-  font-size: 0.95rem;
+  font-size: 1rem;
 }
 
 .md-nav__item .md-nav__item .md-nav__item .md-nav__link {
   padding: 0.1rem 0.75rem;
   margin: 0.005rem 0;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 /* Enhanced Sidebar */
