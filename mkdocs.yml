@@ -4,8 +4,9 @@ site_author: AccionLabs PMO
 site_url: https://accionlabs.com/delivery-management
 
 # Repository
-repo_name: accionlabs-delivery-management
-repo_url: https://github.com/accionlabs/accionlabs-delivery-management
+repo_name: mahasri/accionlabs-delivery-management
+repo_url: https://github.com/mahasri/accionlabs-delivery-management
+edit_uri: edit/main/docs/
 
 # Theme Configuration
 theme:
