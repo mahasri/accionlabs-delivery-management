@@ -62,7 +62,7 @@ body {
 .md-nav__title {
   color: var(--accionlabs-primary);
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   border-bottom: 2px solid var(--accionlabs-accent);
@@ -76,6 +76,7 @@ body {
   border-radius: var(--border-radius);
   padding: 0.25rem 0.75rem;
   margin: 0.025rem 0;
+  font-size: 0.95rem;
 }
 
 .md-nav__link:hover {
@@ -92,17 +93,17 @@ body {
   padding-left: 1rem;
 }
 
-/* Uniform Font Size for All Navigation Items */
+/* Hierarchical Font Sizes for Navigation Items */
 .md-nav__item .md-nav__item .md-nav__link {
   padding: 0.15rem 0.75rem;
   margin: 0.01rem 0;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .md-nav__item .md-nav__item .md-nav__item .md-nav__link {
   padding: 0.1rem 0.75rem;
   margin: 0.005rem 0;
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 
 /* Enhanced Sidebar */
