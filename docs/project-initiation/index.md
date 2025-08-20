@@ -36,19 +36,19 @@ The White-box Model approach is based on the following principles.
 - Offers a well-defined process with guidelines, checklists, tools, templates, etc
 - Structured and Repeatable processes right from the start
 
-![White Box Model](/accion-delivery-handbook/assets/media/image3.png)
+![White Box Model](../assets/media/image3.png)
 
 ## EDC Models
 
 The EDC models below are classified based on the level of involvement in software development between Accionlabs and the customer.
 
-![EDC Models](/accion-delivery-handbook/assets/media/image4.png)
+![EDC Models](../assets/media/image4.png)
 
 ## Typical EDC Delivery Organization
 
 Below is a representation of a typical Accionlabs EDC delivery model:
 
-![EDC Delivery Organization](/accion-delivery-handbook/assets/media/image5.png)
+![EDC Delivery Organization](../assets/media/image5.png)
 
 ### Leadership team
 
@@ -70,7 +70,7 @@ The core Center of Excellence team from Accionlabs with specialization in specif
 
 Based on the type of EDC model, the collaboration & communication with the customers vary. Our Accion team org structure is also defined based on the defined model.
 
-![Customer Collaboration Models](/accion-delivery-handbook/assets/media/image6.png)
+![Customer Collaboration Models](../assets/media/image6.png)
 
 ## EDC Phases
 

@@ -43,7 +43,7 @@ After a deep discussion and understanding with the sales team, the delivery team
 - Recommend and adapt to appropriate Agile scrum ceremonies and estimation techniques – Ask for training sessions if required for the team.
 - Plan for an EDC Kick-off meeting - send out the calendar invite to all stakeholders.
 
-![Transition Kickoff](/accion-delivery-handbook/assets/media/image7.png)
+![Transition Kickoff](../assets/media/image7.png)
 
 ---
 

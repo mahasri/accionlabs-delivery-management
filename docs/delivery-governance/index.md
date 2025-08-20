@@ -4,7 +4,7 @@
 
 Below image shares a snapshot of Governance activities at different stages and events and the owners involved
 
-<img src="/accion-delivery-handbook/assets/media/image24.png" style="width:5.00705in;height:6.94271in" />
+<img src="../assets/media/image24.png" style="width:5.00705in;height:6.94271in" />
 
 ### Planning & Requirements Stage:
 
@@ -62,7 +62,7 @@ Below image shares a snapshot of Governance activities at different stages and e
 
 The Accionlabs Governance Framework operates on a structured two-tier model that defines clear focus areas at each level:
 
-<img src="/accion-delivery-handbook/assets/media/image25.png" style="width:6.47396in;height:3.11824in" />
+<img src="../assets/media/image25.png" style="width:6.47396in;height:3.11824in" />
 
 #### Tier 1: Operational Monitoring (Regular Project Management)
 
@@ -93,7 +93,7 @@ The Value Board reviews focus on multiple dimensions of delivery effectiveness:
 - Architecture maturity and technical debt
 - ROI and business value metrics
 
-<img src="/accion-delivery-handbook/assets/media/image26.png" style="width:6.43229in;height:3.21615in" />
+<img src="../assets/media/image26.png" style="width:6.43229in;height:3.21615in" />
 
 Through regular program and technology reviews, the Value Board teams work with delivery leaders to evaluate the current state and recommend targeted improvements. These recommendations primarily focus on:
 

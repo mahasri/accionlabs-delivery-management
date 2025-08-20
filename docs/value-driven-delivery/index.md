@@ -8,7 +8,7 @@ Our Delivery Management approach is outlined to ensure our projects do not just 
 - Engage closely with customers and explore value opportunities.
 - Build strong relationships with customers by introducing regular feedback loops & collaboration.
 
-<img src="/accion-delivery-handbook/assets/media/image15.png" style="width:5.53646in;height:4.82597in" />
+<img src="../assets/media/image15.png" style="width:5.53646in;height:4.82597in" />
 
 ## Core Delivery Capabilities
 
@@ -75,13 +75,13 @@ Cultivating a "value creation" mindset is essential across all roles and functio
 
 ## AOOI (Accion Outcome-Oriented Innovation)
 
-<img src="/accion-delivery-handbook/assets/media/image16.png" style="width:6.5in;height:5.91667in" />
+<img src="../assets/media/image16.png" style="width:6.5in;height:5.91667in" />
 
 ## Value Mindset
 
 Here is the list of different value areas that are driven at all levels & roles involved in software delivery:
 
-<img src="/accion-delivery-handbook/assets/media/image17.png" style="width:5.51563in;height:5.45325in" />
+<img src="../assets/media/image17.png" style="width:5.51563in;height:5.45325in" />
 
 ### Scrum Team: Collaborative Execution
 

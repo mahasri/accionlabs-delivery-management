@@ -4,7 +4,7 @@
 
 The KAPS framework provides a comprehensive approach to enterprise GenAI transformation, integrating four key pillars: Knowledge, Analytics, Process, and Systems. This holistic framework enables organizations to leverage GenAI capabilities across their entire operational spectrum - from transforming unstructured content into actionable insights, to delivering data-driven analytics, optimizing business processes, and modernizing legacy systems.
 
-<img src="/accion-delivery-handbook/assets/media/image18.png" style="width:6.5in;height:4.25in" />
+<img src="../assets/media/image18.png" style="width:6.5in;height:4.25in" />
 
 By addressing both technological and operational dimensions, KAPS helps organizations systematically identify, implement, and scale GenAI solutions that drive tangible business value. The framework's integrated approach ensures that GenAI adoption aligns with enterprise objectives while maintaining a balanced focus on innovation and practical implementation.
 
@@ -45,7 +45,7 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 
 ### Key Focus Areas in SDLC
 
-<img src="/accion-delivery-handbook/assets/media/image19.png" style="width:6.5807in;height:3.73558in" />
+<img src="../assets/media/image19.png" style="width:6.5807in;height:3.73558in" />
 
 #### Core Development
 
@@ -106,7 +106,7 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 
 This system demonstrates our ability to seamlessly integrate GenAI with existing enterprise tools and workflows. Through various test management integration (supporting platforms like Jira, TestRail, XRAY, and PractiTest), middleware services, and LLM processing pipeline, this automation framework can significantly enhance testing efficiency and accuracy. The system processes test cases through carefully engineered prompts, generates appropriate test scripts, and manages the entire execution pipeline through to reporting.
 
-<img src="/accion-delivery-handbook/assets/media/image20.png" style="width:6.53793in;height:3.19271in" />
+<img src="../assets/media/image20.png" style="width:6.53793in;height:3.19271in" />
 
 ### GenAI Use Cases
 

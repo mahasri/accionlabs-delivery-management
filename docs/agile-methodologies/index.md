@@ -49,7 +49,7 @@ An effective Scrum Team will not have large gaps in the planned and final Sprint
 
 **Scrum Process Flow:**
 
-![Scrum Process Flow](/accion-delivery-handbook/assets/media/image21.png)
+![Scrum Process Flow](../assets/media/image21.png)
 
 - Scrum is a management framework for incremental product development using one or more cross-functional, self-organizing teams of about seven people each.
 - It provides a structure of roles, meetings, rules, and artefacts. Teams are responsible for creating and adapting their processes within this framework.
@@ -77,7 +77,7 @@ Scrum prescribes four formal events for inspection and adaptation, as described 
 - Sprint Review
 - Sprint Retrospective
 
-![Scrum Ceremonies](/accion-delivery-handbook/assets/media/image22.png)
+![Scrum Ceremonies](../assets/media/image22.png)
 
 *This stage produces the source code, executables, and test data. The programmers ensure that the coding standards are followed.*
 

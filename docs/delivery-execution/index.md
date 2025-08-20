@@ -26,7 +26,7 @@ Key activities include enterprise architecture assessment, solution architecture
 
 While the architecture design and experience design streams, and program planning are presented sequentially in this document, it's crucial to understand that Accion Labs employs an agile and iterative approach throughout the Innovation engineering lifecycle. This approach allows flexibility, continuous refinement, and the ability to adapt to changing requirements and emerging insights.
 
-![Innovation Engineering Lifecycle](/accion-delivery-handbook/assets/media/image11.png)
+![Innovation Engineering Lifecycle](../assets/media/image11.png)
 
 Key aspects of our agile approach include:
 
@@ -48,7 +48,7 @@ This agile approach ensures that while we establish a solid foundation through i
 
 Accion Labs recognizes that architecture design and UX design can and should be executed in parallel. This approach allows for independent yet collaborative work between technical consultants and design consultants and ensures that both technical excellence and user-centricity are achieved simultaneously.
 
-![Parallel Streams](/accion-delivery-handbook/assets/media/image12.png)
+![Parallel Streams](../assets/media/image12.png)
 
 ### Architecture Design Stream
 

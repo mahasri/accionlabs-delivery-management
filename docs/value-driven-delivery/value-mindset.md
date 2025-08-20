@@ -2,7 +2,7 @@
 
 <span class="mark">Here is the list of different value areas that are driven at all levels & roles involved in software delivery</span>
 
-<img src="/accion-delivery-handbook/assets/media/image17.png" style="width:5.51563in;height:5.45325in" />
+<img src="../assets/media/image17.png" style="width:5.51563in;height:5.45325in" />
 
 **Scrum Team: Collaborative Execution**
 
