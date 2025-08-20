@@ -49,8 +49,8 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
-  logo: assets/logo.png
-  favicon: assets/favicon.ico
+  logo: logo.png
+  favicon: favicon.ico
 
 # Navigation Structure
 nav:
@@ -121,7 +121,7 @@ extra_css:
 
 extra_javascript:
   - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
-  - assets/javascripts/mermaid-init.js
+  - javascripts/mermaid-init.js
 
 # Theme overrides
 # overrides:
