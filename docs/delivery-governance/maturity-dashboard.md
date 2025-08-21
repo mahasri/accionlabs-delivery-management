@@ -1,5 +1,4 @@
 # Delivery Maturity Dashboard
-
 ## 🎯 Maturity Assessment Framework
 
 <div class="grid" markdown>
