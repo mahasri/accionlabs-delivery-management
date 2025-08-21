@@ -1,123 +1,126 @@
-# Delivery Governance
+# Delivery Excellence
 
-## Governance Activities
+The AccionLabs Delivery Excellence Framework is our comprehensive approach to ensuring consistent, high-quality project delivery across all engagements. This framework provides structured methodologies, standardized processes, and proven best practices to maximize project success rates.
 
-Below image shares a snapshot of Governance activities at different stages and events and the owners involved
+## 🎯 Framework Overview
 
-<img src="../assets/media/image24.png" style="width:5.00705in;height:6.94271in" />
+Our Delivery Excellence Framework follows the natural flow of how delivery processes work at AccionLabs:
 
-### Planning & Requirements Stage:
+<div class="grid" markdown>
 
-- Understand the value chain and customer pain points for prioritizing blockers
-- Perform periodic risk analysis ([Template](https://docs.google.com/spreadsheets/d/1Xt8Z9B98tkysk-kZotXQzzq3PTWVenxE/edit?usp=sharing&ouid=117351193828184376313&rtpof=true&sd=true), [sample](https://docs.google.com/spreadsheets/d/1VP7guOWm0adeJf6SHjDjPdDK2KSNOZ8I/edit?usp=sharing&ouid=117351193828184376313&rtpof=true&sd=true))
-- Establish Process Governance like Jira Discipline, Git Version Management etc.
-- Plan Weekly/Bi-weekly/Monthly/QBR review cadence
-- Establish preventive and corrective action processes
-- Focus on delivery-led sales opportunities
-- Monitor and plan team resource allocation
+<div class="card" markdown>
 
-### Design & Development Stage:
+### 🚀 Induction Process
+Comprehensive onboarding process that ensures every team member is equipped for success from day one.
 
-- Track velocity/productivity using Azure DevOps, JIRA
-- Process checks – coding best practices, source control management
-- Conduct Scrum/Kanban ceremonies including Sprint Planning, Refinement, Retrospective etc.
-- Perform periodic quality checks
-- Foster Agile mindset through regular training
-- Timesheet submission/approvals
-- Include security audits and software development surveys
+[:octicons-arrow-right-24: View Process](induction-process.md)
 
-### Testing & Deployment Stage:
+</div>
 
-- Verify deployment process and CI/CD effectiveness
-- Track and publish release schedule variance
-- Benchmark productivity, quality, and process efficiency
-- Document lessons learned for QBR
-- Regular stakeholder updates (Weekly/Bi-weekly/Monthly/QBR)
+<div class="card" markdown>
 
-### Team & Performance Management:
+### 📊 QBR & MBR
+Strategic communication tools that provide stakeholders with comprehensive insights into project performance and progress.
 
-- Identify talent and upskilling opportunities
-- Team collaboration and recognition (Accion Ace awards, spotlight awards)
-- Encourage hackathon participation
-- Conduct regular one-on-ones and skip-level meetings
-- Submit relevant Training Request Forms to L&D team regularly
-- Identify non-performers and put them through PIP ([PIP Policy](https://accionglobal.sharepoint.com/sites/valueboard/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvalueboard%2FShared%20Documents%2FPIP%20Policy%2Epdf&parent=%2Fsites%2Fvalueboard%2FShared%20Documents))
-- Focus on billing optimization and gross margins
-- Monitor CSAT scores and customer delight
-- Interpersonal skill management: regular one-on-ones, business HR connecting with the team, skip-level meetings, and organizing fun and recreation activities
-- Monitor team movement and ensure the release of resources from the team is planned ahead
-- Track and publish the release schedule variance and take the necessary steps to bring it back on track in the bi-weekly or QBR reports
+[:octicons-arrow-right-24: View Reviews](qbr.md)
 
-### Delivery & Project Management
+</div>
 
-- Updating the stakeholders - [Weekly / Bi-weekly](https://accionglobal.sharepoint.com/:p:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7B1D785D87-8C1E-466E-9B2E-6DB1257B319C%7D&file=WSR%20Template%20V2.0.pptx&action=edit&mobileredirect=true) / Monthly / [QBR](https://accionglobal.sharepoint.com/:p:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7B51204C8D-07BE-43D1-A7AE-52661C504BF0%7D&file=QBR%20Template%20v0.5.pptx&action=edit&mobileredirect=true)
-- Establish and maintain preventive and corrective actions and processes
-- Timesheet submission/approvals [template](https://accionglobal.sharepoint.com/:x:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7BB655CC44-C3D6-4197-9E41-F8EAC80A9F0A%7D&file=Timesheet%20March%2722%20Template.xlsx&action=default&mobileredirect=true)
-- Focus on delivery-led sales. Look for opportunities to expand the team, arrange emerging tech workshops with the client sponsors/ key stakeholders, and develop trust to improve the CSAT
-- Focus on billing loss/revenue leak to improve the project/account gross margins
+<div class="card" markdown>
 
-## Accionlabs Value Board (AVB & PVB)
+### 🎯 Value Board Program
+Strategic governance framework that ensures delivery excellence and continuous improvement through specialized oversight.
 
-### Governance Framework
+[:octicons-arrow-right-24: View Program](value-board-program.md)
 
-The Accionlabs Governance Framework operates on a structured two-tier model that defines clear focus areas at each level:
+</div>
 
-<img src="../assets/media/image25.png" style="width:6.47396in;height:3.11824in" />
+<div class="card" markdown>
 
-#### Tier 1: Operational Monitoring (Regular Project Management)
+### 📋 Tools & Resources
+Comprehensive collection of checklists, guides, and templates to support every aspect of delivery excellence.
 
-Project teams maintain continuous oversight of delivery metrics and operational excellence through rigorous monitoring. This includes tracking sprint velocity, defect density, and rework efficiency metrics. Teams measure delivery maturity through DORA metrics - monitoring deployment frequency, lead time for changes, change failure rate, and time to restore service. Project health is assessed through team collaboration indicators like PR review efficiency, merge frequency, and QA automation coverage. Regular tracking of feature delivery and milestone achievements ensures projects stay on course while maintaining quality standards. This tier represents the fundamental day-to-day project management activities essential for successful delivery.
+[:octicons-arrow-right-24: Browse Resources](guides/index.md)
 
-#### Tier 2: Strategic Governance (Value Board)
+</div>
 
-The Value Board provides strategic oversight through two specialized units:
+</div>
 
-The Architecture Value Board (AVB) focuses exclusively on technical excellence through platform architecture assessment, design reviews, and code quality governance. AVB ensures architectural standards and innovation are consistently maintained across the organization's project portfolio through rigorous technical oversight and maturity evaluation. The review is conducted by the key architects and engineering heads of Accionlabs who are part of the core [AVB Team](https://docs.google.com/spreadsheets/d/11EQCWp_62JhTpxxPldP0wY02WjnKt9Rp5YDfZTGzVeA/edit?gid=0#gid=0)
+## 🔄 Delivery Process Flow
 
-The Program Value Board (PVB) oversees the broader aspects of delivery capabilities including process maturity, project management excellence, people capability development, and product knowledge management. PVB's comprehensive oversight extends to customer satisfaction tracking and continuous improvement initiatives, ensuring programmatic excellence across all non-technical aspects of delivery. The review is conducted by key delivery leaders along with the PMO team.
+Our Delivery Excellence Framework follows the natural progression of how projects are delivered at AccionLabs:
 
-This two-tier model establishes a clear hierarchy - with operational monitoring providing the foundation through day-to-day project management, while the Value Board drives strategic direction and governance at an organizational level. The framework enables Accionlabs to maintain high delivery standards and drive continuous improvement while keeping execution agile and efficient.
+### **1. 🚀 Induction Process**
+The foundation of successful delivery starts with comprehensive team onboarding. Our 5P Induction Process ensures every team member understands company culture, product knowledge, processes, people integration, and platform familiarization.
 
-Through this structured governance approach, the organization ensures consistent quality, innovation, and customer satisfaction across its accounts.
+### **2. 📊 QBR & MBR**
+Regular strategic communication through Quarterly Business Reviews (QBR) and Monthly Business Reviews (MBR) ensures transparency and stakeholder alignment throughout the project lifecycle.
 
-### Review Process
+### **3. 🎯 Value Board Program**
+Strategic governance through Architecture Value Board (AVB) and Program Value Board (PVB) provides specialized oversight for technical excellence and programmatic capabilities.
 
-Accionlabs Value Board operates as a comprehensive governance framework where Program Value Board, Architecture Value Board, and CoE/LOB/AIC teams collaborate with delivery teams to drive excellence and innovation.
+### **4. 📋 Tools & Resources**
+Comprehensive collection of checklists, guides, and templates supports every aspect of delivery excellence, ensuring consistency and quality across all projects.
 
-The Value Board reviews focus on multiple dimensions of delivery effectiveness:
+## 📚 Document Library
 
-- Process and skill maturity assessment
-- Customer and employee satisfaction tracking
-- Product knowledge and backlog health
-- Tools adoption and automation coverage
-- Architecture maturity and technical debt
-- ROI and business value metrics
+<div class="grid" markdown>
 
-<img src="../assets/media/image26.png" style="width:6.43229in;height:3.21615in" />
+<div class="card" markdown>
 
-Through regular program and technology reviews, the Value Board teams work with delivery leaders to evaluate the current state and recommend targeted improvements. These recommendations primarily focus on:
+### 📋 Checklists
+Comprehensive checklists for every phase of project delivery, ensuring nothing is missed and quality standards are maintained.
 
-- Enhancing delivery productivity
-- Improving quality metrics
-- Optimizing delivery speed
-- Driving automation adoption
-- Exploring GenAI opportunities
-- Streamlining processes
+[:octicons-arrow-right-24: View Checklists](checklists/index.md)
 
-#### Review Outcome
+</div>
 
-The review outcomes generate specific action items at two levels:
+<div class="card" markdown>
 
-**Team Level:**
-- Immediate process improvements
-- Skill development recommendations
-- Tool adoption guidance
+### 📄 Templates
+Ready-to-use templates for all key deliverables, ensuring consistency and reducing preparation time.
 
-**Organizational Level:**
-- Strategic initiatives
-- Best practice sharing
-- Cross-team collaboration opportunities
+[:octicons-arrow-right-24: Browse Templates](templates/index.md)
+
+</div>
+
+<div class="card" markdown>
+
+### 👥 Guides
+Comprehensive guides for team management, leadership, and performance improvement.
+
+[:octicons-arrow-right-24: View Guides](guides/index.md)
+
+</div>
+
+</div>
+
+## 🎯 Key Success Factors
+
+### **Process Excellence**
+- Standardized methodologies and best practices
+- Continuous improvement and optimization
+- Quality assurance and control measures
+- Risk management and mitigation strategies
+
+### **Team Excellence**
+- Comprehensive onboarding and training
+- Clear roles and responsibilities
+- Effective communication and collaboration
+- Performance monitoring and feedback
+
+### **Technical Excellence**
+- Architecture and design standards
+- Code quality and review processes
+- Testing and quality assurance
+- Security and compliance measures
+
+### **Customer Excellence**
+- Stakeholder engagement and communication
+- Regular progress reporting and updates
+- Issue resolution and escalation processes
+- Customer satisfaction and feedback management
 
 ---
 
-*Previous: [Metrics & KPIs ←](../metrics-kpis/)* | *Next: [Best Practices →](../best-practices/)*
+*This framework ensures consistent, high-quality delivery across all AccionLabs engagements while maintaining flexibility to adapt to specific project requirements and client needs.*
