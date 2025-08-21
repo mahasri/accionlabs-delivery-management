@@ -31,6 +31,21 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
 - Database models and system architecture
 - Integration points and APIs
 
+## 📊 View Report
+
+<div class="grid">
+
+<div class="card">
+
+### 📈 Induction Dashboard
+Access the real-time Induction Process Dashboard for current metrics and performance data.
+
+[:octicons-link-external-24: View Report](https://lookerstudio.google.com/s/j5NP0tcWUO0){: .md-button .md-button--primary target="_blank"}
+
+</div>
+
+</div>
+
 ## Download Resources
 
 <div class="download-section">
