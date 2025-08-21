@@ -1,13 +1,12 @@
 # Delivery Maturity Dashboard
 
-This comprehensive dashboard provides real-time visibility into delivery maturity across all projects and programs. Use this dashboard to track maturity metrics, identify improvement opportunities, and drive continuous excellence in delivery.
+This comprehensive dashboard provides real-time visibility into delivery maturity across all projects and programs.
 
 ## 📊 Dashboard Overview
 
 **Purpose**: Monitor and track delivery maturity across all projects and programs
-**Update Frequency**: Real-time with daily, weekly, and monthly reporting cycles
+**Update Frequency**: Quarterly
 **Audience**: Delivery teams, project managers, governance teams, executive leadership
-**Format**: Interactive dashboard with drill-down capabilities
 
 ## 🎯 Maturity Assessment Framework
 
