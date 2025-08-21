@@ -2,6 +2,10 @@
 
 This document defines the Program Value Board (PVB) Review Team structure, roles, responsibilities, and operational framework for effective program governance and value delivery oversight.
 
+## 📊 Team Dashboard
+
+[View PVB Team](pvb-team-tracker.html){: .md-button .md-button--primary target="_blank"}
+
 ## 👥 Team Structure Overview
 
 **Purpose**: Provide structured governance oversight for program value delivery

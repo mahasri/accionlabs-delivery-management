@@ -54,13 +54,7 @@ The Quarterly Business Review (QBR) is a strategic communication tool that provi
     <div class="download-card">
         <h3>📋 QBR Template</h3>
         <p>Comprehensive Quarterly Business Review template</p>
-        <a href="templates/qbr/" class="download-button">Download Template</a>
-    </div>
-    
-    <div class="download-card">
-        <h3>📊 QBR Presentation</h3>
-        <p>PowerPoint template for QBR presentations</p>
-        <a href="templates/qbr/" class="download-button">Download Presentation</a>
+        <a href="https://tinyurl.com/QBRTempp" class="download-button" target="_blank">Download Template</a>
     </div>
 </div>
 

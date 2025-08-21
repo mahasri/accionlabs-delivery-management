@@ -2,6 +2,16 @@
 
 This comprehensive checklist provides structured criteria for technical decisions and architecture reviews. Use this checklist to ensure thorough technical assessment and consistent review quality.
 
+## 📥 Download Resources
+
+<div class="download-section">
+    <div class="download-card">
+        <h3>📋 Architecture Review Template</h3>
+        <p>Comprehensive architecture review template and guidelines</p>
+        <a href="https://tinyurl.com/Architecture-Review" class="download-button" target="_blank">Download Template</a>
+    </div>
+</div>
+
 ## 📋 Checklist Overview
 
 **Purpose**: Ensure comprehensive technical assessment and consistent review quality

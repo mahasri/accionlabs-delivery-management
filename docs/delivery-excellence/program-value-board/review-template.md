@@ -2,6 +2,16 @@
 
 This comprehensive template provides structured review frameworks and assessment criteria for program governance. Use this template to ensure consistent and thorough program reviews.
 
+## 📥 Download Resources
+
+<div class="download-section">
+    <div class="download-card">
+        <h3>📋 PVB Review Checklist</h3>
+        <p>Comprehensive Program Value Board review checklist and template</p>
+        <a href="https://tinyurl.com/pvbreview" class="download-button" target="_blank">Download Checklist</a>
+    </div>
+</div>
+
 ## 📋 Template Overview
 
 **Purpose**: Provide structured program review and assessment framework

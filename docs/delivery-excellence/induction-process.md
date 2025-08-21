@@ -31,20 +31,7 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
 - Database models and system architecture
 - Integration points and APIs
 
-## 📊 View Report
 
-<div class="grid">
-
-<div class="card">
-
-### 📈 Induction Dashboard
-Access the real-time Induction Process Dashboard for current metrics and performance data.
-
-[:octicons-link-external-24: View Report](https://lookerstudio.google.com/s/j5NP0tcWUO0){: .md-button .md-button--primary target="_blank"}
-
-</div>
-
-</div>
 
 ## Download Resources
 
@@ -52,19 +39,19 @@ Access the real-time Induction Process Dashboard for current metrics and perform
     <div class="download-card">
         <h3>📋 5P Induction Guide</h3>
         <p>Complete induction guide with detailed onboarding process</p>
-        <a href="guides/induction-guide/" class="download-button">View Guide</a>
+        <a href="https://tinyurl.com/Induction-Guide" class="download-button" target="_blank">Download Guide</a>
     </div>
     
     <div class="download-card">
         <h3>🚀 Kick-off Template Sample</h3>
         <p>Template for project kick-off meetings and planning</p>
-        <a href="templates/project-kickoff-template-sample/" class="download-button">Download Template</a>
+        <a href="https://tinyurl.com/kickoffsample" class="download-button" target="_blank">Download Template</a>
     </div>
     
     <div class="download-card">
         <h3>✅ EDC Checklist</h3>
         <p>Essential delivery checklist for project execution</p>
-        <a href="checklists/edc/" class="download-button">Download Checklist</a>
+        <a href="https://tinyurl.com/EDC-checklist" class="download-button" target="_blank">Download Checklist</a>
     </div>
 </div>
 

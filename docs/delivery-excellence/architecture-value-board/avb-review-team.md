@@ -1,5 +1,9 @@
 # AVB Review Team
 
+## 📊 Team Dashboard
+
+[View AVB Team](avb-team-tracker.html){: .md-button .md-button--primary target="_blank"}
+
 This document defines the technical review team composition, roles, and responsibilities for the Architecture Value Board (AVB). Use this structure to ensure effective technical governance and decision-making.
 
 ## 📋 Team Overview
