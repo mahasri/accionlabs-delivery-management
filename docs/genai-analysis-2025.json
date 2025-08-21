@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "title": "GenAI Analysis Q1 2025 - Source Verified Data Only",
+    "lastUpdated": "2025-08-21",
+    "dataSource": "Q1 Projects GenAI.xlsx",
+    "verificationMethod": "Direct source extraction",
+    "confidenceLevel": "High for quantified metrics"
+  },
+  "summary": {
+    "totalAccounts": 24,
+    "accountsWithQuantifiedResults": 6,
+    "verifiedTools": 7,
+    "dataLimitations": "Self-reported metrics, projections marked separately"
+  },
+  "verifiedProductivity": [
+    {
+      "account": "HID Global Corporation",
+      "improvement": 50,
+      "tool": "Continue tool",
+      "category": "Code generation",
+      "status": "Achieved",
+      "source": "Sheet1 direct data",
+      "confidence": "High"
+    },
+    {
+      "account": "RL Datix", 
+      "improvement": 40,
+      "tool": "Local LLMs",
+      "category": "Code generation",
+      "status": "Achieved",
+      "source": "Sheet1 direct data",
+      "confidence": "High"
+    },
+    {
+      "account": "ZUUM Transportation",
+      "improvement": 30,
+      "tool": "RAG systems", 
+      "category": "Knowledge analysis",
+      "status": "Achieved",
+      "source": "Sheet1 direct data",
+      "confidence": "High"
+    },
+    {
+      "account": "Wolters Kluwer",
+      "improvement": 17.5,
+      "tool": "GenAI database operations",
+      "category": "Data operations", 
+      "status": "Achieved",
+      "source": "Sheet1 direct data",
+      "confidence": "High"
+    },
+    {
+      "account": "Rambo Project",
+      "improvement": 18,
+      "tool": "GitHub Copilot",
+      "category": "Development velocity",
+      "status": "Achieved", 
+      "source": "Ref sheet verification",
+      "confidence": "High"
+    },
+    {
+      "account": "Maverick Project",
+      "improvement": 25,
+      "tool": "Cursor",
+      "category": "Development efficiency",
+      "status": "Expected/Projected",
+      "source": "Ref sheet - 'Expecting 25%'",
+      "confidence": "Medium - projection"
+    }
+  ],
+  "verifiedToolAdoption": [
+    {
+      "tool": "GitHub Copilot",
+      "verifiedAccounts": 4,
+      "accountNames": ["Everbridge Inc", "MoneyDue", "Riskonnect Inc", "Rambo Project"],
+      "primaryUse": "Code generation, refactoring",
+      "evidenceLevel": "Direct mentions"
+    },
+    {
+      "tool": "Cursor", 
+      "verifiedAccounts": 4,
+      "accountNames": ["Everbridge Inc", "Extreme Reach", "Maverick Project"],
+      "primaryUse": "Code generation",
+      "evidenceLevel": "Direct mentions"
+    },
+    {
+      "tool": "Continue",
+      "verifiedAccounts": 2, 
+      "accountNames": ["HID Global Corporation"],
+      "primaryUse": "Code generation",
+      "evidenceLevel": "Direct mentions with results"
+    },
+    {
+      "tool": "Local LLMs",
+      "verifiedAccounts": 3,
+      "accountNames": ["RL Datix", "Daybreak/Noodle"],
+      "primaryUse": "Code generation, test scripts",
+      "evidenceLevel": "Direct mentions with results"
+    },
+    {
+      "tool": "RAG Systems",
+      "verifiedAccounts": 3,
+      "accountNames": ["ZUUM Transportation", "Daybreak/Noodle"],
+      "primaryUse": "Knowledge base analysis, code repo analysis", 
+      "evidenceLevel": "Direct mentions with results"
+    },
+    {
+      "tool": "Accion Solution",
+      "verifiedAccounts": 1,
+      "accountNames": ["Rambo Project"],
+      "primaryUse": "QA testing",
+      "evidenceLevel": "Project sheet mention"
+    },
+    {
+      "tool": "Breeze AI QE",
+      "verifiedAccounts": 1,
+      "accountNames": ["Extreme Reach"],
+      "primaryUse": "Quality engineering", 
+      "evidenceLevel": "60% adoption rate mentioned"
+    }
+  ],
+  "accountPortfolio": [
+    {
+      "account": "Affinius Capital",
+      "initiatives": "Internal GenAI training sessions, AI-based BI testing",
+      "evidence": "Training program documentation",
+      "category": "Training & Testing"
+    },
+    {
+      "account": "Everbridge Inc",
+      "initiatives": "GitHub Copilot, Cursor, AI/LLM VCC integration",
+      "evidence": "Multiple tool mentions",
+      "category": "Development & Security"
+    },
+    {
+      "account": "Extreme Reach", 
+      "initiatives": "Cursor, Breeze AI QE (60% adoption)",
+      "evidence": "Tool usage with adoption metrics",
+      "category": "Development & QA"
+    },
+    {
+      "account": "HID Global Corporation",
+      "initiatives": "Continue tool (50% productivity gain)",
+      "evidence": "Quantified productivity improvement",
+      "category": "High-impact Development"
+    },
+    {
+      "account": "MoneyDue",
+      "initiatives": "In-house LLM, GitHub Copilot",
+      "evidence": "Custom LLM development mentioned",
+      "category": "Financial AI Solutions"
+    },
+    {
+      "account": "Daybreak/Noodle",
+      "initiatives": "Local LLMs, RAG agents (60% QE adoption)",
+      "evidence": "Multiple AI technologies with metrics",
+      "category": "Advanced AI Integration"
+    }
+  ],
+  "useCaseVerification": [
+    {
+      "category": "Code Generation & Development",
+      "verifiedAccounts": 8,
+      "tools": ["GitHub Copilot", "Cursor", "Continue", "Local LLMs"],
+      "impactRange": "18-50%",
+      "evidenceLevel": "High - multiple quantified results"
+    },
+    {
+      "category": "AI-Powered Testing & QA", 
+      "verifiedAccounts": 3,
+      "tools": ["Accion Labs", "Breeze AI QE", "Local LLMs"],
+      "impactRange": "60% adoption rates",
+      "evidenceLevel": "Medium - adoption metrics provided"
+    },
+    {
+      "category": "Knowledge Management",
+      "verifiedAccounts": 3,
+      "tools": ["RAG systems"],
+      "impactRange": "30% productivity",
+      "evidenceLevel": "High - quantified result"
+    },
+    {
+      "category": "Training & Skill Development",
+      "verifiedAccounts": 1,
+      "tools": ["Training programs"],
+      "impactRange": "Upskilling mentioned",
+      "evidenceLevel": "Medium - program mentioned"
+    }
+  ],
+  "dataQualityAssessment": {
+    "highConfidenceMetrics": [
+      "HID Global 50% improvement",
+      "RL Datix 40% improvement", 
+      "ZUUM 30% improvement",
+      "Wolters Kluwer 15-20% improvement"
+    ],
+    "mediumConfidenceMetrics": [
+      "Tool adoption counts",
+      "Account categorizations",
+      "Maverick 25% expectation"
+    ],
+    "limitations": [
+      "Self-reported productivity metrics",
+      "No independent verification of improvements",
+      "Limited workflow integration details",
+      "Projections mixed with achievements"
+    ],
+    "recommendations": [
+      "Implement standardized ROI measurement",
+      "Conduct independent productivity audits", 
+      "Develop detailed workflow integration analysis",
+      "Separate achieved vs projected metrics clearly"
+    ]
+  },
+  "chartData": {
+    "productivityChart": {
+      "type": "bar",
+      "data": [
+        {"account": "HID Global", "improvement": 50, "status": "Achieved"},
+        {"account": "RL Datix", "improvement": 40, "status": "Achieved"},
+        {"account": "ZUUM Transportation", "improvement": 30, "status": "Achieved"},
+        {"account": "Maverick", "improvement": 25, "status": "Expected"},
+        {"account": "Rambo", "improvement": 18, "status": "Achieved"},
+        {"account": "Wolters Kluwer", "improvement": 17.5, "status": "Achieved"}
+      ]
+    },
+    "toolAdoptionChart": {
+      "type": "pie", 
+      "data": [
+        {"tool": "GitHub Copilot", "accounts": 4},
+        {"tool": "Cursor", "accounts": 4},
+        {"tool": "Local LLMs", "accounts": 3},
+        {"tool": "RAG Systems", "accounts": 3},
+        {"tool": "Continue", "accounts": 2},
+        {"tool": "Accion/Breeze AI", "accounts": 2}
+      ]
+    }
+  }
+}

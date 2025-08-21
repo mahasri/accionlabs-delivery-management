@@ -1,29 +1,29 @@
-# Induction Checklist
+# Induction Guide
 
 ## Download
 
-**[Download Induction Checklist](https://tinyurl.com/Induction-Guide)**
+**[Download Induction Guide](https://tinyurl.com/Induction-Guide)**
 
 ## Overview
 
-A comprehensive induction checklist that covers the complete onboarding process for new team members, including company overview, role-specific training, and application-specific knowledge transfer. This checklist ensures smooth integration of new resources into project teams.
+A comprehensive induction guide that covers the complete onboarding process for new team members, including company overview, role-specific training, and application-specific knowledge transfer. This guide ensures smooth integration of new resources into project teams.
 
 ## Purpose
 
-The induction checklist serves as a structured guide to ensure all new team members receive consistent, comprehensive onboarding that covers company policies, project-specific knowledge, and role-specific training. It helps reduce ramp-up time and ensures quality delivery from day one.
+The induction guide serves as a structured guide to ensure all new team members receive consistent, comprehensive onboarding that covers company policies, project-specific knowledge, and role-specific training. It helps reduce ramp-up time and ensures quality delivery from day one.
 
 ## Template Structure
 
-Based on the actual induction checklist content, here's what you'll find:
+Based on the actual induction guide content, here's what you'll find:
 
-### 🏢 **5P Induction Checklist**
+### 🏢 **5P Induction Guide**
 - **Company Overview**: Introduction to company culture, values, and policies
 - **Product Knowledge**: Understanding of the product/service being developed
 - **Process Training**: SDLC processes, tools, and methodologies
 - **People Integration**: Team introductions and collaboration practices
 - **Platform Familiarization**: Technical stack and development environment
 
-### ⚙️ **Setup Checklist**
+### ⚙️ **Setup Guide**
 - **Resource Provisioning**: Access to tools, systems, and repositories
 - **Documentation**: JD/role descriptions and project documentation
 - **Environment Setup**: Development, testing, and deployment environments
@@ -52,7 +52,7 @@ Based on the actual induction checklist content, here's what you'll find:
 - **Environment Setup**: Configure development and testing environments
 
 ### **Induction Execution**
-- **Structured Approach**: Follow the checklist systematically for consistency
+- **Structured Approach**: Follow the guide systematically for consistency
 - **Role-Specific Training**: Customize training based on individual roles
 - **Hands-on Practice**: Include practical exercises and real project work
 - **Regular Check-ins**: Monitor progress and address any blockers

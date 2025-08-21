@@ -4,45 +4,63 @@ The AccionLabs Delivery Excellence Framework is our comprehensive approach to en
 
 ## 🎯 Framework Overview
 
-Our Delivery Excellence Framework is built on four core pillars:
+Our Delivery Excellence Framework follows the natural flow of how delivery processes work at AccionLabs:
 
 <div class="grid" markdown>
 
 <div class="card" markdown>
 
-### 📋 Structured Checklists
-Comprehensive checklists for every phase of project delivery, ensuring nothing is missed and quality standards are maintained.
+### 🚀 Induction Process
+Comprehensive onboarding process that ensures every team member is equipped for success from day one.
 
-[:octicons-arrow-right-24: View Checklists](checklists/)
-
-</div>
-
-<div class="card" markdown>
-
-### 📄 Standardized Templates
-Ready-to-use templates for all key deliverables, ensuring consistency and reducing preparation time.
-
-[:octicons-arrow-right-24: Browse Templates](templates/)
+[:octicons-arrow-right-24: View Process](induction-process.md)
 
 </div>
 
 <div class="card" markdown>
 
-### 👥 Team Management
-Comprehensive guides for team management, leadership, and performance improvement.
+### 📊 QBR & MBR
+Strategic communication tools that provide stakeholders with comprehensive insights into project performance and progress.
 
-[:octicons-arrow-right-24: View Guides](guides/)
+[:octicons-arrow-right-24: View Reviews](qbr.md)
 
 </div>
 
 <div class="card" markdown>
 
-### 📊 Performance Management
-Continuous monitoring and improvement processes to track delivery performance and identify optimization opportunities.
+### 🎯 Value Board Program
+Strategic governance framework that ensures delivery excellence and continuous improvement through specialized oversight.
+
+[:octicons-arrow-right-24: View Program](value-board-program.md)
+
+</div>
+
+<div class="card" markdown>
+
+### 📋 Tools & Resources
+Comprehensive collection of checklists, guides, and templates to support every aspect of delivery excellence.
+
+[:octicons-arrow-right-24: Browse Resources](guides/)
 
 </div>
 
 </div>
+
+## 🔄 Delivery Process Flow
+
+Our Delivery Excellence Framework follows the natural progression of how projects are delivered at AccionLabs:
+
+### **1. 🚀 Induction Process**
+The foundation of successful delivery starts with comprehensive team onboarding. Our 5P Induction Process ensures every team member understands company culture, product knowledge, processes, people integration, and platform familiarization.
+
+### **2. 📊 QBR & MBR**
+Regular strategic communication through Quarterly Business Reviews (QBR) and Monthly Business Reviews (MBR) ensures transparency and stakeholder alignment throughout the project lifecycle.
+
+### **3. 🎯 Value Board Program**
+Strategic governance through Architecture Value Board (AVB) and Program Value Board (PVB) provides specialized oversight for technical excellence and programmatic capabilities.
+
+### **4. 📋 Tools & Resources**
+Comprehensive collection of checklists, guides, and templates supports every aspect of delivery excellence, ensuring consistency and quality across all projects.
 
 ## 📚 Document Library
 
@@ -53,7 +71,7 @@ Our comprehensive document library provides access to all delivery excellence re
 Essential verification tools to ensure quality and completeness at every project phase:
 
 - **[EDC Checklist](checklists/edc.md)** - Enterprise Data Center infrastructure requirements
-- **[Induction](checklists/induction.md)** - New team member onboarding
+- **[Induction Guide](guides/induction-guide.md)** - New team member onboarding
 - **[All Is Well Report Requirements](checklists/all-is-well-report-requirements.md)** - Project closure verification
 - **[Architecture & Development Review](checklists/architecture-development-review.md)** - Technical excellence review
 - **[Release Checklist](checklists/release-checklist.md)** - Production deployment preparation
@@ -121,7 +139,7 @@ Our Delivery Excellence Framework is continuously measured and improved through:
 Our comprehensive checklist system covers every phase of project delivery:
 
 - **[EDC Checklist](checklists/edc.md)** - Enterprise Data Center infrastructure requirements
-- **[Induction Checklist](checklists/induction.md)** - New team member onboarding
+- **[Induction Guide](guides/induction-guide.md)** - New team member onboarding
 - **[All Is Well Report Requirements](checklists/all-is-well-report-requirements.md)** - Project closure verification
 - **[Architecture & Development Review](checklists/architecture-development-review.md)** - Technical excellence review
 - **[Release Checklist](checklists/release-checklist.md)** - Production deployment preparation
@@ -144,14 +162,93 @@ Comprehensive resources for team leadership and management:
 - **[PIP Policy](guides/pip-policy.md)** - Performance improvement plan procedures
 - **[Disaster Management - DR Approach](guides/disaster-management-dr-approach.md)** - Business continuity planning
 
+## 🤖 GenAI Excellence Dashboard
+
+Our GenAI capabilities represent a significant advancement in delivery excellence, with verified productivity improvements across multiple client engagements.
+
+<div class="grid" markdown>
+
+<div class="card" markdown>
+
+### 📊 GenAI Performance Metrics
+**24 client accounts** with documented GenAI initiatives, **6 accounts with verified productivity improvements** ranging from 15-50%.
+
+[:octicons-arrow-right-24: View GenAI Dashboard](../genai-adoption/genai-dashboard-2025.html){: .md-button .md-button--primary target="_blank"}
+
+</div>
+
+<div class="card" markdown>
+
+### 🛠️ GenAI Tools in SDLC
+**7 verified GenAI tools** integrated across the software development lifecycle:
+- GitHub Copilot, Cursor, Continue
+- Local LLMs, RAG Systems
+- Accion Solution, Breeze AI QE
+
+</div>
+
+<div class="card" markdown>
+
+### 🎯 Customer Success Stories
+**Verified productivity improvements**:
+- HID Global: 50% improvement (Continue tool)
+- RL Datix: 40% improvement (Local LLMs)
+- ZUUM Transportation: 30% improvement (RAG systems)
+
+</div>
+
+<div class="card" markdown>
+
+### ⚡ Workflow Automation
+**AI-powered automation** across development processes:
+- Code generation & review
+- Test case generation & execution
+- Documentation creation & maintenance
+- Knowledge base search & analysis
+
+</div>
+
+</div>
+
+### 📈 GenAI Implementation Success
+
+Our GenAI initiatives have demonstrated measurable impact across multiple dimensions:
+
+| **Metric** | **Value** | **Source** |
+|------------|-----------|------------|
+| **Total Client Accounts** | 24 | Verified project data |
+| **Accounts with Quantified Results** | 6 | Direct productivity metrics |
+| **Productivity Improvement Range** | 15-50% | Verified account results |
+| **Tool Adoption Rate** | 60% (QE) | Extreme Reach, Daybreak/Noodle |
+| **Code Quality Improvement** | 40% to 65% | Maverick Project metrics |
+
+### 🎯 GenAI Use Cases by Industry
+
+**Financial Services**: MoneyDue - In-house LLM for financial planning
+**Healthcare**: RL Datix - Local LLMs for healthcare data analysis  
+**Transportation**: ZUUM - RAG systems for knowledge management
+**Legal**: Wolters Kluwer - GenAI database operations
+**Security**: HID Global - Continue tool for access control systems
+
+### 📋 GenAI Best Practices
+
+1. **Tool Selection**: Choose tools based on specific use case requirements
+2. **Integration Planning**: Ensure seamless SDLC integration
+3. **Training & Adoption**: Provide comprehensive team training
+4. **Performance Monitoring**: Track productivity improvements
+5. **Quality Assurance**: Maintain code quality standards with AI assistance
+
+---
+
 ## 🎯 Getting Started
 
 ### For New Team Members
 
-1. **Complete Induction**: Follow the [Induction Checklist](checklists/induction.md)
+1. **Complete Induction**: Follow the [Induction Guide](guides/induction-guide.md)
 2. **Review Checklists**: Familiarize yourself with relevant checklists
 3. **Download Templates**: Access templates for your project type
 4. **Attend Training**: Participate in framework training sessions
+5. **Explore GenAI Tools**: Review [GenAI Dashboard](../genai-adoption/genai-dashboard-2025.html) for capabilities
 
 ### For Project Managers
 
@@ -159,6 +256,7 @@ Comprehensive resources for team leadership and management:
 2. **Customize Templates**: Adapt templates to project-specific requirements
 3. **Implement Checklists**: Use relevant checklists throughout project lifecycle
 4. **Monitor Performance**: Regular review and improvement cycles
+5. **Evaluate GenAI Integration**: Assess GenAI tool opportunities for project efficiency
 
 ### For Delivery Leaders
 
@@ -166,3 +264,4 @@ Comprehensive resources for team leadership and management:
 2. **Performance Monitoring**: Track framework effectiveness metrics
 3. **Continuous Improvement**: Lead framework enhancement initiatives
 4. **Knowledge Sharing**: Facilitate best practice sharing across teams
+5. **GenAI Strategy**: Drive GenAI adoption and capability development

@@ -55,7 +55,6 @@ theme:
 
 # Navigation Structure
 nav:
-  - Home: index.md
   - Delivery Handbook:
     - Introduction: introduction/index.md
     - Project Initiation: project-initiation/index.md
@@ -67,6 +66,7 @@ nav:
     - SDLC - Managed Services: delivery-execution/sdlc-managed-services/index.md
     - Value-Driven Delivery: value-driven-delivery/index.md
     - GenAI Adoption: genai-adoption/index.md
+    - GenAI Statistics Report: genai-adoption/genai-statistics-report.md
     - Agile Methodologies: agile-methodologies/index.md
     - Best Practices:
       - Overview: best-practices/index.md
@@ -79,14 +79,16 @@ nav:
     - Metrics & KPIs: metrics-kpis/index.md
   - Delivery Excellence:
     - Overview: delivery-excellence/index.md
-    - Checklists:
-      - Overview: delivery-excellence/checklists/index.md
-      - EDC Checklist: delivery-excellence/checklists/edc.md
-      - Induction: delivery-excellence/checklists/induction.md
-      - All Is Well Report Requirements: delivery-excellence/checklists/all-is-well-report-requirements.md
-      - Architecture & Development Review: delivery-excellence/checklists/architecture-development-review.md
-      - Release Checklist: delivery-excellence/checklists/release-checklist.md
+    - Induction Process: delivery-excellence/induction-process.md
+    - QBR: delivery-excellence/qbr.md
+    - Bi-weekly/MBR: delivery-excellence/bi-weekly-mbr.md
+    - Value Board Program: delivery-excellence/value-board-program.md
+    - Architecture Value Board: delivery-governance/architecture-value-board/index.md
+    - Program Value Board: delivery-governance/program-value-board/index.md
+    - Maturity Dashboard: delivery-governance/maturity-dashboard.md
+    - GenAI Adoption Report: genai-adoption/genai-adoption-report.md
     - Guides:
+      - Induction Guide: delivery-excellence/guides/induction-guide.md
       - Disaster Management - DR Approach: delivery-excellence/guides/disaster-management-dr-approach.md
       - Manager Handbook By HR: delivery-excellence/guides/manager-handbook-by-hr.md
       - PIP Policy: delivery-excellence/guides/pip-policy.md
@@ -106,23 +108,13 @@ nav:
       - Requirement Traceability Matrix: delivery-excellence/templates/requirement-traceability-matrix.md
       - Risk Register: delivery-excellence/templates/risk-register.md
       - Timesheet Document: delivery-excellence/templates/timesheet-document.md
-  - Value Board Governance Program:
-    - Overview: delivery-governance/index.md
-    - Maturity Dashboard: delivery-governance/maturity-dashboard.md
-    - Review Process: delivery-governance/review-process.md
-    - Architecture Value Board:
-      - Overview: delivery-governance/architecture-value-board/index.md
-      - Tools & Technologies: delivery-governance/architecture-value-board/tools-technologies.md
-      - Review Checklist: delivery-governance/architecture-value-board/review-checklist.md
-      - Best Practices: delivery-governance/architecture-value-board/best-practices.md
-      - Schedule: delivery-governance/architecture-value-board/schedule.md
-      - Review Team: delivery-governance/architecture-value-board/avb-review-team.md
-    - Program Value Board:
-      - Overview: delivery-governance/program-value-board/index.md
-      - Process Metrics: delivery-governance/program-value-board/process-metrics.md
-      - Review Template: delivery-governance/program-value-board/review-template.md
-      - Best Practices: delivery-governance/program-value-board/best-practices.md
-      - Review Team: delivery-governance/program-value-board/pvb-review-team.md
+    - Checklists:
+      - Overview: delivery-excellence/checklists/index.md
+      - EDC Checklist: delivery-excellence/checklists/edc.md
+      - All Is Well Report Requirements: delivery-excellence/checklists/all-is-well-report-requirements.md
+      - Architecture & Development Review: delivery-excellence/checklists/architecture-development-review.md
+      - Release Checklist: delivery-excellence/checklists/release-checklist.md
+
 
 
 # Plugins

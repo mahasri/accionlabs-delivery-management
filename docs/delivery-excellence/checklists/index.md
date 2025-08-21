@@ -30,10 +30,10 @@ Comprehensive guide for successful project launch and team alignment.
 
 <div class="card" markdown>
 
-### 👥 Induction Checklist
+### 👥 Induction Guide
 Structured onboarding process for new team members joining active projects.
 
-[:octicons-arrow-right-24: View Checklist](induction.md)
+[:octicons-arrow-right-24: View Guide](../guides/induction-guide.md)
 
 **Use When**: New team member joins project or team
 
