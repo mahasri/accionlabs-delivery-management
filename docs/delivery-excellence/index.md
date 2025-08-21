@@ -1,267 +1,123 @@
-# Delivery Excellence Framework
+# Delivery Governance
 
-The AccionLabs Delivery Excellence Framework is our comprehensive approach to ensuring consistent, high-quality project delivery across all engagements. This framework provides structured methodologies, standardized processes, and proven best practices to maximize project success rates.
+## Governance Activities
 
-## 🎯 Framework Overview
+Below image shares a snapshot of Governance activities at different stages and events and the owners involved
 
-Our Delivery Excellence Framework follows the natural flow of how delivery processes work at AccionLabs:
+<img src="../assets/media/image24.png" style="width:5.00705in;height:6.94271in" />
 
-<div class="grid" markdown>
+### Planning & Requirements Stage:
 
-<div class="card" markdown>
+- Understand the value chain and customer pain points for prioritizing blockers
+- Perform periodic risk analysis ([Template](https://docs.google.com/spreadsheets/d/1Xt8Z9B98tkysk-kZotXQzzq3PTWVenxE/edit?usp=sharing&ouid=117351193828184376313&rtpof=true&sd=true), [sample](https://docs.google.com/spreadsheets/d/1VP7guOWm0adeJf6SHjDjPdDK2KSNOZ8I/edit?usp=sharing&ouid=117351193828184376313&rtpof=true&sd=true))
+- Establish Process Governance like Jira Discipline, Git Version Management etc.
+- Plan Weekly/Bi-weekly/Monthly/QBR review cadence
+- Establish preventive and corrective action processes
+- Focus on delivery-led sales opportunities
+- Monitor and plan team resource allocation
 
-### 🚀 Induction Process
-Comprehensive onboarding process that ensures every team member is equipped for success from day one.
+### Design & Development Stage:
 
-[:octicons-arrow-right-24: View Process](induction-process.md)
+- Track velocity/productivity using Azure DevOps, JIRA
+- Process checks – coding best practices, source control management
+- Conduct Scrum/Kanban ceremonies including Sprint Planning, Refinement, Retrospective etc.
+- Perform periodic quality checks
+- Foster Agile mindset through regular training
+- Timesheet submission/approvals
+- Include security audits and software development surveys
 
-</div>
+### Testing & Deployment Stage:
 
-<div class="card" markdown>
+- Verify deployment process and CI/CD effectiveness
+- Track and publish release schedule variance
+- Benchmark productivity, quality, and process efficiency
+- Document lessons learned for QBR
+- Regular stakeholder updates (Weekly/Bi-weekly/Monthly/QBR)
 
-### 📊 QBR & MBR
-Strategic communication tools that provide stakeholders with comprehensive insights into project performance and progress.
+### Team & Performance Management:
 
-[:octicons-arrow-right-24: View Reviews](qbr.md)
+- Identify talent and upskilling opportunities
+- Team collaboration and recognition (Accion Ace awards, spotlight awards)
+- Encourage hackathon participation
+- Conduct regular one-on-ones and skip-level meetings
+- Submit relevant Training Request Forms to L&D team regularly
+- Identify non-performers and put them through PIP ([PIP Policy](https://accionglobal.sharepoint.com/sites/valueboard/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvalueboard%2FShared%20Documents%2FPIP%20Policy%2Epdf&parent=%2Fsites%2Fvalueboard%2FShared%20Documents))
+- Focus on billing optimization and gross margins
+- Monitor CSAT scores and customer delight
+- Interpersonal skill management: regular one-on-ones, business HR connecting with the team, skip-level meetings, and organizing fun and recreation activities
+- Monitor team movement and ensure the release of resources from the team is planned ahead
+- Track and publish the release schedule variance and take the necessary steps to bring it back on track in the bi-weekly or QBR reports
 
-</div>
+### Delivery & Project Management
 
-<div class="card" markdown>
+- Updating the stakeholders - [Weekly / Bi-weekly](https://accionglobal.sharepoint.com/:p:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7B1D785D87-8C1E-466E-9B2E-6DB1257B319C%7D&file=WSR%20Template%20V2.0.pptx&action=edit&mobileredirect=true) / Monthly / [QBR](https://accionglobal.sharepoint.com/:p:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7B51204C8D-07BE-43D1-A7AE-52661C504BF0%7D&file=QBR%20Template%20v0.5.pptx&action=edit&mobileredirect=true)
+- Establish and maintain preventive and corrective actions and processes
+- Timesheet submission/approvals [template](https://accionglobal.sharepoint.com/:x:/r/sites/valueboard/_layouts/15/Doc.aspx?sourcedoc=%7BB655CC44-C3D6-4197-9E41-F8EAC80A9F0A%7D&file=Timesheet%20March%2722%20Template.xlsx&action=default&mobileredirect=true)
+- Focus on delivery-led sales. Look for opportunities to expand the team, arrange emerging tech workshops with the client sponsors/ key stakeholders, and develop trust to improve the CSAT
+- Focus on billing loss/revenue leak to improve the project/account gross margins
 
-### 🎯 Value Board Program
-Strategic governance framework that ensures delivery excellence and continuous improvement through specialized oversight.
+## Accionlabs Value Board (AVB & PVB)
 
-[:octicons-arrow-right-24: View Program](value-board-program.md)
+### Governance Framework
 
-</div>
+The Accionlabs Governance Framework operates on a structured two-tier model that defines clear focus areas at each level:
 
-<div class="card" markdown>
+<img src="../assets/media/image25.png" style="width:6.47396in;height:3.11824in" />
 
-### 📋 Tools & Resources
-Comprehensive collection of checklists, guides, and templates to support every aspect of delivery excellence.
+#### Tier 1: Operational Monitoring (Regular Project Management)
 
-[:octicons-arrow-right-24: Browse Resources](guides/)
+Project teams maintain continuous oversight of delivery metrics and operational excellence through rigorous monitoring. This includes tracking sprint velocity, defect density, and rework efficiency metrics. Teams measure delivery maturity through DORA metrics - monitoring deployment frequency, lead time for changes, change failure rate, and time to restore service. Project health is assessed through team collaboration indicators like PR review efficiency, merge frequency, and QA automation coverage. Regular tracking of feature delivery and milestone achievements ensures projects stay on course while maintaining quality standards. This tier represents the fundamental day-to-day project management activities essential for successful delivery.
 
-</div>
+#### Tier 2: Strategic Governance (Value Board)
 
-</div>
+The Value Board provides strategic oversight through two specialized units:
 
-## 🔄 Delivery Process Flow
+The Architecture Value Board (AVB) focuses exclusively on technical excellence through platform architecture assessment, design reviews, and code quality governance. AVB ensures architectural standards and innovation are consistently maintained across the organization's project portfolio through rigorous technical oversight and maturity evaluation. The review is conducted by the key architects and engineering heads of Accionlabs who are part of the core [AVB Team](https://docs.google.com/spreadsheets/d/11EQCWp_62JhTpxxPldP0wY02WjnKt9Rp5YDfZTGzVeA/edit?gid=0#gid=0)
 
-Our Delivery Excellence Framework follows the natural progression of how projects are delivered at AccionLabs:
+The Program Value Board (PVB) oversees the broader aspects of delivery capabilities including process maturity, project management excellence, people capability development, and product knowledge management. PVB's comprehensive oversight extends to customer satisfaction tracking and continuous improvement initiatives, ensuring programmatic excellence across all non-technical aspects of delivery. The review is conducted by key delivery leaders along with the PMO team.
 
-### **1. 🚀 Induction Process**
-The foundation of successful delivery starts with comprehensive team onboarding. Our 5P Induction Process ensures every team member understands company culture, product knowledge, processes, people integration, and platform familiarization.
+This two-tier model establishes a clear hierarchy - with operational monitoring providing the foundation through day-to-day project management, while the Value Board drives strategic direction and governance at an organizational level. The framework enables Accionlabs to maintain high delivery standards and drive continuous improvement while keeping execution agile and efficient.
 
-### **2. 📊 QBR & MBR**
-Regular strategic communication through Quarterly Business Reviews (QBR) and Monthly Business Reviews (MBR) ensures transparency and stakeholder alignment throughout the project lifecycle.
+Through this structured governance approach, the organization ensures consistent quality, innovation, and customer satisfaction across its accounts.
 
-### **3. 🎯 Value Board Program**
-Strategic governance through Architecture Value Board (AVB) and Program Value Board (PVB) provides specialized oversight for technical excellence and programmatic capabilities.
+### Review Process
 
-### **4. 📋 Tools & Resources**
-Comprehensive collection of checklists, guides, and templates supports every aspect of delivery excellence, ensuring consistency and quality across all projects.
+Accionlabs Value Board operates as a comprehensive governance framework where Program Value Board, Architecture Value Board, and CoE/LOB/AIC teams collaborate with delivery teams to drive excellence and innovation.
 
-## 📚 Document Library
+The Value Board reviews focus on multiple dimensions of delivery effectiveness:
 
-Our comprehensive document library provides access to all delivery excellence resources. Each document includes detailed descriptions, usage instructions, and best practices.
+- Process and skill maturity assessment
+- Customer and employee satisfaction tracking
+- Product knowledge and backlog health
+- Tools adoption and automation coverage
+- Architecture maturity and technical debt
+- ROI and business value metrics
 
-### 📋 Checklists (6 Documents)
+<img src="../assets/media/image26.png" style="width:6.43229in;height:3.21615in" />
 
-Essential verification tools to ensure quality and completeness at every project phase:
+Through regular program and technology reviews, the Value Board teams work with delivery leaders to evaluate the current state and recommend targeted improvements. These recommendations primarily focus on:
 
-- **[EDC Checklist](checklists/edc.md)** - Enterprise Data Center infrastructure requirements
-- **[Induction Guide](guides/induction-guide.md)** - New team member onboarding
-- **[All Is Well Report Requirements](checklists/all-is-well-report-requirements.md)** - Project closure verification
-- **[Architecture & Development Review](checklists/architecture-development-review.md)** - Technical excellence review
-- **[Release Checklist](checklists/release-checklist.md)** - Production deployment preparation
-
-### 📖 Guides (3 Documents)
-
-Comprehensive guides for team management and process implementation:
-
-- **[Disaster Management - DR Approach](guides/disaster-management-dr-approach.md)** - Business continuity planning
-- **[Manager Handbook By HR](guides/manager-handbook-by-hr.md)** - Leadership and HR policy reference
-- **[PIP Policy](guides/pip-policy.md)** - Performance improvement plan procedures
-
-### 📄 Templates (15 Documents)
-
-Ready-to-use templates for all project deliverables:
-
-- **[QBR Template](templates/qbr.md)** - Quarterly Business Review presentations
-- **[MBR Template](templates/mbr.md)** - Monthly Business Review reports
-- **[All Is Well Report](templates/all-is-well-report.md)** - Status reporting and escalation
-- **[Interview Evaluation Sheet](templates/interview-evaluation-sheet.md)** - Standardized candidate assessment
-- **[Issue Register](templates/issue-register.md)** - Project issue tracking template
-- **[MOM Template](templates/mom-template.md)** - Meeting minutes documentation
-- **[Project Estimation Template](templates/project-estimation-template.md)** - Effort and resource estimation
-- **[Project Kickoff Template (Sample)](templates/project-kickoff-template-sample.md)** - Project initiation guide
-- **[RAID Log](templates/raid-log.md)** - Risk, Assumptions, Issues, Dependencies tracking
-- **[RASCI Template](templates/rasci-template.md)** - Role and responsibility matrix
-- **[RCA Template](templates/rca-template.md)** - Root cause analysis framework
-- **[Requirement Traceability Matrix](templates/requirement-traceability-matrix.md)** - Requirements tracking tool
-- **[Risk Register](templates/risk-register.md)** - Comprehensive risk management
-- **[Timesheet Document](templates/timesheet-document.md)** - Time tracking template
-
-## 🚀 Framework Benefits
-
-### For Project Teams
-- **Reduced Setup Time**: Pre-built templates and checklists save hours of preparation
-- **Consistent Quality**: Standardized processes ensure uniform deliverables
-- **Risk Mitigation**: Comprehensive checklists help identify and address potential issues early
-- **Knowledge Transfer**: Structured induction process accelerates team member productivity
-
-### For Clients
-- **Predictable Delivery**: Consistent processes lead to reliable project outcomes
-- **Transparent Communication**: Standardized reporting formats provide clear project visibility
-- **Quality Assurance**: Built-in quality gates ensure deliverables meet expectations
-- **Continuous Improvement**: Regular performance reviews drive ongoing optimization
-
-### For Organization
-- **Scalable Operations**: Framework supports growth without quality degradation
-- **Knowledge Retention**: Documented processes preserve organizational knowledge
-- **Compliance**: Standardized approaches support regulatory and audit requirements
-- **Competitive Advantage**: Proven delivery excellence differentiates our services
-
-## 📈 Framework Metrics
-
-Our Delivery Excellence Framework is continuously measured and improved through:
-
-- **Project Success Rate**: Currently at 94% across all engagements
-- **Client Satisfaction Score**: Average of 4.7/5.0
-- **Delivery Efficiency**: 23% improvement in delivery time
-- **Quality Metrics**: 98% first-time acceptance rate for deliverables
-
-## 📋 Framework Components
-
-### 1. Project Lifecycle Checklists
-
-Our comprehensive checklist system covers every phase of project delivery:
-
-- **[EDC Checklist](checklists/edc.md)** - Enterprise Data Center infrastructure requirements
-- **[Induction Guide](guides/induction-guide.md)** - New team member onboarding
-- **[All Is Well Report Requirements](checklists/all-is-well-report-requirements.md)** - Project closure verification
-- **[Architecture & Development Review](checklists/architecture-development-review.md)** - Technical excellence review
-- **[Release Checklist](checklists/release-checklist.md)** - Production deployment preparation
-
-### 2. Standardized Templates
-
-Ready-to-use templates for all key deliverables:
-
-- **[QBR Template](templates/qbr.md)** - Quarterly Business Review presentations
-- **[MBR Template](templates/mbr.md)** - Monthly Business Review reports
-- **[All Is Well Report](templates/all-is-well-report.md)** - Status reporting and escalation
-- **[RAID Log](templates/raid-log.md)** - Risk, Assumptions, Issues, Dependencies tracking
-- **[RCA Template](templates/rca-template.md)** - Root cause analysis framework
-
-### 3. Team Management Guides
-
-Comprehensive resources for team leadership and management:
-
-- **[Manager Handbook By HR](guides/manager-handbook-by-hr.md)** - Leadership and HR policy reference
-- **[PIP Policy](guides/pip-policy.md)** - Performance improvement plan procedures
-- **[Disaster Management - DR Approach](guides/disaster-management-dr-approach.md)** - Business continuity planning
-
-## 🤖 GenAI Excellence Dashboard
-
-Our GenAI capabilities represent a significant advancement in delivery excellence, with verified productivity improvements across multiple client engagements.
-
-<div class="grid" markdown>
-
-<div class="card" markdown>
-
-### 📊 GenAI Performance Metrics
-**24 client accounts** with documented GenAI initiatives, **6 accounts with verified productivity improvements** ranging from 15-50%.
-
-[:octicons-arrow-right-24: View GenAI Dashboard](../genai-adoption/genai-dashboard-2025.html){: .md-button .md-button--primary target="_blank"}
-
-</div>
-
-<div class="card" markdown>
-
-### 🛠️ GenAI Tools in SDLC
-**7 verified GenAI tools** integrated across the software development lifecycle:
-- GitHub Copilot, Cursor, Continue
-- Local LLMs, RAG Systems
-- Accion Solution, Breeze AI QE
-
-</div>
-
-<div class="card" markdown>
-
-### 🎯 Customer Success Stories
-**Verified productivity improvements**:
-- HID Global: 50% improvement (Continue tool)
-- RL Datix: 40% improvement (Local LLMs)
-- ZUUM Transportation: 30% improvement (RAG systems)
-
-</div>
-
-<div class="card" markdown>
-
-### ⚡ Workflow Automation
-**AI-powered automation** across development processes:
-- Code generation & review
-- Test case generation & execution
-- Documentation creation & maintenance
-- Knowledge base search & analysis
-
-</div>
-
-</div>
-
-### 📈 GenAI Implementation Success
-
-Our GenAI initiatives have demonstrated measurable impact across multiple dimensions:
-
-| **Metric** | **Value** | **Source** |
-|------------|-----------|------------|
-| **Total Client Accounts** | 24 | Verified project data |
-| **Accounts with Quantified Results** | 6 | Direct productivity metrics |
-| **Productivity Improvement Range** | 15-50% | Verified account results |
-| **Tool Adoption Rate** | 60% (QE) | Extreme Reach, Daybreak/Noodle |
-| **Code Quality Improvement** | 40% to 65% | Maverick Project metrics |
-
-### 🎯 GenAI Use Cases by Industry
-
-**Financial Services**: MoneyDue - In-house LLM for financial planning
-**Healthcare**: RL Datix - Local LLMs for healthcare data analysis  
-**Transportation**: ZUUM - RAG systems for knowledge management
-**Legal**: Wolters Kluwer - GenAI database operations
-**Security**: HID Global - Continue tool for access control systems
-
-### 📋 GenAI Best Practices
-
-1. **Tool Selection**: Choose tools based on specific use case requirements
-2. **Integration Planning**: Ensure seamless SDLC integration
-3. **Training & Adoption**: Provide comprehensive team training
-4. **Performance Monitoring**: Track productivity improvements
-5. **Quality Assurance**: Maintain code quality standards with AI assistance
+- Enhancing delivery productivity
+- Improving quality metrics
+- Optimizing delivery speed
+- Driving automation adoption
+- Exploring GenAI opportunities
+- Streamlining processes
+
+#### Review Outcome
+
+The review outcomes generate specific action items at two levels:
+
+**Team Level:**
+- Immediate process improvements
+- Skill development recommendations
+- Tool adoption guidance
+
+**Organizational Level:**
+- Strategic initiatives
+- Best practice sharing
+- Cross-team collaboration opportunities
 
 ---
 
-## 🎯 Getting Started
-
-### For New Team Members
-
-1. **Complete Induction**: Follow the [Induction Guide](guides/induction-guide.md)
-2. **Review Checklists**: Familiarize yourself with relevant checklists
-3. **Download Templates**: Access templates for your project type
-4. **Attend Training**: Participate in framework training sessions
-5. **Explore GenAI Tools**: Review [GenAI Dashboard](../genai-adoption/genai-dashboard-2025.html) for capabilities
-
-### For Project Managers
-
-1. **Assess Project Type**: Determine appropriate framework components
-2. **Customize Templates**: Adapt templates to project-specific requirements
-3. **Implement Checklists**: Use relevant checklists throughout project lifecycle
-4. **Monitor Performance**: Regular review and improvement cycles
-5. **Evaluate GenAI Integration**: Assess GenAI tool opportunities for project efficiency
-
-### For Delivery Leaders
-
-1. **Framework Adoption**: Ensure team adoption of framework components
-2. **Performance Monitoring**: Track framework effectiveness metrics
-3. **Continuous Improvement**: Lead framework enhancement initiatives
-4. **Knowledge Sharing**: Facilitate best practice sharing across teams
-5. **GenAI Strategy**: Drive GenAI adoption and capability development
+*Previous: [Metrics & KPIs ←](../metrics-kpis/)* | *Next: [Best Practices →](../best-practices/)*

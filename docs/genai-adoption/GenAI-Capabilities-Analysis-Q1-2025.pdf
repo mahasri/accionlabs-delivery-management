@@ -1,0 +1,125 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(GenAI & Modernization Capabilities Analysis - YTD 2025) Tj
+0 -30 Td
+/F1 12 Tf
+(Executive Summary & Key Insights) Tj
+0 -20 Td
+(Bottom Line Up Front) Tj
+0 -15 Td
+/F1 10 Tf
+(Our organization has achieved significant GenAI adoption across 25 client accounts with) Tj
+0 -12 Td
+(measurable productivity gains of 15-60% and comprehensive SDLC integration spanning 7) Tj
+0 -12 Td
+(development stages. We're positioned as a GenAI-forward delivery organization with both breadth) Tj
+0 -12 Td
+(and depth of implementation.) Tj
+0 -30 Td
+/F1 12 Tf
+(1. GenAI Tools & Technologies Matrix) Tj
+0 -20 Td
+/F1 10 Tf
+(SDLC Integration Analysis) Tj
+0 -15 Td
+(Requirements Gathering: AI-assisted writing, Cursor - Medium adoption, 25% expected improvement) Tj
+0 -12 Td
+(Coding: GitHub Copilot, Cursor, Continue, Local LLMs - High adoption, 15-50% improvement) Tj
+0 -12 Td
+(Unit Testing: GitHub Copilot, AI test generators - Medium adoption, 18-40% improvement) Tj
+0 -12 Td
+(QA/Testing: Accion Labs, Breeze AI, Playwright+AI - High adoption, 15-60% improvement) Tj
+0 -12 Td
+(CI/CD: Automation POCs, Pipeline AI - Low adoption, TBD improvement) Tj
+0 -12 Td
+(Support: Chatbots, Knowledge AI - Medium adoption, 30% improvement) Tj
+0 -12 Td
+(Documentation: AI documentation tools - Low adoption, TBD improvement) Tj
+0 -30 Td
+/F1 12 Tf
+(Tool Adoption Portfolio) Tj
+0 -15 Td
+/F1 10 Tf
+(Development Accelerators:) Tj
+0 -12 Td
+(• GitHub Copilot - Most widely adopted across 8+ accounts) Tj
+0 -12 Td
+(• Cursor - Growing adoption, 25-60% productivity gains) Tj
+0 -12 Td
+(• Continue Tool - Single implementation with 50% improvement) Tj
+0 -12 Td
+(• Local LLMs - Custom implementations showing 40% gains) Tj
+0 -30 Td
+(Testing & QA Platforms:) Tj
+0 -12 Td
+(• Accion Labs QA Solution - Proprietary testing platform) Tj
+0 -12 Td
+(• Breeze AI QE - 60% AI adoption in quality engineering) Tj
+0 -12 Td
+(• Playwright with AI - Test automation with prompt engineering) Tj
+0 -30 Td
+(For complete details, see the comprehensive analysis document.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000002326 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2403
+%%EOF

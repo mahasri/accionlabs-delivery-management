@@ -4,36 +4,8 @@ This comprehensive framework provides governance for technology stack selection,
 
 ## 📊 View Reports
 
-<div class="grid">
-
-<div class="card">
-
-### 📄 Platform Report
-Access the comprehensive AccionLabs Platform Report for detailed insights into our technology stack and platform capabilities.
-
-[:octicons-download-24: View Platform Report](../../delivery-excellence/Accionlabs-Platform-Report.pdf){: .md-button .md-button--primary }
-
-</div>
-
-<div class="card">
-
 ### 📈 Live Dashboard
-Access the real-time AccionLabs Platform Dashboard for current metrics and performance data.
-
-[:octicons-link-external-24: View Live Dashboard](https://lookerstudio.google.com/s/j5NP0tcWUO0){: .md-button .md-button--primary target="_blank"}
-
-</div>
-
-<div class="card">
-
-### 📊 Tools & Technologies Report
-Access the comprehensive Tools & Technologies Governance Report for detailed insights into our technology governance framework.
-
-[:octicons-link-external-24: View Report](https://tinyurl.com/toolsandtechnologies){: .md-button .md-button--primary target="_blank"}
-
-</div>
-
-</div>
+[View Live Dashboard](https://lookerstudio.google.com/s/j5NP0tcWUO0){: .md-button .md-button--primary target="_blank"}
 
 ## 📋 Framework Overview
 

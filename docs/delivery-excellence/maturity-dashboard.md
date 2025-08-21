@@ -180,7 +180,6 @@
 </div>
 
 <div class="metric-item">
-<div class="metric-item">
 <div class="metric-label">Epic/Story Level Understanding</div>
 <div class="progress-bar">
 <div class="progress-fill" style="width: 90%"></div>
@@ -312,9 +311,7 @@
 
 </div>
 
-**Action Items Status**
-
-**1. Immediate Actions Progress**
+**2. Immediate Actions Progress**
 
 <div class="action-grid">
 

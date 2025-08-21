@@ -1,5 +1,9 @@
 # GenAI Adoption Report
 
+## 📄 Detailed Analysis Report
+
+[View Comprehensive GenAI Analysis YTD 2025](GenAI-Capabilities-Analysis-YTD-2025.html){: .md-button .md-button--primary target="_blank"}
+
 Our comprehensive analysis showcases verified GenAI implementations across 24 client accounts, demonstrating measurable productivity improvements and successful tool adoption throughout the software development lifecycle.
 
 This dashboard presents our proven capabilities in AI-powered development, quality engineering, and knowledge management solutions.
@@ -382,10 +386,27 @@ This dashboard presents our proven capabilities in AI-powered development, quali
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-// Tool Adoption Chart
-const toolAdoptionCtx = document.getElementById('toolAdoptionChart');
-if (toolAdoptionCtx) {
-    new Chart(toolAdoptionCtx, {
+// Ensure charts load properly by waiting for DOM and Chart.js
+document.addEventListener('DOMContentLoaded', function() {
+    // Wait for Chart.js to load and DOM to be ready
+    setTimeout(initializeCharts, 100);
+});
+
+// Fallback for window load
+window.addEventListener('load', initializeCharts);
+
+function initializeCharts() {
+    // Check if Chart.js is available
+    if (typeof Chart === 'undefined') {
+        console.error('Chart.js not loaded, retrying...');
+        setTimeout(initializeCharts, 500);
+        return;
+    }
+
+    // Tool Adoption Chart
+    const toolAdoptionCtx = document.getElementById('toolAdoptionChart');
+    if (toolAdoptionCtx && !toolAdoptionCtx.chart) {
+        toolAdoptionCtx.chart = new Chart(toolAdoptionCtx, {
         type: 'doughnut',
         data: {
             labels: ['GitHub Copilot', 'Cursor', 'Local LLMs', 'RAG Systems', 'Continue', 'Accion/Breeze AI'],
@@ -428,8 +449,8 @@ if (toolAdoptionCtx) {
 
 // Productivity Chart
 const productivityCtx = document.getElementById('productivityChart');
-if (productivityCtx) {
-    new Chart(productivityCtx, {
+if (productivityCtx && !productivityCtx.chart) {
+    productivityCtx.chart = new Chart(productivityCtx, {
         type: 'bar',
         data: {
             labels: ['Account 1', 'Account 2', 'Account 3', 'Account 4*', 'Account 5', 'Account 6'],
@@ -484,8 +505,6 @@ if (productivityCtx) {
         }
     });
 }
+
+} // End of initializeCharts function
 </script>
-
----
-
-*This report is based on verified data from Q1 2025 GenAI implementations across our client portfolio.*

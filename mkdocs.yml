@@ -83,18 +83,18 @@ nav:
     - QBR: delivery-excellence/qbr.md
     - Bi-weekly/MBR: delivery-excellence/bi-weekly-mbr.md
     - Architecture Value Board:
-      - Overview: delivery-governance/architecture-value-board/index.md
-      - Tools & Technologies: delivery-governance/architecture-value-board/tools-technologies.md
-      - Review Checklist: delivery-governance/architecture-value-board/review-checklist.md
-      - AVB Review Team: delivery-governance/architecture-value-board/avb-review-team.md
-      - Review Reports: delivery-governance/architecture-value-board/review-reports.md
+      - Overview: delivery-excellence/architecture-value-board/index.md
+      - Tools & Technologies: delivery-excellence/architecture-value-board/tools-technologies.md
+      - Review Checklist: delivery-excellence/architecture-value-board/review-checklist.md
+      - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
+      - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
     - Program Value Board:
-      - Overview: delivery-governance/program-value-board/index.md
-      - Metrics & Methodologies: delivery-governance/program-value-board/process-metrics.md
-      - Review Checklist: delivery-governance/program-value-board/review-template.md
-      - PVB Review Team: delivery-governance/program-value-board/pvb-review-team.md
-      - Review Reports: delivery-governance/program-value-board/review-reports.md
-    - '🎯 **Maturity Dashboard**': delivery-governance/maturity-dashboard.md
+      - Overview: delivery-excellence/program-value-board/index.md
+      - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
+      - Review Checklist: delivery-excellence/program-value-board/review-template.md
+      - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
+      - Review Reports: delivery-excellence/program-value-board/review-reports.md
+    - '🎯 **Maturity Dashboard**': delivery-excellence/maturity-dashboard.md
     - '🤖 **GenAI Adoption Report**': genai-adoption/genai-adoption-report.md
     - Guides:
       - Induction Guide: delivery-excellence/guides/induction-guide.md

@@ -2,6 +2,10 @@
 
 This comprehensive framework provides metrics and KPIs for program performance monitoring and value measurement. Use this framework to ensure effective program governance and value realization.
 
+## 📊 Live Dashboard
+
+[View Live Dashboard](https://lookerstudio.google.com/s/pu-54HUjyG8){: .md-button .md-button--primary target="_blank"}
+
 ## 📋 Metrics Overview
 
 **Purpose**: Monitor program performance and measure value realization
