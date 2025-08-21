@@ -2,6 +2,12 @@
 
 Welcome to the comprehensive AccionLabs Delivery Management Portal - your central hub for delivery excellence, governance, and best practices.
 
+**Redirecting to Delivery Excellence...**
+
+<script>
+window.location.href = 'delivery-excellence/';
+</script>
+
 ## 🎯 Our Three Pillars of Delivery Excellence
 
 <div class="grid">

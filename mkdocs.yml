@@ -82,11 +82,20 @@ nav:
     - Induction Process: delivery-excellence/induction-process.md
     - QBR: delivery-excellence/qbr.md
     - Bi-weekly/MBR: delivery-excellence/bi-weekly-mbr.md
-    - Value Board Program: delivery-excellence/value-board-program.md
-    - Architecture Value Board: delivery-governance/architecture-value-board/index.md
-    - Program Value Board: delivery-governance/program-value-board/index.md
-    - Maturity Dashboard: delivery-governance/maturity-dashboard.md
-    - GenAI Adoption Report: genai-adoption/genai-adoption-report.md
+    - Architecture Value Board:
+      - Overview: delivery-governance/architecture-value-board/index.md
+      - Tools & Technologies: delivery-governance/architecture-value-board/tools-technologies.md
+      - Review Checklist: delivery-governance/architecture-value-board/review-checklist.md
+      - AVB Review Team: delivery-governance/architecture-value-board/avb-review-team.md
+      - Review Reports: delivery-governance/architecture-value-board/review-reports.md
+    - Program Value Board:
+      - Overview: delivery-governance/program-value-board/index.md
+      - Metrics & Methodologies: delivery-governance/program-value-board/process-metrics.md
+      - Review Checklist: delivery-governance/program-value-board/review-template.md
+      - PVB Review Team: delivery-governance/program-value-board/pvb-review-team.md
+      - Review Reports: delivery-governance/program-value-board/review-reports.md
+    - '🎯 **Maturity Dashboard**': delivery-governance/maturity-dashboard.md
+    - '🤖 **GenAI Adoption Report**': genai-adoption/genai-adoption-report.md
     - Guides:
       - Induction Guide: delivery-excellence/guides/induction-guide.md
       - Disaster Management - DR Approach: delivery-excellence/guides/disaster-management-dr-approach.md
