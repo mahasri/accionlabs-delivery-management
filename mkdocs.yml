@@ -81,19 +81,29 @@ nav:
     - Overview: delivery-excellence/index.md
     - Induction Process: delivery-excellence/induction-process.md
     - Transition: delivery-excellence/transition.md
-    - QBR: delivery-excellence/qbr.md
-    - Bi-weekly/MBR: delivery-excellence/bi-weekly-mbr.md
-    - AHM / Townhall: delivery-excellence/ahm-townhall.md
-    - '🏆 Rewards & Recognitions': delivery-excellence/rewards-recognitions.md
-    - Delivery Governance: delivery-excellence/governance-framework.md
+    - Delivery Execution:
+      - Overview: delivery-excellence/delivery-execution/index.md
+      - Innovation Engineering Services: delivery-excellence/delivery-execution/innovation-engineering-services/index.md
+      - SDLC - New Development: delivery-excellence/delivery-execution/sdlc-new-development/index.md
+      - SDLC - Enhancements & Support: delivery-excellence/delivery-execution/sdlc-enhancements-support/index.md
+      - SDLC - Managed Services: delivery-excellence/delivery-execution/sdlc-managed-services/index.md
+      - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
+      - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
+    - Delivery Cadences:
+      - Overview: delivery-excellence/delivery-cadences/index.md
+      - QBR: delivery-excellence/delivery-cadences/qbr.md
+      - Bi-weekly/MBR: delivery-excellence/delivery-cadences/bi-weekly-mbr.md
+      - AHM / Townhall: delivery-excellence/delivery-cadences/ahm-townhall.md
+      - Rewards & Recognitions: delivery-excellence/delivery-cadences/rewards-recognitions.md
+    - Delivery Governance:
+      - Overview: delivery-excellence/delivery-governance/index.md
+      - Governance Framework: delivery-excellence/governance-framework.md
     - Architecture Value Board:
-      - Overview: delivery-excellence/architecture-value-board/index.md
       - Tools & Technologies: delivery-excellence/architecture-value-board/tools-technologies.md
       - Review Checklist: delivery-excellence/architecture-value-board/review-checklist.md
       - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
       - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
     - Program Value Board:
-      - Overview: delivery-excellence/program-value-board/index.md
       - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
       - Review Checklist: delivery-excellence/program-value-board/review-template.md
       - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md

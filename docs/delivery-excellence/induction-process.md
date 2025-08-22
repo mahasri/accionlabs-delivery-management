@@ -4,32 +4,6 @@
 
 The Induction Process is the foundational step in Accionlabs' delivery excellence framework. It ensures every new team member receives comprehensive onboarding that covers company culture, product knowledge, processes, people integration, and platform familiarization.
 
-## 5P Induction Flow
-
-### 🏢 **Company Overview**
-- Company culture, values, and policies
-- Organizational structure and reporting lines
-- Compliance and security guidelines
-
-### 📦 **Product Knowledge**
-- Understanding of the product/service being developed
-- Business context and user workflows
-- Key features and functionality
-
-### ⚙️ **Process Training**
-- SDLC processes and methodologies
-- Tools and technologies used
-- Quality assurance and testing protocols
-
-### 👥 **People Integration**
-- Team introductions and collaboration practices
-- Communication channels and escalation procedures
-- Mentorship and support networks
-
-### 🖥️ **Platform Familiarization**
-- Technical stack and development environment
-- Database models and system architecture
-- Integration points and APIs
 
 ## 📋 5P Induction Guide
 

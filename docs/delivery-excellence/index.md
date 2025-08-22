@@ -1,46 +1,46 @@
 # Delivery Excellence
 
-The AccionLabs Delivery Excellence Framework is our comprehensive approach to ensuring consistent, high-quality project delivery across all engagements. This framework provides structured methodologies, standardized processes, and proven best practices to maximize project success rates.
+The AccionLabs Delivery Excellence approach is our comprehensive methodology for ensuring consistent, high-quality project delivery across all engagements. This structured approach provides standardized processes, proven best practices, and strategic governance to maximize project success rates.
 
-## 🎯 Framework Overview
+## 🎯 Overview
 
-Our Delivery Excellence Framework follows the natural flow of how delivery processes work at AccionLabs:
+Our Delivery Excellence approach encompasses four key areas that work together to ensure successful project delivery:
 
 <div class="grid" markdown>
 
 <div class="card" markdown>
 
-### 🚀 Induction Process
-Comprehensive onboarding process that ensures every team member is equipped for success from day one.
+### 🚀 Delivery Execution
+Comprehensive methodologies and processes for different types of project delivery including new development, enhancements, and managed services.
 
-[:octicons-arrow-right-24: View Process](induction-process.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 📊 QBR & MBR
-Strategic communication tools that provide stakeholders with comprehensive insights into project performance and progress.
-
-[:octicons-arrow-right-24: View Reviews](qbr.md)
+[:octicons-arrow-right-24: View Execution](delivery-execution/index.md)
 
 </div>
 
 <div class="card" markdown>
 
-### 🎯 Value Board Program
-Strategic governance framework that ensures delivery excellence and continuous improvement through specialized oversight.
+### 📅 Delivery Cadences
+Strategic communication and review processes including QBR, MBR, townhalls, and rewards & recognitions to maintain project momentum.
 
-[:octicons-arrow-right-24: View Program](value-board-program.md)
+[:octicons-arrow-right-24: View Cadences](delivery-cadences/index.md)
 
 </div>
 
 <div class="card" markdown>
 
-### 📋 Tools & Resources
-Comprehensive collection of checklists, guides, and templates to support every aspect of delivery excellence.
+### 🏛️ Governance
+Strategic governance framework including Architecture Value Board (AVB) and Program Value Board (PVB) to ensure delivery excellence and continuous improvement.
 
-[:octicons-arrow-right-24: Browse Resources](guides/index.md)
+[:octicons-arrow-right-24: View Governance](delivery-governance/index.md)
+
+</div>
+
+<div class="card" markdown>
+
+### 📚 Key Resources
+Comprehensive collection of guides, templates, and checklists to support every aspect of delivery excellence.
+
+[:octicons-arrow-right-24: Browse Resources](key-resources.md)
 
 </div>
 

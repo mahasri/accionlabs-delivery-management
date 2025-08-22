@@ -2,8 +2,8 @@
 
 /* Layout Optimizations */
 .md-sidebar--primary {
-  width: 240px !important;
-  max-width: 240px !important;
+  width: 260px !important;
+  max-width: 260px !important;
 }
 
 .md-sidebar--secondary {
@@ -29,6 +29,30 @@
 .md-header {
   background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
   color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1100;
+  height: 60px;
+}
+
+/* Fix header overlap when scrolling */
+.md-main {
+  margin-top: 60px;
+}
+
+/* Ensure proper spacing for fixed header and prevent overlap */
+.md-content {
+  padding-top: 1rem;
+  position: relative;
+  z-index: 1;
+}
+
+/* Ensure sidebar is properly positioned below header */
+.md-sidebar {
+  top: 60px;
+  height: calc(100vh - 60px);
 }
 
 .md-header__title {
@@ -46,27 +70,28 @@
   font-weight: 700;
   font-size: 1rem;
   border-bottom: 2px solid #e2e8f0;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Main Section Titles (Delivery Excellence, Delivery Handbook) */
 .md-sidebar--primary .md-nav__title {
-  font-weight: 600;
+  font-weight: 700;
   color: #1e3a8a;
   background-color: rgba(245, 158, 11, 0.1);
   border-left: 3px solid #f59e0b;
   border-bottom: none;
-  margin: 0.5rem 0;
-  padding: 0.75rem 1rem;
+  margin: 0.2rem -0.5rem 0.2rem 0;
+  padding: 0.4rem 1rem;
   border-radius: 6px;
-  font-size: 1.1rem;
+  font-size: 0.75rem;
+  width: calc(100% + 0.5rem);
 }
 
 .md-nav__link {
   color: #374151;
-  padding: 0.5rem 1rem;
-  margin: 0.1rem 0;
+  padding: 0.3rem 1rem;
+  margin: 0.05rem 0;
   border-radius: 6px;
   font-weight: 500;
   transition: all 0.2s ease;
@@ -84,21 +109,27 @@
   border-left: 3px solid #3b82f6;
 }
 
-/* Section Headers */
-.md-nav--primary .md-nav__item--nested > .md-nav__link {
-  font-weight: 600;
+/* Section Headers - Main sections and nested section headers */
+.md-nav--primary .md-nav__item--nested > .md-nav__link,
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 700;
   color: #1e3a8a;
   background-color: rgba(245, 158, 11, 0.1);
   border-left: 3px solid #f59e0b;
-  margin: 0.5rem 0;
+  border-bottom: none;
+  margin: 0.2rem -0.5rem 0.2rem 0;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  width: calc(100% + 0.5rem);
 }
 
 /* Sub-navigation Items */
 .md-nav--primary .md-nav__item--nested .md-nav__link {
   font-weight: 500;
   color: #6b7280;
-  padding: 0.4rem 1rem 0.4rem 2rem;
-  margin: 0.1rem 0;
+  padding: 0.25rem 1rem 0.25rem 2rem;
+  margin: 0.05rem 0;
   border-left: 2px solid #e5e7eb;
 }
 
@@ -114,8 +145,9 @@
   color: white !important;
   font-weight: 600;
   border-radius: 8px;
-  margin: 0.5rem 0;
-  padding: 0.75rem 1rem;
+  margin: 0.8rem -0.5rem 0.8rem 0;
+  padding: 0.5rem 1rem;
+  width: calc(100% + 0.5rem);
 }
 
 .md-nav__link[href*="maturity-dashboard"]:hover,
@@ -124,11 +156,66 @@
   transform: translateY(-1px);
 }
 
+/* Architecture Value Board Styling */
+.md-nav--primary .md-nav__item--nested > .md-nav__link[href*="architecture-value-board"] {
+  font-weight: 700;
+  color: #065f46;
+  background-color: rgba(167, 243, 208, 0.3);
+  border-left: 3px solid #10b981;
+  border-bottom: none;
+  margin: 0.2rem 0;
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.7rem;
+}
+
+.md-nav--primary .md-nav__item--nested > .md-nav__link[href*="architecture-value-board"]:hover {
+  background-color: rgba(167, 243, 208, 0.5);
+  color: #047857;
+}
+
+/* Program Value Board Styling */
+.md-nav--primary .md-nav__item--nested > .md-nav__link[href*="program-value-board"] {
+  font-weight: 700;
+  color: #7c2d12;
+  background-color: rgba(254, 215, 170, 0.3);
+  border-left: 3px solid #f97316;
+  border-bottom: none;
+  margin: 0.2rem 0;
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.7rem;
+}
+
+.md-nav--primary .md-nav__item--nested > .md-nav__link[href*="program-value-board"]:hover {
+  background-color: rgba(254, 215, 170, 0.5);
+  color: #9a3412;
+}
+
+/* Key Resources Styling - Match Delivery Execution */
+.md-nav--primary .md-nav__item > .md-nav__link[href*="key-resources"] {
+  font-weight: 700;
+  color: #1e3a8a;
+  background-color: rgba(245, 158, 11, 0.1);
+  border-left: 3px solid #f59e0b;
+  border-bottom: none;
+  margin: 0.8rem -0.5rem 0.8rem 0;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  width: calc(100% + 0.5rem);
+}
+
+.md-nav--primary .md-nav__item > .md-nav__link[href*="key-resources"]:hover {
+  background-color: rgba(245, 158, 11, 0.2);
+  color: #1e3a8a;
+}
+
 /* Responsive Design */
 @media (max-width: 1200px) {
   .md-sidebar--primary {
-    width: 200px !important;
-    max-width: 200px !important;
+    width: 240px !important;
+    max-width: 240px !important;
   }
   
   .md-sidebar--secondary {
