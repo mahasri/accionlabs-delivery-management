@@ -11,23 +11,15 @@ This comprehensive checklist provides structured criteria for technical decision
     </div>
     
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <p style="color: #666; font-style: italic; margin-bottom: 15px;">🎥 AVB Review Checklist Preview</p>
-        <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; background-color: #f8f9fa;">
-            <div style="background-color: #2b5797; color: white; padding: 10px; font-weight: bold; text-align: center;">
-                📋 AVB Review Checklist
-            </div>
-            <div style="padding: 20px; background-color: white; text-align: center;">
-                <img 
-                    src="../../../assets/media/AVB-Review-Checklist.png" 
-                    alt="AVB Review Checklist Preview" 
-                    style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" 
-                />
-            </div>
-            <div style="background-color: #f8f9fa; padding: 10px; text-align: center; font-size: 12px; color: #666;">
-                💡 This is a preview - Download the full AVB review checklist below
-            </div>
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 AVB Review Checklist Preview</p>
+        <div style="text-align: center; margin: 20px 0;">
+            <img 
+                src="../../../assets/media/AVB-Review-Checklist.png" 
+                alt="AVB Review Checklist Preview" 
+                style="max-width: 100%; height: auto; border: 2px solid #e0e0e0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" 
+            />
         </div>
-        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
+        <p style="margin-top: 15px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows the AVB review checklist structure • Use the buttons below to view sample or download template</em>
         </p>
     </div>
