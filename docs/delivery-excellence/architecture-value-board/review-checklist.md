@@ -18,7 +18,7 @@ This comprehensive checklist provides structured criteria for technical decision
             </div>
             <div style="padding: 20px; background-color: white; text-align: center;">
                 <img 
-                    src="/assets/media/AVB-Review-Checklist.png" 
+                    src="../../../assets/media/AVB-Review-Checklist.png" 
                     alt="AVB Review Checklist Preview" 
                     style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" 
                 />

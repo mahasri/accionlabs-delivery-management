@@ -20,7 +20,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
     <div class="carousel-wrapper">
         <div class="carousel-main">
             <div class="carousel-slide active" data-slide="1">
-                <img src="/assets/media/Slide1.jpg" alt="All Hands Meet January 2025" loading="lazy">
+                <img src="../../../assets/media/Slide1.jpg" alt="All Hands Meet January 2025" loading="lazy">
                 <div class="slide-caption">
                     <h4>All Hands Meet January 2025</h4>
                     <p>Opening slide for our annual company-wide gathering</p>
@@ -28,7 +28,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="2">
-                <img src="/assets/media/Slide2.jpg" alt="Event Agenda 2025" loading="lazy">
+                <img src="../../../assets/media/Slide2.jpg" alt="Event Agenda 2025" loading="lazy">
                 <div class="slide-caption">
                     <h4>Event Agenda 2025</h4>
                     <p>Complete schedule and structure for the townhall event</p>
@@ -36,7 +36,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="3">
-                <img src="/assets/media/Slide3.jpg" alt="Welcome Address" loading="lazy">
+                <img src="../../../assets/media/Slide3.jpg" alt="Welcome Address" loading="lazy">
                 <div class="slide-caption">
                     <h4>Welcome Address</h4>
                     <p>Opening remarks by Anand Raja</p>
@@ -44,7 +44,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="4">
-                <img src="/assets/media/Slide4.jpg" alt="Tunisia Visit Highlights" loading="lazy">
+                <img src="../../../assets/media/Slide4.jpg" alt="Tunisia Visit Highlights" loading="lazy">
                 <div class="slide-caption">
                     <h4>Tunisia Visit Highlights</h4>
                     <p>International collaboration and team building experiences</p>
@@ -52,7 +52,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="5">
-                <img src="/assets/media/Slide7.jpg" alt="2024 Delivery Dashboard" loading="lazy">
+                <img src="../../../assets/media/Slide7.jpg" alt="2024 Delivery Dashboard" loading="lazy">
                 <div class="slide-caption">
                     <h4>2024 Accion Delivery Dashboard</h4>
                     <p>Key metrics and performance indicators for the year</p>
@@ -60,7 +60,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="6">
-                <img src="/assets/media/Slide8.jpg" alt="2024 Reflection" loading="lazy">
+                <img src="../../../assets/media/Slide8.jpg" alt="2024 Reflection" loading="lazy">
                 <div class="slide-caption">
                     <h4>2024 Reflection Key Areas</h4>
                     <p>Strategic focus areas and accomplishments</p>
@@ -68,7 +68,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="7">
-                <img src="/assets/media/Slide9.jpg" alt="Collaboration & Coordination" loading="lazy">
+                <img src="../../../assets/media/Slide9.jpg" alt="Collaboration & Coordination" loading="lazy">
                 <div class="slide-caption">
                     <h4>Collaboration & Coordination</h4>
                     <p>Cross-team initiatives and partnership achievements</p>
@@ -76,7 +76,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="8">
-                <img src="/assets/media/Slide10.jpg" alt="Continuous Improvements" loading="lazy">
+                <img src="../../../assets/media/Slide10.jpg" alt="Continuous Improvements" loading="lazy">
                 <div class="slide-caption">
                     <h4>Continuous Improvements</h4>
                     <p>Process enhancements and efficiency gains</p>
@@ -84,7 +84,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="9">
-                <img src="/assets/media/Slide11.jpg" alt="Critical Support" loading="lazy">
+                <img src="../../../assets/media/Slide11.jpg" alt="Critical Support" loading="lazy">
                 <div class="slide-caption">
                     <h4>Critical Support</h4>
                     <p>Infrastructure and operational excellence</p>
@@ -92,7 +92,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="10">
-                <img src="/assets/media/Slide12.jpg" alt="Research & Value Creation" loading="lazy">
+                <img src="../../../assets/media/Slide12.jpg" alt="Research & Value Creation" loading="lazy">
                 <div class="slide-caption">
                     <h4>Research & Value Creation</h4>
                     <p>Innovation initiatives and technology advancement</p>
@@ -100,7 +100,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="11">
-                <img src="/assets/media/Slide15.jpg" alt="Cision Leaders Address" loading="lazy">
+                <img src="../../../assets/media/Slide15.jpg" alt="Cision Leaders Address" loading="lazy">
                 <div class="slide-caption">
                     <h4>Cision Leaders Address & Q&A</h4>
                     <p>Strategic vision and leadership insights</p>
@@ -108,7 +108,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="12">
-                <img src="/assets/media/Slide16.jpg" alt="Jeff Hicks" loading="lazy">
+                <img src="../../../assets/media/Slide16.jpg" alt="Jeff Hicks" loading="lazy">
                 <div class="slide-caption">
                     <h4>Jeff Hicks</h4>
                     <p>Leadership address from Cision executive</p>
@@ -116,7 +116,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="13">
-                <img src="/assets/media/Slide17.jpg" alt="Jerome Jelocha" loading="lazy">
+                <img src="../../../assets/media/Slide17.jpg" alt="Jerome Jelocha" loading="lazy">
                 <div class="slide-caption">
                     <h4>Jerome Jelocha</h4>
                     <p>Strategic insights from Cision leadership</p>
@@ -124,7 +124,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="14">
-                <img src="/assets/media/Slide23.jpg" alt="Awards Recognition 2024" loading="lazy">
+                <img src="../../../assets/media/Slide23.jpg" alt="Awards Recognition 2024" loading="lazy">
                 <div class="slide-caption">
                     <h4>Awards Recognition 2024</h4>
                     <p>Celebrating outstanding team achievements</p>
@@ -132,7 +132,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="15">
-                <img src="/assets/media/Slide27.jpg" alt="United in Action Awards" loading="lazy">
+                <img src="../../../assets/media/Slide27.jpg" alt="United in Action Awards" loading="lazy">
                 <div class="slide-caption">
                     <h4>United in Action Awards</h4>
                     <p>Recognizing exceptional collaboration and teamwork</p>
@@ -140,7 +140,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="16">
-                <img src="/assets/media/Slide28.jpg" alt="Make an Impact Awards" loading="lazy">
+                <img src="../../../assets/media/Slide28.jpg" alt="Make an Impact Awards" loading="lazy">
                 <div class="slide-caption">
                     <h4>Make an Impact Awards</h4>
                     <p>Honoring significant contributions and achievements</p>
@@ -148,7 +148,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="17">
-                <img src="/assets/media/Slide29.jpg" alt="Own It Awards" loading="lazy">
+                <img src="../../../assets/media/Slide29.jpg" alt="Own It Awards" loading="lazy">
                 <div class="slide-caption">
                     <h4>Own It Awards</h4>
                     <p>Celebrating leadership excellence and accountability</p>
@@ -156,7 +156,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="18">
-                <img src="/assets/media/Slide30.jpg" alt="Stronger Together Awards" loading="lazy">
+                <img src="../../../assets/media/Slide30.jpg" alt="Stronger Together Awards" loading="lazy">
                 <div class="slide-caption">
                     <h4>Stronger Together Awards</h4>
                     <p>Partnership strengthening and cross-team success</p>
@@ -164,7 +164,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="19">
-                <img src="/assets/media/Slide31.jpg" alt="Accion Leaders Address" loading="lazy">
+                <img src="../../../assets/media/Slide31.jpg" alt="Accion Leaders Address" loading="lazy">
                 <div class="slide-caption">
                     <h4>Accion Leaders Address</h4>
                     <p>Strategic direction from Accion leadership by Ramesh Narasimhan</p>
@@ -172,7 +172,7 @@ The AHM serves as a cornerstone event that strengthens the partnership between A
             </div>
             
             <div class="carousel-slide" data-slide="20">
-                <img src="/assets/media/Slide32.jpg" alt="Closing Notes 2024" loading="lazy">
+                <img src="../../../assets/media/Slide32.jpg" alt="Closing Notes 2024" loading="lazy">
                 <div class="slide-caption">
                     <h4>Closing Notes 2024</h4>
                     <p>Final remarks by Bhavesh, Rajesh</p>
