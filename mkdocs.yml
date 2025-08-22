@@ -50,8 +50,8 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
-  logo: logo.png
-  favicon: favicon.ico
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
 
 # Navigation Structure
 nav:
