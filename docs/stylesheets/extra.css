@@ -20,6 +20,54 @@
   color: white;
 }
 
+/* ===== LAYOUT OPTIMIZATIONS ===== */
+
+/* Maximize content area by reducing sidebar widths */
+.md-sidebar--primary {
+  width: 240px !important;
+  max-width: 240px !important;
+}
+
+.md-sidebar--secondary {
+  width: 240px !important;
+  max-width: 240px !important;
+}
+
+/* Increase content area padding and margins */
+.md-content {
+  padding: 2rem !important;
+  margin: 0 !important;
+  max-width: none !important;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Optimize main container */
+.md-main__inner {
+  margin: 0 !important;
+  max-width: none !important;
+}
+
+/* Responsive optimizations */
+@media (max-width: 1200px) {
+  .md-sidebar--primary {
+    width: 200px !important;
+    max-width: 200px !important;
+  }
+  
+  .md-sidebar--secondary {
+    width: 200px !important;
+    max-width: 200px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .md-content {
+    padding: 1rem !important;
+  }
+}
+
 .md-header__title {
   color: white;
   font-weight: 600;

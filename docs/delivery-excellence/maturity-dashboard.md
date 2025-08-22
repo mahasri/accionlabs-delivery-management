@@ -1,57 +1,4 @@
 # Delivery Maturity Dashboard
-## 🎯 Maturity Assessment Framework
-
-<div class="grid" markdown>
-
-<div class="card" markdown>
-
-**🟢 Level 1: Initial**
-- Basic processes in place
-- Ad-hoc delivery practices
-- Limited standardization
-- Reactive approach to issues
-
-**Score Range**: 1.0 - 2.0
-
-</div>
-
-<div class="card" markdown>
-
-**🟡 Level 2: Managed**
-- Defined processes established
-- Consistent delivery practices
-- Basic standardization
-- Proactive issue management
-
-**Score Range**: 2.1 - 3.0
-
-</div>
-
-<div class="card" markdown>
-
-**🟠 Level 3: Defined**
-- Standardized processes
-- Predictable delivery outcomes
-- Comprehensive documentation
-- Continuous improvement focus
-
-**Score Range**: 3.1 - 4.0
-
-</div>
-
-<div class="card" markdown>
-
-**🟢 Level 4: Optimizing**
-- Optimized processes
-- Excellence in delivery
-- Innovation and automation
-- Strategic value focus
-
-**Score Range**: 4.1 - 5.0
-
-</div>
-
-</div>
 
 ## 📊 Key Accomplishments
 
@@ -180,6 +127,7 @@
 </div>
 
 <div class="metric-item">
+<div class="metric-item">
 <div class="metric-label">Epic/Story Level Understanding</div>
 <div class="progress-bar">
 <div class="progress-fill" style="width: 90%"></div>
@@ -281,7 +229,8 @@
 
 ## 🏗️ Architecture Value Board (AVB) Metrics
 
-**1. Platform Excellence**
+<div class="metric-section">
+<h4 class="metric-section-title">🛠️ 1. Platform Excellence</h4>
 
 <div class="metric-grid">
 
@@ -307,6 +256,8 @@
 <div class="progress-fill" style="width: 90%"></div>
 </div>
 <div class="metric-score">4.5/5.0</div>
+</div>
+
 </div>
 
 </div>

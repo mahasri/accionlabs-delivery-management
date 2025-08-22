@@ -2,7 +2,7 @@
 site_name: Accion Labs Delivery Management
 site_description: Comprehensive delivery management handbook and resources
 site_author: Accion Labs
-site_url: https://mahasri.github.io/accionlabs-delivery-management/
+# site_url: https://mahasri.github.io/accionlabs-delivery-management/
 
 # Repository
 repo_name: mahasri/accionlabs-delivery-management
@@ -80,6 +80,7 @@ nav:
   - Delivery Excellence:
     - Overview: delivery-excellence/index.md
     - Induction Process: delivery-excellence/induction-process.md
+    - Transition: delivery-excellence/transition.md
     - QBR: delivery-excellence/qbr.md
     - Bi-weekly/MBR: delivery-excellence/bi-weekly-mbr.md
     - Delivery Governance: delivery-excellence/governance-framework.md
@@ -208,8 +209,6 @@ extra:
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
-  version:
-    provider: mike
   generator: false
 
 # Copyright
