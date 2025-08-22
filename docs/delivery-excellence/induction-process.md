@@ -42,14 +42,14 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Induction Guide Template Preview</p>
         <iframe 
-            src="/assets/documents/Induction%20Guide%20Template%20v0.96.pdf" 
+            src="../../assets/documents/Induction%20Guide%20Template%20v0.96.pdf" 
             width="100%" 
             height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
             title="Induction Guide Template Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 
-            <a href="/assets/documents/Induction%20Guide%20Template%20v0.96.pdf" target="_blank">Download the template PDF</a> instead.</p>
+            <a href="../../assets/documents/Induction%20Guide%20Template%20v0.96.pdf" target="_blank">Download the template PDF</a> instead.</p>
         </iframe>
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows the template structure • Use the buttons below to view sample or download template</em>
@@ -57,9 +57,9 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
     </div>
     
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
-        <a href="/assets/documents/RegEd-Induction%20guide_V-1.0.pdf" class="download-button" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
-            👁️ View Sample Guide
-        </a>
+                 <a href="../../assets/documents/RegEd-Induction%20guide_V-1.0.pdf" class="download-button" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
+             👁️ View Sample Guide
+         </a>
         
         <a href="https://tinyurl.com/Induction-Guide" class="download-button" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
             📥 Download Template
@@ -86,11 +86,11 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
                 📈 5P Induction Checklist
             </div>
             <div style="padding: 20px; background-color: white; text-align: center;">
-                <img 
-                    src="/assets/media/5P-Checklist.png" 
-                    alt="5P Induction Checklist Preview" 
-                    style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" 
-                />
+                                 <img 
+                     src="../../assets/media/5P-Checklist.png" 
+                     alt="5P Induction Checklist Preview" 
+                     style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" 
+                 />
             </div>
             <div style="background-color: #f8f9fa; padding: 10px; text-align: center; font-size: 12px; color: #666;">
                 💡 This is a preview - Download the full interactive Excel checklist below
@@ -123,14 +123,14 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">🎥 Kick-off Template Preview</p>
         <iframe 
-            src="/assets/documents/Project%20Kick-off%20Template.pdf" 
+            src="../../assets/documents/Project%20Kick-off%20Template.pdf" 
             width="100%" 
             height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
             title="Project Kick-off Template Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 
-            <a href="/assets/documents/Project%20Kick-off%20Template.pdf" target="_blank">Download the template PDF</a> instead.</p>
+            <a href="../../assets/documents/Project%20Kick-off%20Template.pdf" target="_blank">Download the template PDF</a> instead.</p>
         </iframe>
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows the kick-off template structure • Use the buttons below to view sample or download template</em>
@@ -167,11 +167,11 @@ The Induction Process is the foundational step in Accionlabs' delivery excellenc
                 🏢 EDC Checklist Template
             </div>
             <div style="padding: 20px; background-color: white; text-align: center;">
-                <img 
-                    src="/assets/media/EDC%20-%20Checklist%20-%20Template.gif" 
-                    alt="EDC Checklist Template Preview" 
-                    style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" 
-                />
+                                 <img 
+                     src="../../assets/media/EDC%20-%20Checklist%20-%20Template.gif" 
+                     alt="EDC Checklist Template Preview" 
+                     style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" 
+                 />
             </div>
             <div style="background-color: #f8f9fa; padding: 10px; text-align: center; font-size: 12px; color: #666;">
                 💡 This is a preview - Download the full EDC checklist below
