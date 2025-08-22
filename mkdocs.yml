@@ -83,6 +83,8 @@ nav:
     - Transition: delivery-excellence/transition.md
     - QBR: delivery-excellence/qbr.md
     - Bi-weekly/MBR: delivery-excellence/bi-weekly-mbr.md
+    - AHM / Townhall: delivery-excellence/ahm-townhall.md
+    - '🏆 Rewards & Recognitions': delivery-excellence/rewards-recognitions.md
     - Delivery Governance: delivery-excellence/governance-framework.md
     - Architecture Value Board:
       - Overview: delivery-excellence/architecture-value-board/index.md
@@ -96,35 +98,9 @@ nav:
       - Review Checklist: delivery-excellence/program-value-board/review-template.md
       - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
       - Review Reports: delivery-excellence/program-value-board/review-reports.md
-    - '🎯 **Maturity Dashboard**': delivery-excellence/maturity-dashboard.md
-    - '🤖 **GenAI Adoption Report**': genai-adoption/genai-adoption-report.md
-    - Guides:
-      - Induction Guide: delivery-excellence/guides/induction-guide.md
-      - Disaster Management - DR Approach: delivery-excellence/guides/disaster-management-dr-approach.md
-      - Manager Handbook By HR: delivery-excellence/guides/manager-handbook-by-hr.md
-      - PIP Policy: delivery-excellence/guides/pip-policy.md
-    - Templates:
-      - Overview: delivery-excellence/templates/index.md
-      - QBR Template: delivery-excellence/templates/qbr.md
-      - MBR Template: delivery-excellence/templates/mbr.md
-      - All Is Well Report: delivery-excellence/templates/all-is-well-report.md
-      - Interview Evaluation Sheet: delivery-excellence/templates/interview-evaluation-sheet.md
-      - Issue Register: delivery-excellence/templates/issue-register.md
-      - MOM Template: delivery-excellence/templates/mom-template.md
-      - Project Estimation Template: delivery-excellence/templates/project-estimation-template.md
-      - Project Kickoff Template (Sample): delivery-excellence/templates/project-kickoff-template-sample.md
-      - RAID Log: delivery-excellence/templates/raid-log.md
-      - RASCI Template: delivery-excellence/templates/rasci-template.md
-      - RCA Template: delivery-excellence/templates/rca-template.md
-      - Requirement Traceability Matrix: delivery-excellence/templates/requirement-traceability-matrix.md
-      - Risk Register: delivery-excellence/templates/risk-register.md
-      - Timesheet Document: delivery-excellence/templates/timesheet-document.md
-    - Checklists:
-      - Overview: delivery-excellence/checklists/index.md
-      - EDC Checklist: delivery-excellence/checklists/edc.md
-      - All Is Well Report Requirements: delivery-excellence/checklists/all-is-well-report-requirements.md
-      - Architecture & Development Review: delivery-excellence/checklists/architecture-development-review.md
-      - Release Checklist: delivery-excellence/checklists/release-checklist.md
+    - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
+    - '🤖 GenAI Adoption Report': genai-adoption/genai-adoption-report.md
+    - Key Resources: delivery-excellence/key-resources.md
 
 
 

@@ -77,7 +77,7 @@ Our Program Value Board is continuously measured and improved through:
 
 ## 🔄 PVB Process
 
-<div class="mermaid">
+```mermaid
 graph TD
     A[Program Initiation] --> B[PVB Setup]
     B --> C[Strategic Alignment]
@@ -86,7 +86,7 @@ graph TD
     E --> F[Value Realization]
     F --> G[Continuous Improvement]
     G --> C
-</div>
+```
 
 ## 📋 PVB Components
 

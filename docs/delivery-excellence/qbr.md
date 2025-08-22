@@ -4,59 +4,43 @@
 
 The Quarterly Business Review (QBR) is a strategic communication tool that provides stakeholders with comprehensive insights into project performance, achievements, challenges, and strategic direction. It ensures transparency, demonstrates value delivery, and aligns stakeholders on project objectives and outcomes.
 
-## Download Resources
+QBRs serve as critical touchpoints between delivery teams and business stakeholders, fostering trust through transparent reporting and data-driven insights. They provide a structured framework for reviewing quarterly achievements, addressing challenges, and planning strategic initiatives for upcoming quarters.
 
-<div class="download-section">
-    <div class="download-card">
-        <h3>📋 QBR Template</h3>
-        <p>Comprehensive Quarterly Business Review template</p>
-        <a href="https://tinyurl.com/QBRTempp" class="download-button" target="_blank">Download Template</a>
+## 📊 Sample QBR
+
+<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+    <div style="margin-bottom: 15px;">
+        <h3 style="color: #333; margin-bottom: 10px;">📊 QBR Template</h3>
+        <p style="color: #666; margin-bottom: 20px;">Sample quarterly business review presentation with comprehensive metrics and insights</p>
     </div>
+    
+    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📊 QBR Sample Preview</p>
+        <iframe 
+            src="../../assets/documents/Accion%20Cision%20QBR%20%20-%20Q1%202025.pdf" 
+            width="100%" 
+            height="600px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            title="QBR Sample Preview"
+            frameborder="0">
+            <p>Your browser does not support PDFs. 
+            <a href="../../assets/documents/Accion%20Cision%20QBR%20%20-%20Q1%202025.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+        </iframe>
+        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows the sample QBR structure • Use the button below to download the template</em>
+        </p>
+    </div>
+    
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
+        <a href="https://tinyurl.com/QBRTempp" class="download-button" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
+            📥 Download Template
+        </a>
+    </div>
+
+    <p style="margin-top: 15px; font-size: 12px; color: #999;">
+        📊 <strong>Template:</strong> QBR Template • 📄 <strong>Sample:</strong> Accion Cision QBR - Q1 2025.pdf
+    </p>
 </div>
-
-## What We Report to Customers
-
-### 📊 **Executive Summary and Highlights**
-- **Quarter Highlights**: Key achievements and milestones for the quarter
-- **Performance Metrics**: Story points delivered, velocity achieved, team metrics
-- **Value Additions**: Significant value additions and improvements delivered
-- **Accolades**: Recognition and achievements received during the quarter
-- **Strategic Overview**: High-level summary of quarter performance and impact
-
-### 📈 **Performance and Delivery Metrics**
-- **Sprint Velocity**: Planned vs actual velocity tracking across sprints
-- **Team Composition**: Current team structure and resource allocation
-- **Release Statistics**: Number of releases and key features delivered
-- **Quality Metrics**: QA performance and quality assurance results
-- **Timeline Adherence**: Schedule performance and milestone achievement
-
-### 🎯 **Project Details and Progress**
-- **Project Summary**: Comprehensive project overview and current status
-- **Key Highlights**: Major accomplishments and significant deliverables
-- **Team Details**: Team composition, roles, and performance metrics
-- **Sprint Analysis**: Detailed sprint-wise performance and velocity analysis
-- **Release Tracking**: Production releases and feature delivery status
-
-### 📋 **Value Additions and Improvements**
-- **Improvement Activities**: Specific improvements and value-add activities
-- **Outcome Measurement**: Quantifiable outcomes and business impact
-- **Process Enhancements**: Process improvements and optimization initiatives
-- **Technology Upgrades**: Technical improvements and system enhancements
-- **User Experience**: UX improvements and user satisfaction metrics
-
-### 🔍 **Challenges and Mitigation**
-- **Findings and Challenges**: Key challenges and issues identified
-- **Mitigation Plans**: Specific actions and plans to address challenges
-- **Risk Assessment**: Current risks and their impact on project delivery
-- **Lessons Learned**: Key learnings and insights from the quarter
-- **Action Items**: Specific actions and next steps for improvement
-
-### 📊 **Strategic Planning and Roadmap**
-- **Next Quarter Planning**: Strategic objectives for the upcoming quarter
-- **Resource Planning**: Resource requirements and allocation plans
-- **Technology Roadmap**: Technology evolution and upgrade plans
-- **Process Improvements**: Planned process enhancements and optimizations
-- **Stakeholder Alignment**: Alignment with stakeholder expectations and goals
 
 ---
 
