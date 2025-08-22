@@ -143,6 +143,8 @@ extra_javascript:
   - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
   - javascripts/mermaid-init.js
 
+
+
 # Theme overrides
 # overrides:
 #   main.html: overrides/main.html

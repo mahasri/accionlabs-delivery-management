@@ -21,6 +21,16 @@ if ! command -v mkdocs &> /dev/null; then
     pip install mkdocs mkdocs-material mkdocs-minify-plugin
 fi
 
+# Build the site first to ensure documents are copied
+echo "🔨 Building site to ensure documents are included..."
+mkdocs build
+
+# Copy documents if script exists
+if [ -f "scripts/copy_documents.py" ]; then
+    echo "📄 Copying documents to site directory..."
+    python scripts/copy_documents.py
+fi
+
 # Start development server
 echo "🌐 Starting development server on http://127.0.0.1:8001"
 echo "📝 Press Ctrl+C to stop the server"

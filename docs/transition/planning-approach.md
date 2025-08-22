@@ -64,7 +64,7 @@ Accion's transition process comprises several detailed phases designed to ensure
 5. Independent Ramp Up
 6. Operationalize
 
-![Transition Process Overview](../assets/media/image8.png)
+![Transition Process Overview](../assets/media/phase-transition-plan.png)
 
 ### 1. Prepare Phase
 
