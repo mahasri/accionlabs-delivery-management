@@ -12,7 +12,7 @@ These awards represent direct recognition from our clients, highlighting excepti
     <div class="carousel-wrapper">
         <div class="carousel-main">
             <div class="carousel-slide active" data-slide="1">
-                <img src="/assets/media/reward-1.png" alt="Azira Customer Appreciation" loading="lazy">
+                <img src="../../../assets/media/reward-1.png" alt="Azira Customer Appreciation" loading="lazy">
                 <div class="slide-caption">
                     <h4>Azira - Customer Appreciation</h4>
                     <p>Team recognition for engineering excellence and dedicated support</p>
@@ -20,7 +20,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="2">
-                <img src="/assets/media/reward-2.png" alt="CodaMetrix Customer Appreciation" loading="lazy">
+                <img src="../../../assets/media/reward-2.png" alt="CodaMetrix Customer Appreciation" loading="lazy">
                 <div class="slide-caption">
                     <h4>CodaMetrix - Customer Appreciation</h4>
                     <p>Kore Project Team recognition for security excellence</p>
@@ -28,7 +28,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="3">
-                <img src="/assets/media/reward-3.png" alt="ABS Customer Appreciation - Ganesh" loading="lazy">
+                <img src="../../../assets/media/reward-3.png" alt="ABS Customer Appreciation - Ganesh" loading="lazy">
                 <div class="slide-caption">
                     <h4>ABS - Customer Appreciation</h4>
                     <p>Individual excellence recognition for Ganesh Ghuge</p>
@@ -36,7 +36,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="4">
-                <img src="/assets/media/reward-4.png" alt="Team Marvel Award - LeadVenture PSM" loading="lazy">
+                <img src="../../../assets/media/reward-4.png" alt="Team Marvel Award - LeadVenture PSM" loading="lazy">
                 <div class="slide-caption">
                     <h4>Team Marvel Award - LeadVenture PSM</h4>
                     <p>Performance enhancement excellence recognition</p>
@@ -44,7 +44,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="5">
-                <img src="/assets/media/reward-5.png" alt="Team Marvel Award - LeadVenture Ignition" loading="lazy">
+                <img src="../../../assets/media/reward-5.png" alt="Team Marvel Award - LeadVenture Ignition" loading="lazy">
                 <div class="slide-caption">
                     <h4>Team Marvel Award - LeadVenture Ignition</h4>
                     <p>Platform development excellence recognition</p>
@@ -52,7 +52,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="6">
-                <img src="/assets/media/reward-6.png" alt="Veracode Customer Appreciation - Mabub" loading="lazy">
+                <img src="../../../assets/media/reward-6.png" alt="Veracode Customer Appreciation - Mabub" loading="lazy">
                 <div class="slide-caption">
                     <h4>Veracode - Customer Appreciation</h4>
                     <p>IT Operations excellence recognition for Mabub</p>
@@ -60,7 +60,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="7">
-                <img src="/assets/media/reward-7.png" alt="Magnifact Customer Appreciation" loading="lazy">
+                <img src="../../../assets/media/reward-7.png" alt="Magnifact Customer Appreciation" loading="lazy">
                 <div class="slide-caption">
                     <h4>Magnifact - Customer Appreciation</h4>
                     <p>GenAI implementation excellence recognition</p>
@@ -68,7 +68,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="8">
-                <img src="/assets/media/reward-8.png" alt="Azira Customer Appreciation - Mrinal" loading="lazy">
+                <img src="../../../assets/media/reward-8.png" alt="Azira Customer Appreciation - Mrinal" loading="lazy">
                 <div class="slide-caption">
                     <h4>Azira - Customer Appreciation</h4>
                     <p>Individual excellence recognition for Mrinal Pandey</p>
@@ -76,7 +76,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="9">
-                <img src="/assets/media/reward-9.png" alt="Neighbourly Software Customer Appreciation" loading="lazy">
+                <img src="../../../assets/media/reward-9.png" alt="Neighbourly Software Customer Appreciation" loading="lazy">
                 <div class="slide-caption">
                     <h4>Neighbourly Software - Customer Appreciation</h4>
                     <p>Team excellence and project recovery recognition</p>
@@ -84,7 +84,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="10">
-                <img src="/assets/media/reward-10.png" alt="Veracode Customer Appreciation - Pushpa" loading="lazy">
+                <img src="../../../assets/media/reward-10.png" alt="Veracode Customer Appreciation - Pushpa" loading="lazy">
                 <div class="slide-caption">
                     <h4>Veracode - Customer Appreciation</h4>
                     <p>QE excellence recognition for Pushpa Angadi</p>
@@ -92,7 +92,7 @@ These awards represent direct recognition from our clients, highlighting excepti
             </div>
             
             <div class="carousel-slide" data-slide="11">
-                <img src="/assets/media/reward-11.png" alt="Rotary Customer Appreciation" loading="lazy">
+                <img src="../../../assets/media/reward-11.png" alt="Rotary Customer Appreciation" loading="lazy">
                 <div class="slide-caption">
                     <h4>Rotary - Customer Appreciation</h4>
                     <p>Multi-team collaboration excellence recognition</p>
