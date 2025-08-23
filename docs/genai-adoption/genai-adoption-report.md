@@ -1,178 +1,363 @@
 # GenAI Adoption Report
 
-## 📄 Detailed Analysis Report
-
-[View Comprehensive GenAI Analysis YTD 2025](GenAI-Capabilities-Analysis-YTD-2025.html){: .md-button .md-button--primary target="_blank"}
-
-Our comprehensive analysis showcases verified GenAI implementations across 24 client accounts, demonstrating measurable productivity improvements and successful tool adoption throughout the software development lifecycle.
-
-This dashboard presents our proven capabilities in AI-powered development, quality engineering, and knowledge management solutions.
-
-<div class="data-quality-banner">
-    <h3>🤖 GenAI Excellence Overview</h3>
-    <p>Our comprehensive analysis showcases verified GenAI implementations across 24 client accounts, demonstrating measurable productivity improvements and successful tool adoption throughout the software development lifecycle.</p>
-    <p>This dashboard presents our proven capabilities in AI-powered development, quality engineering, and knowledge management solutions.</p>
-</div>
-
 <div class="dashboard-grid">
-    <!-- SECTION 1: Key Metrics & Tool Adoption -->
+    <!-- SECTION 1: Key Performance Indicators -->
     <div class="card">
         <h2>📈 Key Performance Indicators</h2>
         <div class="metrics-row">
             <div class="metric-card">
-                <div class="metric-value">24</div>
-                <div class="metric-label">Total Client Accounts</div>
-                <div class="source-info">Source: Sheet1 verified data</div>
+                <div class="metric-value">135 / 209</div>
+                <div class="metric-label">Projects using GenAI</div>
+                <div class="source-info">Source: Verified project data</div>
             </div>
             <div class="metric-card">
-                <div class="metric-value">6</div>
-                <div class="metric-label">Accounts with Quantified Results</div>
-                <div class="source-info">Source: Direct productivity metrics</div>
+                <div class="metric-value">67%</div>
+                <div class="metric-label">GenAI Tools in Engineering</div>
+                <div class="source-info">Source: Engineering adoption metrics</div>
             </div>
             <div class="metric-card">
-                <div class="metric-value">7</div>
-                <div class="metric-label">Verified GenAI Tools</div>
-                <div class="source-info">Source: Tool implementation data</div>
+                <div class="metric-value">42%</div>
+                <div class="metric-label">Workflow Automation in SDLC</div>
+                <div class="source-info">Source: SDLC automation data</div>
             </div>
             <div class="metric-card">
-                <div class="metric-value">15-50%</div>
-                <div class="metric-label">Productivity Improvement Range</div>
-                <div class="source-info">Source: Verified account results</div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Account Portfolio Overview -->
-    <div class="card">
-        <h2>📋 Account Portfolio Overview</h2>
-        <div class="achievement-grid">
-            <div class="achievement-item">
-                <h4>High-Impact Accounts (6)</h4>
-                <p>Accounts with quantified productivity improvements</p>
-                <div class="source-info">Evidence: Direct productivity metrics</div>
-            </div>
-            <div class="achievement-item">
-                <h4>Tool Implementation (10+)</h4>
-                <p>Accounts with verified GenAI tool usage</p>
-                <div class="source-info">Evidence: Tool mentions in project data</div>
-            </div>
-            <div class="achievement-item">
-                <h4>Training & Development (8+)</h4>
-                <p>Accounts with GenAI training initiatives</p>
-                <div class="source-info">Evidence: Training program documentation</div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Tool Adoption Chart -->
-    <div class="card">
-        <h2>🛠️ GenAI Tool Adoption</h2>
-        <div class="chart-container">
-            <canvas id="toolAdoptionChart"></canvas>
-        </div>
-        <div class="achievement-grid">
-            <div class="achievement-item">
-                <h4>GitHub Copilot</h4>
-                <p><strong>4 accounts</strong> - Code generation, refactoring</p>
-                <div class="source-info">Source: Multiple client implementations</div>
-            </div>
-            <div class="achievement-item">
-                <h4>Cursor</h4>
-                <p><strong>4 accounts</strong> - Code generation</p>
-                <div class="source-info">Source: Multiple client implementations</div>
-            </div>
-            <div class="achievement-item">
-                <h4>Local LLMs</h4>
-                <p><strong>3 accounts</strong> - Code generation, testing</p>
-                <div class="source-info">Source: Multiple client implementations</div>
+                <div class="metric-value">2125</div>
+                <div class="metric-label">Employees Trained</div>
+                <div class="source-info">Source: Training program records</div>
             </div>
         </div>
     </div>
 </div>
 
-<!-- SECTION 2: GenAI Capabilities -->
+<!-- SECTION 2: GenAI in SDLC Integration -->
 <div class="capabilities-section">
-    <h2>🎯 Our GenAI Capabilities</h2>
-    <div class="capabilities-grid">
-        <div class="capability-card">
-            <h3>🛠️ GenAI Tools in SDLC</h3>
-            <ul>
-                <li>GitHub Copilot - Code generation & refactoring</li>
-                <li>Cursor - Advanced code completion</li>
-                <li>Continue - AI-powered development</li>
-                <li>Local LLMs - Custom AI solutions</li>
-                <li>RAG Systems - Knowledge analysis</li>
-                <li>Accion Solution - QA testing automation</li>
-                <li>Breeze AI QE - Quality engineering</li>
-            </ul>
-        </div>
-        <div class="capability-card">
-            <h3>⚡ Workflow Automation</h3>
-            <ul>
-                <li>Code generation & review automation</li>
-                <li>Test case generation & execution</li>
-                <li>Documentation creation & maintenance</li>
-                <li>Bug analysis & fix suggestions</li>
-                <li>Knowledge base search & analysis</li>
-                <li>Requirements analysis & validation</li>
-            </ul>
-        </div>
-        <div class="capability-card">
-            <h3>🎯 Industry Solutions</h3>
-            <ul>
-                <li>Financial AI solutions</li>
-                <li>Healthcare data analysis</li>
-                <li>Transportation knowledge systems</li>
-                <li>Legal document processing</li>
-                <li>Security & access control</li>
-                <li>Quality engineering automation</li>
-            </ul>
-        </div>
-        <div class="capability-card">
-            <h3>📊 Implementation Success</h3>
-            <ul>
-                <li>50% productivity improvement</li>
-                <li>40% development efficiency</li>
-                <li>30% knowledge analysis gains</li>
-                <li>60% AI adoption in QE</li>
-                <li>18% velocity improvement</li>
-                <li>25% expected improvement</li>
-            </ul>
-        </div>
+    <h2>🎯 GenAI in SDLC Integration</h2>
+    <div class="sdlc-table-container">
+        <table class="sdlc-table">
+            <thead>
+                <tr>
+                    <th>SDLC Stage</th>
+                    <th>Primary Tools</th>
+                    <th>Key Use Cases</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Requirements</strong></td>
+                    <td>AI-assisted writing, Cursor</td>
+                    <td>Story writing, requirements analysis</td>
+                </tr>
+                <tr>
+                    <td><strong>Coding</strong></td>
+                    <td>GitHub Copilot, Cursor, Continue, Local LLMs</td>
+                    <td>Code generation, completion, refactoring</td>
+                </tr>
+                <tr>
+                    <td><strong>Unit Testing</strong></td>
+                    <td>GitHub Copilot, AI test generators</td>
+                    <td>Test case generation, coverage improvement</td>
+                </tr>
+                <tr>
+                    <td><strong>QA/Testing</strong></td>
+                    <td>Accion Labs, Breeze AI, Playwright+AI</td>
+                    <td>Automated testing, bug detection</td>
+                </tr>
+                <tr>
+                    <td><strong>CI/CD</strong></td>
+                    <td>Automation POCs, Pipeline AI</td>
+                    <td>Pipeline optimization, deployment</td>
+                </tr>
+                <tr>
+                    <td><strong>Support</strong></td>
+                    <td>Chatbots, Knowledge AI</td>
+                    <td>Customer support, issue resolution</td>
+                </tr>
+                <tr>
+                    <td><strong>Documentation</strong></td>
+                    <td>AI documentation tools</td>
+                    <td>Code docs, technical writing</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 </div>
 
-<!-- SECTION 3: Verified Results & Portfolio -->
+<!-- SECTION 3: GenAI Tools Portfolio -->
 <div class="dashboard-grid">
-    <!-- Productivity Chart -->
     <div class="card">
-        <h2>🚀 Verified Productivity Improvements</h2>
-        <div class="chart-container">
-            <canvas id="productivityChart"></canvas>
-        </div>
-        <div class="achievement-grid">
-            <div class="achievement-item">
-                <p><strong>50% improvement</strong> - Continue tool</p>
-                <div class="source-info">✅ Achieved | Source: Sheet1 direct data</div>
+        <h2>🛠️ GenAI Tools Portfolio</h2>
+        <div class="tools-section">
+            <div class="tool-category">
+                <h4>Development & Coding</h4>
+                <div class="tool-item">
+                    <div class="tool-name">GitHub Copilot</div>
+                    <div class="tool-desc">AI-powered code completion and generation</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Cursor AI</div>
+                    <div class="tool-desc">Advanced AI code editor with context awareness</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Codeium AI</div>
+                    <div class="tool-desc">Intelligent code completion and suggestions</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Blackbox</div>
+                    <div class="tool-desc">AI-powered code search and generation</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Replit</div>
+                    <div class="tool-desc">Cloud-based development with AI assistance</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Windsurf Editor</div>
+                    <div class="tool-desc">AI-enhanced code editing platform</div>
+                </div>
             </div>
-            <div class="achievement-item">
-                <p><strong>40% improvement</strong> - Local LLMs</p>
-                <div class="source-info">✅ Achieved | Source: Sheet1 direct data</div>
+            
+            <div class="tool-category">
+                <h4>Testing & Quality Assurance</h4>
+                <div class="tool-item">
+                    <div class="tool-name">Playwright</div>
+                    <div class="tool-desc">AI-enhanced browser automation testing</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Test Rigor</div>
+                    <div class="tool-desc">AI-powered test automation platform</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">PostBot</div>
+                    <div class="tool-desc">AI-driven API testing and validation</div>
+                </div>
             </div>
-            <div class="achievement-item">
-                <p><strong>30% improvement</strong> - RAG systems</p>
-                <div class="source-info">✅ Achieved | Source: Sheet1 direct data</div>
+            
+            <div class="tool-category">
+                <h4>Cloud & AI Platforms</h4>
+                <div class="tool-item">
+                    <div class="tool-name">AWS AI</div>
+                    <div class="tool-desc">Amazon's comprehensive AI services</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Azure AI</div>
+                    <div class="tool-desc">Microsoft's AI and machine learning platform</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Vertex AI</div>
+                    <div class="tool-desc">Google Cloud's AI development platform</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">OpenAI</div>
+                    <div class="tool-desc">Advanced language models and AI APIs</div>
+                </div>
             </div>
-            <div class="achievement-item projected">
-                <p><strong>25% improvement</strong> - Cursor</p>
-                <div class="source-info">⏳ Expected | Source: Ref sheet projection</div>
+            
+            <div class="tool-category">
+                <h4>Automation & Integration</h4>
+                <div class="tool-item">
+                    <div class="tool-name">n8n</div>
+                    <div class="tool-desc">AI-powered workflow automation</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Jellyfish</div>
+                    <div class="tool-desc">AI-driven project management and analytics</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Crew AI</div>
+                    <div class="tool-desc">Multi-agent AI collaboration platform</div>
+                </div>
+            </div>
+            
+            <div class="tool-category">
+                <h4>Content & Documentation</h4>
+                <div class="tool-item">
+                    <div class="tool-name">Gamma</div>
+                    <div class="tool-desc">AI-powered presentation and content creation</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Erasor.io</div>
+                    <div class="tool-desc">AI-enhanced content editing and optimization</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Msty</div>
+                    <div class="tool-desc">AI-driven content generation platform</div>
+                </div>
+            </div>
+            
+            <div class="tool-category">
+                <h4>AI Models & Assistants</h4>
+                <div class="tool-item">
+                    <div class="tool-name">Cody</div>
+                    <div class="tool-desc">AI coding assistant and knowledge base</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Qwen</div>
+                    <div class="tool-desc">Advanced language model for various tasks</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Llama</div>
+                    <div class="tool-desc">Open-source large language model</div>
+                </div>
+                <div class="tool-item">
+                    <div class="tool-name">Grok</div>
+                    <div class="tool-desc">AI assistant with real-time knowledge</div>
+                </div>
+            </div>
+            
+            <div class="tool-category">
+                <h4>Specialized Solutions</h4>
+                <div class="tool-item">
+                    <div class="tool-name">Rubrik AI</div>
+                    <div class="tool-desc">AI-powered data management and backup</div>
+                </div>
             </div>
         </div>
     </div>
-
 </div>
 
-
+<!-- SECTION 4: GenAI in Projects & Use Cases -->
+<div class="dashboard-grid">
+    <div class="card">
+        <h2>🚀 GenAI in Projects & Use Cases</h2>
+        <div class="use-cases-container">
+            <div>
+                <div class="use-case-category">
+                    <h4>Document & Content Processing</h4>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Parsing documents in raw word format and generating structured format with relevant Title, Headings tags</div>
+                        <div class="project-count">4</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Content data conversion from PDF to JSON and vice versa</div>
+                        <div class="project-count">3</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Image & Text Attribution by extracting metadata from Images / documents</div>
+                        <div class="project-count">3</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">On-the-fly Preparation of Press Release Content for Customers with in-flow recommendations</div>
+                        <div class="project-count">1</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">AI assisted content creation and context based media asset recommendation</div>
+                        <div class="project-count">1</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Meaningful Meta description snippet generation</div>
+                        <div class="project-count">2</div>
+                    </div>
+                </div>
+                
+                <div class="use-case-category">
+                    <h4>AI-Powered Chatbots & Support</h4>
+                    <div class="use-case-item">
+                        <div class="use-case-text">AI-powered chatbot in multiple areas like self-assisted customer support, coding assistant, Incident classification</div>
+                        <div class="project-count">5</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Post-sale customer support with recommendation of nearest and shortest delivery options</div>
+                        <div class="project-count">1</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Customer segmentation and Personalized support</div>
+                        <div class="project-count">2</div>
+                    </div>
+                </div>
+                
+                <div class="use-case-category">
+                    <h4>Recommendation & Analytics</h4>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Product Selection Recommendations</div>
+                        <div class="project-count">1</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Ticker data recommendation from Market listing pages</div>
+                        <div class="project-count">1</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">LLM Traffic Optimization (AEO/GEO) and analytics</div>
+                        <div class="project-count">1</div>
+                    </div>
+                </div>
+                
+                <div class="use-case-category">
+                    <h4>Testing & Automation</h4>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Test Cases Generation for API/UI automation by scanning Requirements details and acceptance criteria</div>
+                        <div class="project-count">2</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">API and UI testing Automation</div>
+                        <div class="project-count">3</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Error classification and workflow automation</div>
+                        <div class="project-count">1</div>
+                    </div>
+                </div>
+                
+                <div class="use-case-category">
+                    <h4>Business Process Automation</h4>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Email to order creation</div>
+                        <div class="project-count">2</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Vendor qualification and approval workflow automation</div>
+                        <div class="project-count">2</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Image review, analysis and approval process</div>
+                        <div class="project-count">1</div>
+                    </div>
+                </div>
+                
+                <div class="use-case-category">
+                    <h4>Data & Healthcare</h4>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Generate EHR data and de-identify for building synthetic data for modeling</div>
+                        <div class="project-count">1</div>
+                    </div>
+                    <div class="use-case-item">
+                        <div class="use-case-text">Legacy Modernization</div>
+                        <div class="project-count">1</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="clients-section">
+                <div class="clients-title">Top Accounts</div>
+                <div class="clients-grid">
+                    <div class="client-item">Dell</div>
+                    <div class="client-item">Ingram Micro</div>
+                    <div class="client-item">LSAC</div>
+                    <div class="client-item">Edifecs</div>
+                    <div class="client-item">Cision</div>
+                    <div class="client-item">CBC</div>
+                    <div class="client-item">Corsearch</div>
+                    <div class="client-item">Noodle.ai</div>
+                    <div class="client-item">Syndigo</div>
+                    <div class="client-item">Caliber</div>
+                    <div class="client-item">Finvi</div>
+                    <div class="client-item">Extreme Reach</div>
+                    <div class="client-item">Magnifact</div>
+                    <div class="client-item">Sage Pub</div>
+                    <div class="client-item">Rotary</div>
+                    <div class="client-item">Xybion</div>
+                    <div class="client-item">Zuum</div>
+                    <div class="client-item">Hivemindd</div>
+                    <div class="client-item">BCI</div>
+                    <div class="client-item">Neighborly</div>
+                    <div class="client-item">Covetrus</div>
+                    <div class="client-item">Riskconnect</div>
+                    <div class="client-item">Brightquery</div>
+                    <div class="client-item">Everbridge</div>
+                    <div class="client-item">Leadventure</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <style>
 * {
@@ -253,40 +438,6 @@ This dashboard presents our proven capabilities in AI-powered development, quali
     font-weight: 500;
 }
 
-.chart-container {
-    position: relative;
-    height: 300px;
-    margin: 20px 0;
-}
-
-.achievement-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 15px;
-    margin-top: 20px;
-}
-
-.achievement-item {
-    background: #f8fafc;
-    padding: 15px;
-    border-radius: 8px;
-    border-left: 4px solid #10b981;
-}
-
-.achievement-item.projected {
-    border-left-color: #f59e0b;
-}
-
-.achievement-item h4 {
-    color: #1f2937;
-    margin-bottom: 8px;
-}
-
-.achievement-item p {
-    color: #64748b;
-    font-size: 0.9rem;
-}
-
 .source-info {
     font-size: 0.8rem;
     color: #6b7280;
@@ -301,76 +452,170 @@ This dashboard presents our proven capabilities in AI-powered development, quali
     margin: 20px 0;
 }
 
-.capabilities-grid {
+.capabilities-section h2 {
+    color: #1e3a8a;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.sdlc-table-container {
+    overflow-x: auto;
+}
+
+.sdlc-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.sdlc-table th {
+    background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+    color: white;
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.sdlc-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #e5e7eb;
+    color: #374151;
+}
+
+.sdlc-table tr:hover {
+    background: #f9fafb;
+}
+
+.tools-section {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     margin-top: 20px;
 }
 
-.capability-card {
-    background: white;
+.tool-category {
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    border-left: 4px solid #6366f1;
 }
 
-.capability-card h3 {
-    color: #1e3a8a;
-    margin-bottom: 10px;
-    font-size: 1.2rem;
-}
-
-.capability-card ul {
-    list-style: none;
-    padding: 0;
-}
-
-.capability-card li {
-    padding: 5px 0;
-    color: #374151;
-    position: relative;
-    padding-left: 20px;
-}
-
-.capability-card li:before {
-    content: "✓";
-    position: absolute;
-    left: 0;
-    color: #10b981;
-    font-weight: bold;
-}
-
-.limitations-section {
-    background: #fef2f2;
-    border: 1px solid #fecaca;
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 8px;
-}
-
-.limitations-section h3 {
-    color: #991b1b;
+.tool-category h4 {
+    color: #4338ca;
     margin-bottom: 15px;
+    font-size: 1.1rem;
 }
 
-.limitations-section ul {
-    list-style: none;
-    padding: 0;
+.tool-item {
+    background: white;
+    margin: 8px 0;
+    padding: 12px 15px;
+    border-radius: 6px;
+    border-left: 3px solid #e5e7eb;
+    transition: all 0.3s ease;
 }
 
-.limitations-section li {
-    padding: 5px 0;
-    color: #7f1d1d;
-    position: relative;
-    padding-left: 20px;
+.tool-item:hover {
+    border-left-color: #6366f1;
+    background: #fefbff;
 }
 
-.limitations-section li:before {
-    content: "⚠";
-    position: absolute;
-    left: 0;
-    color: #dc2626;
+.tool-name {
+    font-weight: bold;
+    color: #1f2937;
+    font-size: 0.9rem;
+}
+
+.tool-desc {
+    color: #6b7280;
+    font-size: 0.8rem;
+    margin-top: 3px;
+}
+
+.use-cases-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.use-case-category {
+    background: #fafafa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.use-case-category h4 {
+    color: #1f2937;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 8px;
+}
+
+.use-case-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    background: white;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    border-left: 3px solid #6366f1;
+}
+
+.use-case-text {
+    flex-grow: 1;
+    font-size: 0.85rem;
+    color: #374151;
+    line-height: 1.4;
+}
+
+.project-count {
+    background: #6366f1;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    margin-left: 10px;
+    min-width: 30px;
+    text-align: center;
+}
+
+.clients-section {
+    background: linear-gradient(135deg, #ede9fe 0%, #ddd6fe 100%);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.clients-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #5b21b6;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.clients-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 8px;
+}
+
+.client-item {
+    background: white;
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    color: #374151;
+    text-align: center;
+    border: 1px solid #e5e7eb;
 }
 
 @media (max-width: 768px) {
@@ -381,130 +626,15 @@ This dashboard presents our proven capabilities in AI-powered development, quali
     .metrics-row {
         grid-template-columns: 1fr;
     }
+    
+    .use-cases-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .tools-section {
+        grid-template-columns: 1fr;
+    }
 }
 </style>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-// Ensure charts load properly by waiting for DOM and Chart.js
-document.addEventListener('DOMContentLoaded', function() {
-    // Wait for Chart.js to load and DOM to be ready
-    setTimeout(initializeCharts, 100);
-});
-
-// Fallback for window load
-window.addEventListener('load', initializeCharts);
-
-function initializeCharts() {
-    // Check if Chart.js is available
-    if (typeof Chart === 'undefined') {
-        console.error('Chart.js not loaded, retrying...');
-        setTimeout(initializeCharts, 500);
-        return;
-    }
-
-    // Tool Adoption Chart
-    const toolAdoptionCtx = document.getElementById('toolAdoptionChart');
-    if (toolAdoptionCtx && !toolAdoptionCtx.chart) {
-        toolAdoptionCtx.chart = new Chart(toolAdoptionCtx, {
-        type: 'doughnut',
-        data: {
-            labels: ['GitHub Copilot', 'Cursor', 'Local LLMs', 'RAG Systems', 'Continue', 'Accion/Breeze AI'],
-            datasets: [{
-                data: [4, 4, 3, 3, 2, 2],
-                backgroundColor: [
-                    '#3b82f6',
-                    '#8b5cf6',
-                    '#06b6d4',
-                    '#10b981',
-                    '#f59e0b',
-                    '#ef4444'
-                ],
-                borderWidth: 2,
-                borderColor: '#ffffff'
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: {
-                    position: 'bottom',
-                    labels: {
-                        padding: 20,
-                        usePointStyle: true
-                    }
-                },
-                tooltip: {
-                    callbacks: {
-                        label: function(context) {
-                            return context.label + ': ' + context.parsed + ' accounts';
-                        }
-                    }
-                }
-            }
-        }
-    });
-}
-
-// Productivity Chart
-const productivityCtx = document.getElementById('productivityChart');
-if (productivityCtx && !productivityCtx.chart) {
-    productivityCtx.chart = new Chart(productivityCtx, {
-        type: 'bar',
-        data: {
-            labels: ['Account 1', 'Account 2', 'Account 3', 'Account 4*', 'Account 5', 'Account 6'],
-            datasets: [{
-                label: 'Productivity Improvement (%)',
-                data: [50, 40, 30, 25, 18, 17.5],
-                backgroundColor: [
-                    '#10b981',
-                    '#10b981', 
-                    '#10b981',
-                    '#f59e0b',
-                    '#10b981',
-                    '#10b981'
-                ],
-                borderColor: [
-                    '#059669',
-                    '#059669',
-                    '#059669', 
-                    '#d97706',
-                    '#059669',
-                    '#059669'
-                ],
-                borderWidth: 2
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: {
-                    display: false
-                },
-                tooltip: {
-                    callbacks: {
-                        afterLabel: function(context) {
-                            const labels = ['Achieved', 'Achieved', 'Achieved', 'Expected', 'Achieved', 'Achieved'];
-                            return 'Status: ' + labels[context.dataIndex];
-                        }
-                    }
-                }
-            },
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    max: 60,
-                    title: {
-                        display: true,
-                        text: 'Productivity Improvement (%)'
-                    }
-                }
-            }
-        }
-    });
-}
-
-} // End of initializeCharts function
-</script>
+</style>
