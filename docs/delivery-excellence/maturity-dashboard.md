@@ -136,302 +136,307 @@
 </div>
 
 <style>
-/* Delivery Excellence Maturity Dashboard Styles - PDF Size */
-.summary-metrics {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 15px;
-    margin-bottom: 25px;
-}
+    /* PDF-like styling for Maturity Dashboard - Consistent with GenAI Report */
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background: #f8f9fa;
+    }
+    
+    /* Ensure RHS navigation is visible */
+    .md-sidebar--secondary {
+        display: block !important;
+    }
+    
+    /* Adjust main content to accommodate RHS sidebar */
+    .md-content {
+        margin-right: 0 !important;
+    }
+    
+    /* Main container styling */
+    .summary-metrics {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+        margin-bottom: 25px;
+    }
 
-.metric-card {
-    background: white;
-    border-radius: 8px;
-    padding: 15px;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease;
-    border: 1px solid #e0e0e0;
-}
+    .metric-card {
+        background: white;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 15px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
 
-.metric-card:hover {
-    transform: translateY(-2px);
-}
-
-.metric-value {
-    font-size: 1.8rem;
-    font-weight: 700;
-    margin-bottom: 5px;
-    background: linear-gradient(135deg, #667eea, #764ba2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
-.metric-label {
-    font-size: 0.75rem;
-    color: #666;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
-.accomplishments-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 12px;
-    margin-bottom: 25px;
-}
-
-.accomplishment-item {
-    background: linear-gradient(135deg, #f8f9ff, #e8f0ff);
-    border-radius: 8px;
-    padding: 12px;
-    border-left: 3px solid #667eea;
-    transition: transform 0.2s ease;
-}
-
-.accomplishment-item:hover {
-    transform: translateX(3px);
-}
-
-.accomplishment-value {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #667eea;
-    margin-bottom: 3px;
-}
-
-.accomplishment-label {
-    font-size: 0.8rem;
-    color: #555;
-    font-weight: 500;
-}
-
-.accomplishment-improvement {
-    font-size: 0.7rem;
-    color: #22c55e;
-    font-weight: 600;
-    margin-top: 3px;
-}
-
-.scorecard-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 12px;
-    margin-bottom: 25px;
-}
-
-.score-item {
-    background: white;
-    border-radius: 8px;
-    padding: 12px;
-    text-align: center;
-    border: 1px solid #e0e0e0;
-    transition: all 0.2s ease;
-}
-
-.score-item:hover {
-    border-color: #667eea;
-    transform: translateY(-1px);
-}
-
-.score-value {
-    font-size: 1.3rem;
-    font-weight: 700;
-    margin-bottom: 5px;
-    padding: 6px;
-    border-radius: 4px;
-    color: white;
-}
-
-.score-label {
-    font-size: 0.75rem;
-    color: #666;
-    font-weight: 600;
-}
-
-.score-desc {
-    font-size: 0.7rem;
-    color: #555;
-    margin-top: 3px;
-}
-
-.score-5 { background: #22c55e; }
-.score-4 { background: #84cc16; }
-.score-3 { background: #eab308; }
-.score-2 { background: #f97316; }
-.score-1 { background: #ef4444; }
-
-.bar-chart-container {
-    background: #f8f9fa;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-.chart-title {
-    font-size: 1rem;
-    font-weight: 700;
-    color: #333;
-    margin-bottom: 15px;
-    text-align: center;
-}
-
-.bar-chart {
-    position: relative;
-    max-width: 500px;
-    margin: 0 auto;
-}
-
-.bar-row {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-    height: 25px;
-}
-
-.bar-label {
-    width: 60px;
-    font-weight: 600;
-    font-size: 0.8rem;
-    color: #333;
-    text-align: right;
-    padding-right: 10px;
-}
-
-.bar-track {
-    flex: 1;
-    background: #e5e7eb;
-    height: 18px;
-    border-radius: 3px;
-    position: relative;
-    max-width: 300px;
-}
-
-.bar-fill {
-    height: 100%;
-    background: #667eea;
-    border-radius: 3px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding-right: 6px;
-    color: white;
-    font-weight: 700;
-    font-size: 0.7rem;
-    transition: width 0.6s ease-out;
-}
-
-.chart-scale {
-    display: flex;
-    justify-content: space-between;
-    margin-left: 70px;
-    max-width: 300px;
-    margin-top: 8px;
-    font-size: 0.7rem;
-    color: #666;
-}
-
-.p5-assessment-table {
-    background: white;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    margin-bottom: 20px;
-}
-
-.table-header {
-    background: #667eea;
-    color: white;
-    padding: 10px;
-    font-weight: 700;
-    text-align: center;
-    font-size: 0.9rem;
-}
-
-.table-row {
-    display: flex;
-    border-bottom: 1px solid #f0f0f0;
-}
-
-.table-row:last-child {
-    border-bottom: none;
-}
-
-.table-cell-label {
-    padding: 8px 10px;
-    background: #f8f9ff;
-    font-weight: 600;
-    color: #333;
-    display: flex;
-    align-items: center;
-    border-right: 1px solid #f0f0f0;
-    font-size: 0.8rem;
-    min-width: 80px;
-    flex-shrink: 0;
-}
-
-.table-cell-content {
-    padding: 8px 10px;
-    color: #555;
-    font-size: 0.75rem;
-    line-height: 1.3;
-    flex: 1;
-}
-
-.legend {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    margin: 15px 0;
-    flex-wrap: wrap;
-}
-
-.legend-item {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 0.7rem;
-    font-weight: 600;
-}
-
-.legend-color {
-    width: 12px;
-    height: 12px;
-    border-radius: 2px;
-}
-
-@media (max-width: 768px) {
     .metric-value {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-bottom: 5px;
     }
-    
-    .scorecard-grid {
-        grid-template-columns: repeat(2, 1fr);
+
+    .metric-label {
+        font-size: 0.75rem;
+        color: #6c757d;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
     }
-    
-    .bar-chart {
-        max-width: 100%;
+
+    .accomplishments-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 12px;
+        margin-bottom: 25px;
     }
-    
-    .chart-scale {
-        margin-left: 60px;
+
+    .accomplishment-item {
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 12px;
+        border-left: 3px solid #3498db;
     }
-    
-    .bar-label {
-        width: 50px;
+
+    .accomplishment-value {
+        font-size: 1.4rem;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-bottom: 3px;
+    }
+
+    .accomplishment-label {
+        font-size: 0.8rem;
+        color: #495057;
+        font-weight: 500;
+    }
+
+    .accomplishment-improvement {
         font-size: 0.7rem;
+        color: #28a745;
+        font-weight: 600;
+        margin-top: 3px;
     }
-    
+
+    .scorecard-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px;
+        margin-bottom: 25px;
+    }
+
+    .score-item {
+        background: white;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 12px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    .score-value {
+        font-size: 1.3rem;
+        font-weight: 700;
+        margin-bottom: 5px;
+        padding: 6px;
+        border-radius: 4px;
+        color: white;
+    }
+
+    .score-label {
+        font-size: 0.75rem;
+        color: #495057;
+        font-weight: 600;
+    }
+
+    .score-desc {
+        font-size: 0.7rem;
+        color: #6c757d;
+        margin-top: 3px;
+    }
+
+    .score-5 { background: #28a745; }
+    .score-4 { background: #20c997; }
+    .score-3 { background: #ffc107; }
+    .score-2 { background: #fd7e14; }
+    .score-1 { background: #dc3545; }
+
+    .bar-chart-container {
+        background: white;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    .chart-title {
+        font-size: 1rem;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .bar-chart {
+        position: relative;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+    .bar-row {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+        height: 25px;
+    }
+
+    .bar-label {
+        width: 60px;
+        font-weight: 600;
+        color: #495057;
+        font-size: 0.8rem;
+        text-align: right;
+        padding-right: 10px;
+    }
+
+    .bar-track {
+        flex: 1;
+        background: #e9ecef;
+        height: 18px;
+        border-radius: 3px;
+        position: relative;
+        max-width: 300px;
+    }
+
+    .bar-fill {
+        height: 100%;
+        background: #3498db;
+        border-radius: 3px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        padding-right: 6px;
+        color: white;
+        font-weight: 700;
+        font-size: 0.7rem;
+        transition: width 0.6s ease-out;
+    }
+
+    .chart-scale {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 70px;
+        max-width: 300px;
+        margin-top: 8px;
+        font-size: 0.7rem;
+        color: #6c757d;
+    }
+
+    .p5-assessment-table {
+        background: white;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        overflow: hidden;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        margin-bottom: 20px;
+    }
+
+    .table-header {
+        background: #495057;
+        color: white;
+        padding: 10px;
+        font-weight: 700;
+        text-align: center;
+        font-size: 0.9rem;
+    }
+
     .table-row {
-        flex-direction: column;
+        display: flex;
+        border-bottom: 1px solid #dee2e6;
     }
-    
+
+    .table-row:last-child {
+        border-bottom: none;
+    }
+
     .table-cell-label {
-        min-width: auto;
-        border-right: none;
-        border-bottom: 1px solid #f0f0f0;
+        padding: 8px 10px;
+        background: #f8f9fa;
+        font-weight: 600;
+        color: #495057;
+        display: flex;
+        align-items: center;
+        border-right: 1px solid #dee2e6;
+        font-size: 0.8rem;
+        min-width: 80px;
+        flex-shrink: 0;
     }
-}
+
+    .table-cell-content {
+        padding: 8px 10px;
+        color: #495057;
+        font-size: 0.75rem;
+        line-height: 1.3;
+        flex: 1;
+    }
+
+    .legend {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin: 15px 0;
+        flex-wrap: wrap;
+    }
+
+    .legend-item {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 0.7rem;
+        font-weight: 600;
+        color: #495057;
+    }
+
+    .legend-color {
+        width: 12px;
+        height: 12px;
+        border-radius: 2px;
+    }
+
+    @media (max-width: 768px) {
+        .metric-value {
+            font-size: 1.5rem;
+        }
+        
+        .scorecard-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        
+        .bar-chart {
+            max-width: 100%;
+        }
+        
+        .chart-scale {
+            margin-left: 60px;
+        }
+        
+        .bar-label {
+            width: 50px;
+            font-size: 0.7rem;
+        }
+        
+        .table-row {
+            flex-direction: column;
+        }
+        
+        .table-cell-label {
+            min-width: auto;
+            border-right: none;
+            border-bottom: 1px solid #dee2e6;
+        }
+    }
 </style>
