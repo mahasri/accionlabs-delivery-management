@@ -1,6 +1,6 @@
 # Metrics & KPI
 
-![Metrics Overview](../../../../assets/media/image1.png)
+![Metrics Overview](/assets/media/image1.png)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@
 
 ## Types of Metrics
 
-![Metrics Categories](../../../../assets/media/image2.gif)
+![Metrics Categories](/assets/media/image2.gif)
 
 As depicted in the diagram above, there are different categories of metrics relevant for end-to-end product development flow:
 
@@ -46,7 +46,7 @@ In this handbook, we will focus primarily on the Output and Progress metrics.
 
 ## Output or Flow Performance Metrics
 
-![Performance Dimensions](../../../../assets/media/image3.gif)
+![Performance Dimensions](/assets/media/image3.gif)
 
 There are three primary dimensions to assess the performance of end-to-end product development workflow:
 
@@ -67,7 +67,7 @@ The table below lists some common examples of these three Output metrics at the 
 
 Velocity measures the average amount of work a Scrum Team completes in a Sprint, usually expressed in story points (or backlog-item count). Tracking velocity over multiple Sprints helps teams assess their consistency and/or improvement in performance.
 
-![Velocity Chart Example](../../../../assets/media/image4.gif)
+![Velocity Chart Example](/assets/media/image4.gif)
 
 **Interpretation Guidelines:**
 
