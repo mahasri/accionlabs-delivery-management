@@ -226,16 +226,14 @@ During the architecture and design streams, Accion Labs engages additional teams
 
 ## Key Frameworks
 
-- **Agile Methodologies** - [Scrum](../agile-methodologies/scrum/), [Kanban](../agile-methodologies/kanban/), [SAFe](../agile-methodologies/safe/)
+- **Agile Methodologies** - [Scrum](../agile-methodologies/scrum.md), [Kanban & Scrumban](../agile-methodologies/kanban-scrumban.md), [SAFe Framework](../agile-methodologies/safe-framework.md)
 - **DevOps Practices** - CI/CD, automation, monitoring
 - **Quality Assurance** - Testing strategies and tools
 
 ## Templates and Tools
 
-- [Sprint Planning Template](../appendix/sdlc-tools/sprint-planning.md)
-- [Code Review Checklist](../appendix/sdlc-tools/code-review.md)
-- [Deployment Checklist](../appendix/sdlc-tools/deployment.md)
+Templates and tools are available in the [Best Practices](../best-practices/index.md) section.
 
 ---
 
-*Previous: [Transition Management ←](../transition/)* | *Next: [Value-Driven Delivery →](../value-driven-delivery/)*
+*Previous: [Transition Management ←](../transition/index.md)* | *Next: [Value-Driven Delivery →](../value-driven-delivery/index.md)*

@@ -4,15 +4,7 @@
 
 Every year, Accion conducts an All Hands Meet (AHM) / Townhall with the entire team of Accion and all leaders of Cision. This annual gathering creates a unique platform where teams and Cision leaders come together to meet, share updates, communicate values, discuss strategic plans, and present the roadmap for the future.
 
-The AHM serves as a cornerstone event that strengthens the partnership between Accion and Cision, fostering collaboration, alignment, and shared vision. It provides an opportunity for:
 
-- **Team Connection**: Bringing together global teams from different locations and time zones
-- **Leadership Engagement**: Direct interaction between Accion teams and Cision leadership  
-- **Strategic Alignment**: Sharing company-wide updates, goals, and strategic direction
-- **Value Communication**: Reinforcing core values and cultural alignment
-- **Roadmap Presentation**: Discussing future plans, initiatives, and technology roadmap
-- **Recognition & Celebration**: Acknowledging achievements, milestones, and team contributions
-- **Knowledge Sharing**: Cross-team learning and best practice sharing
 
 ## 🎯 Sample Townhall Presentation
 

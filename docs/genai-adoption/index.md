@@ -45,8 +45,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 
 ### Key Focus Areas in SDLC
 
-<img src="../assets/media/image19.png" style="width:6.5807in;height:3.73558in" />
-
 #### Core Development
 
 - Developers utilize GitHub Copilot and Cursor AI within their IDEs for code generation and optimization
@@ -127,4 +125,4 @@ Few of the solutions already implemented for various customers (as on 12 Feb 202
 
 ---
 
-*Previous: [Best Practices ←](../best-practices/)*
+*Previous: [Best Practices ←](../best-practices/index.md)*

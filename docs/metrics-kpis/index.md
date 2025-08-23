@@ -166,4 +166,4 @@ SLA=No. of Incidents Resolved/Total No of Incidents.
 
 ---
 
-*Previous: [Agile Methodologies ←](../agile-methodologies/)* | *Next: [Delivery Governance →](../delivery-governance/)*
+*Previous: [Agile Methodologies ←](../agile-methodologies/index.md)*

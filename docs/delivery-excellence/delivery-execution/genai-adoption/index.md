@@ -102,4 +102,4 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 
 ---
 
-*Previous: [Best Practices ←](../best-practices/)*
+*Previous: [Value-Driven Delivery ←](../value-driven-delivery/index.md)*

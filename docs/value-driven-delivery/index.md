@@ -129,4 +129,4 @@ Technology Innovations, References, Summits, Strategic initiatives through Archi
 
 ---
 
-*Previous: [Delivery Execution](../delivery-execution/)* | *Next: [Agile Methodologies](../agile-methodologies/)*
+*Previous: [Delivery Execution](../delivery-execution/index.md)* | *Next: [Agile Methodologies](../agile-methodologies/index.md)*

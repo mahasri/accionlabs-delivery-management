@@ -4,53 +4,45 @@
 
 The Monthly Business Review (MBR) is a comprehensive status reporting and progress tracking mechanism conducted bi-weekly with clients and stakeholders. It ensures consistent, thorough, and professional monthly status reporting that maintains transparency and drives project success.
 
-## MBR Process
 
-### 📊 **Executive Summary**
-- **Month Overview**: Month, review period, project status, and overall assessment
-- **Key Highlights**: Major accomplishments, key metrics, and significant achievements
-- **Current Status**: Project health, risk and issue summary, and escalation requirements
 
-### 📈 **Project Progress**
-- **Timeline and Schedule**: Milestone progress, sprint/phase status, and schedule variance
-- **Scope and Deliverables**: Deliverable status, scope management, and change requests
-- **Budget and Financial**: Cost performance, financial metrics, and resource utilization
+## MBR Sample Document
 
-### 🎯 **Quality and Technical Performance**
-- **Quality Metrics**: Code quality, testing and validation, and quality assurance
-- **Technical Performance**: System performance, technical debt, and architecture health
-- **Process Compliance**: Adherence to processes, standards, and best practices
+<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+    <div style="margin-bottom: 15px;">
+        <h3 style="color: #333; margin-bottom: 10px;">📊 Monthly Business Review Sample</h3>
+        <p style="color: #666; margin-bottom: 20px;">Comprehensive sample MBR document showcasing the structure and content format</p>
+    </div>
 
-### 👥 **Team and Resource Management**
-- **Team Performance**: Team composition, productivity metrics, and skill development
-- **Resource Utilization**: Resource allocation, capacity planning, and optimization
-- **Communication and Collaboration**: Stakeholder communication and team collaboration
+    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 MBR Sample Document Preview</p>
+        <iframe
+            src="../../../assets/documents/Accionlabs-MBR-Sample.pdf"
+            width="100%"
+            height="600px"
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+            title="MBR Sample Document Preview"
+            frameborder="0">
+            <p>Your browser does not support PDFs.
+            <a href="../../../assets/documents/Accionlabs-MBR-Sample.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+        </iframe>
+        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows the MBR sample document structure • Download the template below for creating your own MBR</em>
+        </p>
+    </div>
 
-### 🔍 **Risk and Issue Management**
-- **Risk Assessment**: Current risks, mitigation plans, and risk trends
-- **Issue Tracking**: Active issues, resolution progress, and escalation status
-- **Lessons Learned**: Key learnings and process improvements
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
+        <a href="https://tinyurl.com/mbr-template" class="download-button" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
+            📥 Download MBR Template
+        </a>
+    </div>
 
-### 📋 **Action Items and Next Steps**
-- **Action Items**: Specific actions, owners, and timelines
-- **Next Month Planning**: Strategic objectives and resource planning
-- **Stakeholder Alignment**: Alignment with stakeholder expectations
+    <p style="margin-top: 15px; font-size: 12px; color: #999;">
+        📋 <strong>Sample:</strong> Accionlabs-MBR-Sample.pdf • 📥 <strong>Template:</strong> Available via Download Template link
+    </p>
+</div>
 
 ## Download Resources
-
-<div class="download-section">
-    <div class="download-card">
-        <h3>📋 MBR Template</h3>
-        <p>Comprehensive Monthly Business Review template</p>
-        <a href="templates/mbr/" class="download-button">Download Template</a>
-    </div>
-    
-    <div class="download-card">
-        <h3>📊 MBR Presentation</h3>
-        <p>PowerPoint template for MBR presentations</p>
-        <a href="templates/mbr/" class="download-button">Download Presentation</a>
-    </div>
-</div>
 
 ## MBR Timeline
 

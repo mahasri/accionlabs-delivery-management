@@ -24,7 +24,7 @@ The delivery practices & processes are defined and streamlined between the teams
 - A delivery team that runs projects also drives growth through delivery-driven sales
 - An autonomous engineering team that can co-learn, measure performance, boost productivity and identify risks & pre-empt issues early.
 
-## 100% White-box Model - Approach
+## 100% White-box Model - Approach {#100-white-box-model---approach}
 
 The White-box Model approach is based on the following principles.
 

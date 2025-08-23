@@ -78,8 +78,10 @@ nav:
       - Release Planning: best-practices/release-planning.md
     - Metrics & KPIs: metrics-kpis/index.md
   - Delivery Excellence:
+    - '📚 Delivery Handbook': delivery-excellence/delivery-handbook.md
     - Overview: delivery-excellence/index.md
-    - Induction Process: delivery-excellence/induction-process.md
+    - Checklist: delivery-excellence/checklist.md
+    - Induction: delivery-excellence/induction-process.md
     - Transition: delivery-excellence/transition.md
     - Delivery Execution:
       - Overview: delivery-excellence/delivery-execution/index.md
@@ -89,6 +91,7 @@ nav:
       - SDLC - Managed Services: delivery-excellence/delivery-execution/sdlc-managed-services/index.md
       - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
       - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
+      - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
     - Delivery Cadences:
       - Overview: delivery-excellence/delivery-cadences/index.md
       - QBR: delivery-excellence/delivery-cadences/qbr.md
@@ -128,6 +131,7 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
   - javascripts/mermaid-init.js
+  - javascripts/collapsible-nav.js
 
 
 

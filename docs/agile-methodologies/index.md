@@ -177,4 +177,4 @@ After the Sprint is complete, the team holds a Sprint Review Meeting to demonstr
 
 ---
 
-*Previous: [Delivery Execution ←](../delivery-execution/)* | *Next: [Metrics & KPIs →](../metrics-kpis/)*
+*Previous: [Delivery Execution ←](../delivery-execution/index.md)* | *Next: [Metrics & KPIs →](../metrics-kpis/index.md)*

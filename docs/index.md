@@ -30,7 +30,7 @@ The foundational knowledge base containing our complete delivery methodology, fr
 - **Metrics & KPIs** - Performance measurement and DORA metrics
 - **Transition Management** - Smooth project transitions
 
-[Explore Delivery Handbook →](introduction/)
+[Explore Delivery Handbook →](introduction/index.md)
 
 </div>
 
@@ -81,18 +81,17 @@ Governance frameworks and oversight mechanisms to ensure delivery quality and st
 <div class="card">
 
 ### 📋 Key Checklists
-- [Pre-Kickoff Checklist](delivery-excellence/checklists/pre-kickoff.md) - Project readiness assessment
-- [Kick-Off Checklist](delivery-excellence/checklists/kick-off.md) - Successful project launch
-- [Induction Guide](delivery-excellence/guides/induction-guide.md) - Team onboarding
-- [Architecture Review](delivery-excellence/checklists/architecture-development-review.md) - Technical validation
+- [Checklist](delivery-excellence/checklist.md) - Project checklists and templates
+- [Induction Guide](delivery-excellence/induction-process.md) - Team onboarding
+- [Architecture Review](delivery-excellence/architecture-value-board/review-checklist.md) - Technical validation
 
 </div>
 
 <div class="card">
 
 ### 📄 Key Templates
-- [QBR Template](delivery-excellence/templates/qbr.md) - Quarterly Business Review
-- [MBR Template](delivery-excellence/templates/mbr.md) - Monthly Business Review
+- [QBR Template](delivery-excellence/delivery-cadences/qbr.md) - Quarterly Business Review
+- [MBR Template](delivery-excellence/delivery-cadences/bi-weekly-mbr.md) - Monthly Business Review
 - [All Is Well Report](delivery-excellence/templates/all-is-well-report.md) - Status updates
 - [Project Charter](delivery-excellence/templates/project-charter.md) - Project definition
 
@@ -101,10 +100,10 @@ Governance frameworks and oversight mechanisms to ensure delivery quality and st
 <div class="card">
 
 ### 🏛️ Governance Tools
-- [Architecture Value Board](delivery-governance/architecture-value-board/) - Technical decisions
-- [Program Value Board](delivery-governance/program-value-board/) - Strategic oversight
-- [Review Process](delivery-governance/review-process.md) - Quality gates
-- [Maturity Dashboard](delivery-governance/maturity-dashboard.md) - Performance tracking
+- [Architecture Value Board](delivery-excellence/architecture-value-board/tools-technologies.md) - Technical decisions
+- [Program Value Board](delivery-excellence/program-value-board/process-metrics.md) - Strategic oversight
+- [Review Process](delivery-excellence/delivery-governance/index.md) - Quality gates
+- [Maturity Dashboard](delivery-excellence/maturity-dashboard.md) - Performance tracking
 
 </div>
 
@@ -113,7 +112,7 @@ Governance frameworks and oversight mechanisms to ensure delivery quality and st
 ### 📊 Metrics & Analytics
 - [DORA Metrics](metrics-kpis/dora-metrics.md) - Delivery performance
 - [Support Projects](metrics-kpis/support-projects.md) - Support metrics
-- [Project Performance](delivery-governance/maturity-dashboard.md) - Live project metrics
+- [Project Performance](delivery-excellence/maturity-dashboard.md) - Live project metrics
 - [Quality Metrics](best-practices/qa-best-practices.md) - Delivery quality indicators
 
 </div>
@@ -164,9 +163,9 @@ Governance frameworks and oversight mechanisms to ensure delivery quality and st
 - **Governance Support**: governance@accionlabs.com
 
 ### 📚 Learning Resources
-- [Delivery Handbook](introduction/) - Complete methodology
-- [Best Practices](best-practices/) - Proven approaches
-- [Agile Methodologies](agile-methodologies/) - Framework guides
+- [Delivery Handbook](introduction/index.md) - Complete methodology
+- [Best Practices](best-practices/index.md) - Proven approaches
+- [Agile Methodologies](agile-methodologies/index.md) - Framework guides
 
 ## 🔄 Recent Activity
 
@@ -180,17 +179,17 @@ Governance frameworks and oversight mechanisms to ensure delivery quality and st
 ## 🎉 Getting Started
 
 ### For New Team Members
-1. **Start Here** → [Delivery Handbook Introduction](introduction/)
-2. **Team Onboarding** → [Induction Guide](delivery-excellence/guides/induction-guide.md)
+1. **Start Here** → [Delivery Handbook Introduction](introduction/index.md)
+2. **Team Onboarding** → [Induction Guide](delivery-excellence/induction-process.md)
 3. **Best Practices** → [Development Guidelines](best-practices/development.md)
 
 ### For Project Managers
-1. **Project Setup** → [Pre-Kickoff Checklist](delivery-excellence/checklists/pre-kickoff.md)
-2. **Templates** → [Delivery Excellence Templates](delivery-excellence/templates/)
-3. **Governance** → [Value Board Governance](delivery-governance/)
+1. **Project Setup** → [Checklist](delivery-excellence/checklist.md)
+2. **Templates** → [Delivery Excellence Templates](delivery-excellence/templates/index.md)
+3. **Governance** → [Value Board Governance](delivery-excellence/delivery-governance/index.md)
 
 ### For Technical Leads
-1. **Architecture Review** → [Architecture Value Board](delivery-governance/architecture-value-board/)
+1. **Architecture Review** → [Architecture Value Board](delivery-excellence/architecture-value-board/tools-technologies.md)
 2. **Best Practices** → [Architecture & Design](best-practices/architecture-design.md)
 3. **Quality Assurance** → [QA Best Practices](best-practices/qa-best-practices.md)
 

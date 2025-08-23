@@ -8,16 +8,14 @@ Delivery Execution also covers Agile and Scrum Roles, Agile terminologies and Ce
 
 ## Table of Contents
 
-- [Project Initiation](../project-initiation/)
-- [Transition Management](../transition/)
-- [Delivery Execution](../delivery-execution/)
-- [Value-Driven Delivery](../value-driven-delivery/)
-- [GenAI Adoption](../genai-adoption/)
-- [Agile Methodologies](../agile-methodologies/)
-- [Metrics & KPIs](../metrics-kpis/)
-- [Delivery Governance](../delivery-governance/)
-- [Best Practices](../best-practices/)
-- [Appendix](../appendix/)
+- [Project Initiation](../project-initiation/index.md)
+- [Transition Management](../transition/index.md)
+- [Delivery Execution](../delivery-execution/index.md)
+- [Value-Driven Delivery](../value-driven-delivery/index.md)
+- [GenAI Adoption](../genai-adoption/index.md)
+- [Agile Methodologies](../agile-methodologies/index.md)
+- [Metrics & KPIs](../metrics-kpis/index.md)
+- [Best Practices](../best-practices/index.md)
 
 ---
 

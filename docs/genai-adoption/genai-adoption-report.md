@@ -599,34 +599,51 @@
     }
     
     .clients-section {
-        background: #f8f9fa;
-        border: 1px solid #dee2e6;
-        border-radius: 6px;
-        padding: 15px;
+        background: linear-gradient(135deg, #f8f9fa, #ffffff);
+        border: 1px solid #e9ecef;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     }
     
     .clients-title {
-        font-size: 1em;
-        font-weight: 600;
+        font-size: 1.1em;
+        font-weight: 700;
         color: #2c3e50;
-        margin-bottom: 12px;
+        margin-bottom: 15px;
         text-align: center;
+        border-bottom: 2px solid #d4edda;
+        padding-bottom: 8px;
     }
     
     .clients-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-        gap: 8px;
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 12px;
+        padding: 10px;
     }
     
     .client-item {
-        background: #495057;
-        color: white;
-        padding: 8px 10px;
-        border-radius: 4px;
-        font-size: 0.8em;
+        background: linear-gradient(135deg, #e8f5e8, #f0f8f0);
+        color: #2d5a2d;
+        padding: 12px 15px;
+        border-radius: 8px;
+        font-size: 0.85em;
         text-align: center;
-        font-weight: 500;
+        font-weight: 600;
+        border: 1px solid #d4edda;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        transition: all 0.3s ease;
+        min-height: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .client-item:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        background: linear-gradient(135deg, #d4edda, #e8f5e8);
     }
     
     @media (max-width: 768px) {
@@ -648,6 +665,14 @@
         
         .clients-grid {
             grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            padding: 8px;
+        }
+        
+        .client-item {
+            padding: 10px 12px;
+            font-size: 0.8em;
+            min-height: 40px;
         }
     }
 </style>

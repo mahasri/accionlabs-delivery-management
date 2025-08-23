@@ -193,7 +193,7 @@ Regularly update and expand test coverage to encompass all critical areas of the
 #### Continuous Integration of Testing
 Embed regression testing into your CI/CD pipeline to provide immediate feedback on code changes, enabling the team to catch issues early and maintain a high level of product quality.
 
-For detailed Testing & QA process, check [Testing & QA Process Guidelines](#testing-qa-process-guidelines)
+For detailed Testing & QA process, check the [Best Practices](../../../best-practices/testing-qa-process.md) section.
 
 ## System Monitoring & Performance Optimization
 
