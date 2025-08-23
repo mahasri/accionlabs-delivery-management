@@ -1,6 +1,6 @@
 # Metrics & KPI
 
-![Metrics Overview](../../../assets/media/image1.png)
+![Metrics Overview](../../../../assets/media/image1.png)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@
 
 ## Types of Metrics
 
-![Metrics Categories](../../../assets/media/image2.gif)
+![Metrics Categories](../../../../assets/media/image2.gif)
 
 As depicted in the diagram above, there are different categories of metrics relevant for end-to-end product development flow:
 
@@ -46,7 +46,7 @@ In this handbook, we will focus primarily on the Output and Progress metrics.
 
 ## Output or Flow Performance Metrics
 
-![Performance Dimensions](../../../assets/media/image3.gif)
+![Performance Dimensions](../../../../assets/media/image3.gif)
 
 There are three primary dimensions to assess the performance of end-to-end product development workflow:
 
@@ -67,7 +67,7 @@ The table below lists some common examples of these three Output metrics at the 
 
 Velocity measures the average amount of work a Scrum Team completes in a Sprint, usually expressed in story points (or backlog-item count). Tracking velocity over multiple Sprints helps teams assess their consistency and/or improvement in performance.
 
-![Velocity Chart Example](../../../assets/media/image4.gif)
+![Velocity Chart Example](../../../../assets/media/image4.gif)
 
 **Interpretation Guidelines:**
 
@@ -87,7 +87,7 @@ Throughput measures the amount of work completed in a time interval (week or mon
 
 Throughput offers a simple view of delivery rate and can reveal bottlenecks when combined with work-in-progress metrics. Plotting throughput trends can help teams smooth flow and set realistic expectations.
 
-![Throughput Example](../../../assets/media/image5.jpg)
+![Throughput Example](../../../../assets/media/image5.jpg)
 
 **Interpretation Guidelines:**
 
@@ -209,7 +209,7 @@ Cycle Time and Lead Time are similar concepts with a slight difference -- both m
 
 Cycle time is the elapsed time from the moment team commits an item to when it is marked as done. Lead Time is the elapsed time from the moment an item is committed to the customer/stakeholders to when it is delivered (deployed in Production).
 
-![Cycle Time and Lead Time](../../../assets/media/image6.gif)
+![Cycle Time and Lead Time](../../../../assets/media/image6.gif)
 
 **Interpretation Guidelines:**
 
@@ -277,11 +277,11 @@ This measures the percentage of deployments that fail and need to be rolled back
 
 Sprint Burndown chart shows the remaining work (story points or tasks) versus time. It's a classic tool for visualizing whether the team is on track to finish the committed work before Sprint end.
 
-![Sprint Burndown Chart](../../../assets/media/image7.gif)
+![Sprint Burndown Chart](../../../../assets/media/image7.gif)
 
 The Sprint Burnup chart plots cumulative work completed (e.g., story points or item count) against total sprint scope across the Sprint timeline. Unlike burndown, it shows both progress and scope changes.
 
-![Sprint Burnup Chart](../../../assets/media/image8.gif)
+![Sprint Burnup Chart](../../../../assets/media/image8.gif)
 
 **Interpretation Guidelines:**
 
@@ -304,7 +304,7 @@ The Sprint Burnup chart plots cumulative work completed (e.g., story points or i
 
 A story-level CFD shows counts of stories in each workflow state (Backlog, In Progress, Review, Done, etc.) over time. The width of each coloured "band" represents WIP in that state.
 
-![Story-Level CFD](../../../assets/media/image9.gif)
+![Story-Level CFD](../../../../assets/media/image9.gif)
 
 **Interpretation Guidelines:**
 
