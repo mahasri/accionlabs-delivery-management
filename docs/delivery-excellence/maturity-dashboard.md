@@ -65,152 +65,74 @@
 ## 🎯 PVB Delivery Excellence Scorecard
 
 <div class="scorecard-grid">
+    <!-- 5P Maturity Assessment - Top Row -->
+    <div class="score-item">
+        <div class="score-value score-4">4.0</div>
+        <div class="score-label">Product Maturity</div>
+        <div class="score-desc">Business Knowledge • Functional Workflow • Epic/Story Understanding</div>
+    </div>
+    <div class="score-item">
+        <div class="score-value score-4">4.3</div>
+        <div class="score-label">Process Maturity</div>
+        <div class="score-desc">Development & Deployment • Agile Maturity & Metrics • Knowledge Management</div>
+    </div>
+    <div class="score-item">
+        <div class="score-value score-4">4.3</div>
+        <div class="score-label">People Maturity</div>
+        <div class="score-desc">Skills & Performance • Teamwork & Collaboration • Training & Upskilling</div>
+    </div>
+    <div class="score-item">
+        <div class="score-value score-4">4.0</div>
+        <div class="score-label">Platform Maturity</div>
+        <div class="score-desc">Architecture & Design • Technology & Framework • Tools & Automation</div>
+    </div>
+    <div class="score-item">
+        <div class="score-value score-5">4.7</div>
+        <div class="score-label">Program Maturity</div>
+        <div class="score-desc">Project Management • Customer Delight • Value Initiatives</div>
+    </div>
+    
+    <!-- Regular Score Items - 4 per row -->
     <div class="score-item">
         <div class="score-value score-5">4.5</div>
         <div class="score-label">Domain Understanding</div>
-    </div>
-    <div class="score-item">
-        <div class="score-value score-5">4.5</div>
-        <div class="score-label">RAG Status</div>
     </div>
     <div class="score-item">
         <div class="score-value score-4">4.2</div>
         <div class="score-label">GenAI & Value Initiatives</div>
     </div>
     <div class="score-item">
-        <div class="score-value score-4">4.1</div>
-        <div class="score-label">Utilization >85%</div>
+        <div class="score-value score-4">4.0</div>
+        <div class="score-label">Meeting Effectiveness</div>
     </div>
     <div class="score-item">
-        <div class="score-value score-4">4</div>
-        <div class="score-label">Metrics Tracking</div>
-    </div>
-    <div class="score-item">
-        <div class="score-value score-4">4</div>
+        <div class="score-value score-4">4.0</div>
         <div class="score-label">Architecture & Design</div>
     </div>
     <div class="score-item">
-        <div class="score-value score-4">4</div>
-        <div class="score-label">Source Control Maturity</div>
-    </div>
-    <div class="score-item">
-        <div class="score-value score-4">4</div>
+        <div class="score-value score-4">4.0</div>
         <div class="score-label">Average Velocity</div>
-    </div>
-    <div class="score-item">
-        <div class="score-value score-4">4</div>
-        <div class="score-label">CSAT Conducted</div>
     </div>
     <div class="score-item">
         <div class="score-value score-5">4.5</div>
         <div class="score-label">Hackathon & CoE Contribution</div>
     </div>
     <div class="score-item">
-        <div class="score-value score-5">5</div>
+        <div class="score-value score-5">5.0</div>
         <div class="score-label">Agile Maturity Level</div>
     </div>
     <div class="score-item">
-        <div class="score-value score-3">3</div>
+        <div class="score-value score-3">3.0</div>
         <div class="score-label">IP Creation</div>
     </div>
 </div>
 
-## 🗂️ 5P Maturity Detailed Assessment
-
-<div class="bar-chart-container">
-    <div class="chart-title">5P Organizational Maturity Framework</div>
-    <div class="bar-chart">
-        <div class="bar-row">
-            <div class="bar-label">Product</div>
-            <div class="bar-track">
-                <div class="bar-fill" style="width: 80%;">4.0</div>
-            </div>
-        </div>
-        <div class="bar-row">
-            <div class="bar-label">Process</div>
-            <div class="bar-track">
-                <div class="bar-fill" style="width: 86%;">4.3</div>
-            </div>
-        </div>
-        <div class="bar-row">
-            <div class="bar-label">People</div>
-            <div class="bar-track">
-                <div class="bar-fill" style="width: 86%;">4.3</div>
-            </div>
-        </div>
-        <div class="bar-row">
-            <div class="bar-label">Platform</div>
-            <div class="bar-track">
-                <div class="bar-fill" style="width: 80%;">4.0</div>
-            </div>
-        </div>
-        <div class="bar-row">
-            <div class="bar-label">Program</div>
-            <div class="bar-track">
-                <div class="bar-fill" style="width: 94%;">4.7</div>
-            </div>
-        </div>
-    </div>
-    <div class="chart-scale">
-        <span>1</span>
-        <span>2</span>
-        <span>3</span>
-        <span>4</span>
-        <span>5</span>
-    </div>
-</div>
-
-<div class="p5-assessment-table">
-    <div class="table-header">Key Assessment Areas</div>
-    
-    <div class="table-row">
-        <div class="table-cell-label">Product</div>
-        <div class="table-cell-content">Business Knowledge • Functional Workflow • Epic/Story Understanding</div>
-    </div>
-    
-    <div class="table-row">
-        <div class="table-cell-label">Process</div>
-        <div class="table-cell-content">Development & Deployment • Agile Maturity & Metrics • Knowledge Management</div>
-    </div>
-    
-    <div class="table-row">
-        <div class="table-cell-label">People</div>
-        <div class="table-cell-content">Skills & Performance • Teamwork & Collaboration • Training & Upskilling</div>
-    </div>
-    
-    <div class="table-row">
-        <div class="table-cell-label">Platform</div>
-        <div class="table-cell-content">Architecture & Design • Technology & Framework • Tools & Automation</div>
-    </div>
-    
-    <div class="table-row">
-        <div class="table-cell-label">Program</div>
-        <div class="table-cell-content">Project Management • Customer Delight • Value Initiatives</div>
-    </div>
-</div>
-
-<!-- Legend -->
 <div class="legend">
-    <div class="legend-item">
-        <div class="legend-color score-1"></div>
-        <span>1 - Risk</span>
-    </div>
-    <div class="legend-item">
-        <div class="legend-color score-2"></div>
-        <span>2 - Needs Attention</span>
-    </div>
-    <div class="legend-item">
-        <div class="legend-color score-3"></div>
-        <span>3 - Neutral</span>
-    </div>
-    <div class="legend-item">
-        <div class="legend-color score-4"></div>
-        <span>4 - Meets Expectations</span>
-    </div>
-    <div class="legend-item">
-        <div class="legend-color score-5"></div>
-        <span>5 - Aligned/Excellent</span>
-    </div>
+    <span class="legend-item"><span class="legend-color score-1"></span>1 - Risk</span>
+    <span class="legend-item"><span class="legend-color score-2"></span>2 - Needs Attention</span>
+    <span class="legend-item"><span class="legend-color score-3"></span>3 - Neutral</span>
+    <span class="legend-item"><span class="legend-color score-4"></span>4 - Meets Expectations</span>
+    <span class="legend-item"><span class="legend-color score-5"></span>5 - Aligned/Excellent</span>
 </div>
 
 <style>
@@ -295,8 +217,8 @@
 
 .scorecard-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
     margin-bottom: 25px;
 }
 
@@ -327,6 +249,12 @@
     font-size: 0.75rem;
     color: #666;
     font-weight: 600;
+}
+
+.score-desc {
+    font-size: 0.7rem;
+    color: #555;
+    margin-top: 3px;
 }
 
 .score-5 { background: #22c55e; }
@@ -423,8 +351,7 @@
 }
 
 .table-row {
-    display: grid;
-    grid-template-columns: 1fr 4fr;
+    display: flex;
     border-bottom: 1px solid #f0f0f0;
 }
 
@@ -441,6 +368,8 @@
     align-items: center;
     border-right: 1px solid #f0f0f0;
     font-size: 0.8rem;
+    min-width: 80px;
+    flex-shrink: 0;
 }
 
 .table-cell-content {
@@ -448,6 +377,7 @@
     color: #555;
     font-size: 0.75rem;
     line-height: 1.3;
+    flex: 1;
 }
 
 .legend {
@@ -477,6 +407,10 @@
         font-size: 1.5rem;
     }
     
+    .scorecard-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
     .bar-chart {
         max-width: 100%;
     }
@@ -488,6 +422,16 @@
     .bar-label {
         width: 50px;
         font-size: 0.7rem;
+    }
+    
+    .table-row {
+        flex-direction: column;
+    }
+    
+    .table-cell-label {
+        min-width: auto;
+        border-right: none;
+        border-bottom: 1px solid #f0f0f0;
     }
 }
 </style>
