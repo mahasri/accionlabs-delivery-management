@@ -4,9 +4,18 @@ The AccionLabs Delivery Excellence approach is our comprehensive methodology for
 
 ## 🎯 Overview
 
-Our Delivery Excellence approach encompasses four key areas that work together to ensure successful project delivery:
+Our Delivery Excellence approach encompasses five key areas that work together to ensure successful project delivery:
 
 <div class="grid" markdown>
+
+<div class="card" markdown>
+
+### 📚 Delivery Handbook
+Comprehensive guide encompassing all aspects of our delivery excellence framework including SDLC methodologies, best practices, and governance frameworks.
+
+[:octicons-arrow-right-24: View Handbook](delivery-handbook.md)
+
+</div>
 
 <div class="card" markdown>
 
