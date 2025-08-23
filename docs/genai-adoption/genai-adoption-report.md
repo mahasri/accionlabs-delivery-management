@@ -378,6 +378,16 @@
         margin-right: 0 !important;
     }
     
+    /* Add proper spacing between main content and RHS sidebar */
+    .md-main__inner {
+        margin-right: 20px !important;
+    }
+    
+    /* Ensure proper spacing for the dashboard grid */
+    .dashboard-grid {
+        margin-right: 15px;
+    }
+    
     .dashboard-grid {
         max-width: 1200px;
         margin: 0 auto;

@@ -154,6 +154,11 @@
         margin-right: 0 !important;
     }
     
+    /* Add proper spacing between main content and RHS sidebar */
+    .md-main__inner {
+        margin-right: 20px !important;
+    }
+    
     /* Main container styling */
     .summary-metrics {
         display: grid;
