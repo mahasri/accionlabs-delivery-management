@@ -216,9 +216,14 @@
   color: white !important;
   font-weight: 600;
   border-radius: 8px;
-  margin: 0.8rem -0.5rem 0.8rem 0;
+  margin: 1.2rem -0.5rem 1.2rem 0;
   padding: 0.5rem 1rem;
   width: calc(100% + 0.5rem);
+}
+
+/* Add extra spacing before GenAI Adoption Report when it follows GenAI Adoption */
+.md-nav__link[href*="genai-adoption-report"] {
+  margin-top: 1.5rem !important;
 }
 
 .md-nav__link[href*="maturity-dashboard"]:hover,
