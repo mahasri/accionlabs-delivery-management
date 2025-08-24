@@ -2,7 +2,6 @@
 
 ## Content Guidelines
 
-### Content Guidelines
 - **Executive Summary**: High-level overview for senior stakeholders
 - **Detailed Updates**: Comprehensive information for project teams
 - **Metrics & KPIs**: Include relevant performance indicators
@@ -32,17 +31,15 @@
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows our comprehensive bi-weekly work status report and project progress tracking</em>
         </p>
+        
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="https://tinyurl.com/bi-weekly-wsr" 
+               target="_blank" 
+               style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
+                📥 Download WSR Template
+            </a>
+        </div>
     </div>
-</div>
-
-## 📥 Download WSR Template
-
-<div style="text-align: center; margin: 30px 0;">
-    <a href="https://tinyurl.com/bi-weekly-wsr" 
-       target="_blank" 
-       style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
-        📥 Download WSR Template
-    </a>
 </div>
 
 ---
