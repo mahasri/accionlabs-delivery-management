@@ -2,11 +2,13 @@
 
 ## Content Guidelines
 
-- **Executive Summary**: High-level overview for senior stakeholders
-- **Detailed Updates**: Comprehensive information for project teams
-- **Metrics & KPIs**: Include relevant performance indicators
-- **Risk Assessment**: Proactive identification of potential issues
-- **Resource Planning**: Future resource needs and allocation
+1. **Milestone Plan & Progress**
+2. **Sprint Progress**
+3. **RAID**
+4. **Deployment Plan & Progress**
+5. **Production Issues**
+6. **Key Initiatives**
+7. **Resource & Operations Update**
 
 ## 📊 Sample Bi-weekly Report
 
