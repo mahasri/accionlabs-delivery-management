@@ -8,14 +8,7 @@ Our Delivery Governance approach covers the complete spectrum of governance acti
 
 <div class="grid" markdown>
 
-<div class="card" markdown>
 
-### 🏛️ Governance Framework
-Comprehensive governance framework that ensures quality, compliance, and strategic alignment across all delivery activities.
-
-[:octicons-arrow-right-24: View Framework](../governance-framework.md)
-
-</div>
 
 <div class="card" markdown>
 
