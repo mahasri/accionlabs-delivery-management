@@ -91,6 +91,7 @@ nav:
       - SDLC - Managed Services: delivery-excellence/delivery-execution/sdlc-managed-services/index.md
       - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
       - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
+      - '🤖 GenAI Adoption Report': genai-adoption/genai-adoption-report.md
       - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
     - Delivery Governance:
       - Overview: delivery-excellence/delivery-governance/index.md
@@ -109,7 +110,6 @@ nav:
       - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
       - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
     - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
-    - '🤖 GenAI Adoption Report': genai-adoption/genai-adoption-report.md
     - Key Resources: delivery-excellence/key-resources.md
 
 
