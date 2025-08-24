@@ -64,6 +64,7 @@ nav:
     - SDLC - New Development: delivery-execution/sdlc-new-development/index.md
     - SDLC - Enhancements & Support: delivery-execution/sdlc-enhancements-support/index.md
     - SDLC - End-End Ownership: delivery-execution/sdlc-managed-services/index.md
+    - End-End Ownership: delivery-execution/end-end-ownership.md
     - Value-Driven Delivery: value-driven-delivery/index.md
     - GenAI Adoption: genai-adoption/index.md
     - GenAI Statistics Report: genai-adoption/genai-statistics-report.md
@@ -89,6 +90,7 @@ nav:
       - SDLC - New Development: delivery-excellence/delivery-execution/sdlc-new-development/index.md
       - SDLC - Enhancements & Support: delivery-excellence/delivery-execution/sdlc-enhancements-support/index.md
       - SDLC - End-End Ownership: delivery-excellence/delivery-execution/sdlc-managed-services/index.md
+      - End-End Ownership: delivery-execution/end-end-ownership.md
       - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
       - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
       - '🤖 GenAI Adoption Report': genai-adoption/genai-adoption-report.md
