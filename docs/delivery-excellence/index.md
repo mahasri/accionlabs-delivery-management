@@ -39,6 +39,15 @@ Strategic governance framework including Architecture Value Board (AVB) and Prog
 
 <div class="card" markdown>
 
+### 🌟 Accionisms
+Our core leadership principles and values that guide every aspect of our delivery excellence approach and organizational culture.
+
+[:octicons-arrow-right-24: View Principles](accionisms.md)
+
+</div>
+
+<div class="card" markdown>
+
 ### 📚 Key Resources
 Comprehensive collection of guides, templates, and checklists to support every aspect of delivery excellence.
 
