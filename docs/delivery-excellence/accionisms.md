@@ -54,9 +54,9 @@ Accionisms are our core leadership principles and values that guide every aspect
     }
     
     .accionism-description {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         color: #6b7280;
-        line-height: 1.5;
+        line-height: 1.4;
     }
     
     .highlight {
