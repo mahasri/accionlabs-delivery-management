@@ -22,14 +22,14 @@ Accion's End-End Ownership approach ensures complete responsibility for the enti
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample End-End Ownership Plan Preview</p>
         <iframe 
-            src="../assets/documents/SDLC-End-to-End-Ownership.pdf" 
+            src="../../assets/documents/SDLC-End-to-End-Ownership.pdf" 
             width="100%" 
             height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
             title="Sample End-End Ownership Plan Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 
-            <a href="../assets/documents/SDLC-End-to-End-Ownership.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+            <a href="../../assets/documents/SDLC-End-to-End-Ownership.pdf" target="_blank">Download the sample PDF</a> instead.</p>
         </iframe>
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows our comprehensive end-end ownership methodology and implementation approach</em>
