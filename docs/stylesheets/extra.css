@@ -223,7 +223,7 @@
 
 /* Add extra spacing before GenAI Adoption Report when it follows GenAI Adoption */
 .md-nav__link[href*="genai-adoption-report"] {
-  margin-top: 0.8rem !important;
+  margin-top: 0.5rem !important;
 }
 
 .md-nav__link[href*="maturity-dashboard"]:hover,
