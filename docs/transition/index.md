@@ -26,6 +26,8 @@ The transition methodology is based on a proactive plan that outlines the activi
 
 To ensure that Accion's culture of outcome and action, rapid response, and team spirit is ingrained into the transition process, Accion ensures that a large part of the key leadership, including core delivery leaders, consists of existing Accion engineers. These leaders are experienced with Accion's transition and delivery process and ensure that the methodology is executed accurately and efficiently.
 
+![EDC Organization Structure](../assets/media/EDC-Org-Structure.png)
+
 Accion executes the progressive induction by following Accionlabs Induction Framework (5P Model). This methodology incorporates the five key aspects of induction: Product, Platform, People, Process, and Program across four levels: Accion, Client, Project, and Role. This tested and proven induction methodology ensures that each incremental team member of the progressive induction process works exactly as planned with minimal dependence on the individual's experience with the transition process. This also ensures adherence to the think ahead, plan ahead principle.
 
 ### Hypercare Governance Mode
@@ -66,44 +68,28 @@ Accion's transition process comprises several detailed phases designed to ensure
 
 ![Phase-wise Transition Plan](../assets/media/phase-transition-plan.png)
 
-### 1. Prepare Phase
+## 📊 Sample Transition Plan Document
 
-In this phase, Accion leadership and transition teams will collect and collate information from the client's product engineering team and review the collated information around the products' functional and technical documentation from the client and/or its current partner.
-
-#### Activities
-
-**Information Gathering**
-
-- Gain access to non-production environments of the applications to the architects in the Transition team.
-- Gain access to source code, product backlog, resource roster, performance benchmarks, and functional and technical knowledge repositories.
-- Review current productivity benchmarks, SLAs, and metrics.
-- Review the current roster.
-- Review of product code and backlog.
-- Review product/module-wise workload.
-- Review scheduled releases and blackout calendar.
-- Finalize infrastructure requirement.
-- Support SOPs and SLAs (if applicable).
-- SDLC Process, compliance process, current governance process, sample dashboards, metrics, and SLAs.
-
-**Any existing available and applicable documentation around:**
-- Functional areas
-- Architecture, technologies, integrations, and tools used
-- Data flow between systems
-- Database schema/design/indexes
-- Coding guidelines/best practices
-- Test cases and test scripts
-- Organization structures
-
-#### Participants
-
-- **Accion leadership team:** Client Sponsor, Global Delivery Manager, Transition Leader
-- **Accion transition team:** Transition Manager, Application Architects, HR, Recruitment, and Administration Team
-- **Client transition team:** Product Directors, Program Sponsor
-
-#### Outcomes
-
-- Core team induction package based on the 5P Induction Framework.
-- Team-wise productivity benchmarks and SLAs.
-- Product-wise skills matrix and draft job descriptions.
-- Draft transition timelines and plans based on Accion's understanding of the information provided.
-- A detailed schedule for the planning phase (named participants, sessions, deliverable templates, etc.).
+<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+    <div style="margin-bottom: 15px;">
+        <h3 style="color: #333; margin-bottom: 10px;">📊 Sample Transition Plan Document</h3>
+        <p style="color: #666; margin-bottom: 20px;">Comprehensive transition plan document showcasing the structure and content format</p>
+    </div>
+    
+    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample Transition Plan Document Preview</p>
+        <iframe 
+            src="../assets/documents/Transition%20plan.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
+            width="100%" 
+            height="600px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            title="Sample Transition Plan Document Preview"
+            frameborder="0">
+            <p>Your browser does not support PDFs. 
+            <a href="../assets/documents/Transition%20plan.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+        </iframe>
+        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows the sample transition plan document structure and format</em>
+        </p>
+    </div>
+</div>
