@@ -9,59 +9,63 @@ Accionisms are our core leadership principles and values that guide every aspect
 <style>
     .accionisms-container {
         max-width: 1200px;
-        margin: 20px auto;
-        padding: 20px;
+        margin: 30px auto;
+        padding: 30px;
         font-family: 'Segoe UI', Arial, sans-serif;
     }
     
     .accionisms-title {
         text-align: center;
-        font-size: 2.5rem;
+        font-size: 2.2rem;
         color: #1e40af;
-        margin-bottom: 30px;
-        font-weight: bold;
+        margin-bottom: 40px;
+        font-weight: 600;
     }
     
     .accionisms-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
+        gap: 30px;
     }
     
     .accionism-card {
         background: white;
-        padding: 20px;
-        border-radius: 12px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        border-left: 4px solid;
-        transition: transform 0.3s ease;
+        padding: 25px;
+        border-radius: 10px;
+        box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+        border-left: 3px solid;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border: 1px solid #e5e7eb;
     }
     
     .accionism-card:hover {
-        transform: translateY(-5px);
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(0,0,0,0.12);
     }
     
     .accionism-title {
-        font-size: 1.1rem;
-        font-weight: 600;
-        color: #1f2937;
-        margin-bottom: 8px;
+        font-size: 0.95rem;
+        font-weight: 500;
+        color: #374151;
+        margin-bottom: 0;
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 10px;
+        line-height: 1.4;
     }
     
     .accionism-icon {
-        font-size: 20px;
+        font-size: 18px;
+        flex-shrink: 0;
     }
     
 
     
     .highlight {
-        background: rgba(30, 64, 175, 0.15);
+        background: rgba(30, 64, 175, 0.1);
         padding: 2px 6px;
         border-radius: 4px;
-        font-weight: 600;
+        font-weight: 500;
     }
     
     /* Individual card colors */
@@ -85,9 +89,17 @@ Accionisms are our core leadership principles and values that guide every aspect
     @media (max-width: 768px) {
         .accionisms-grid {
             grid-template-columns: 1fr;
+            gap: 20px;
         }
         .accionisms-title {
-            font-size: 2rem;
+            font-size: 1.8rem;
+        }
+        .accionisms-container {
+            padding: 20px;
+            margin: 20px auto;
+        }
+        .accionism-card {
+            padding: 20px;
         }
     }
 

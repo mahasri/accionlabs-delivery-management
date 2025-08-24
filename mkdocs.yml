@@ -62,8 +62,8 @@ nav:
     - Delivery Execution: delivery-execution/index.md
     - Innovation Engineering Services (Architecture & Design): delivery-execution/innovation-engineering-services/index.md
     - SDLC - New Development: delivery-execution/sdlc-new-development/index.md
-    - SDLC - Enhancements & Support: delivery-execution/sdlc-enhancements-support/index.md
-    - End-End Ownership: delivery-execution/end-end-ownership.md
+    - SDLC - Transformation Projects: delivery-execution/sdlc-transformation-projects/index.md
+    - SDLC - End-End Ownership: delivery-execution/end-end-ownership.md
     - Value-Driven Delivery: value-driven-delivery/index.md
     - GenAI Adoption: genai-adoption/index.md
     - GenAI Statistics Report: genai-adoption/genai-statistics-report.md
@@ -87,12 +87,12 @@ nav:
       - Overview: delivery-excellence/delivery-execution/index.md
       - Innovation Engineering Services: delivery-excellence/delivery-execution/innovation-engineering-services/index.md
       - SDLC - New Development: delivery-excellence/delivery-execution/sdlc-new-development/index.md
-      - SDLC - Enhancements & Support: delivery-excellence/delivery-execution/sdlc-enhancements-support/index.md
-      - End-End Ownership: delivery-execution/end-end-ownership.md
+      - SDLC - Transformation Projects: delivery-excellence/delivery-execution/sdlc-transformation-projects/index.md
+      - SDLC - End-End Ownership: delivery-execution/end-end-ownership.md
       - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
+      - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
       - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
       - '🤖 GenAI Adoption Report': genai-adoption/genai-adoption-report.md
-      - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
     - Delivery Governance:
       - Overview: delivery-excellence/delivery-governance/index.md
       - Daily Ceremonies: delivery-excellence/delivery-cadences/daily-ceremonies.md
@@ -104,6 +104,7 @@ nav:
       - Accolades: delivery-excellence/delivery-cadences/rewards-recognitions.md
       - CSAT: delivery-excellence/delivery-cadences/csat.md
     - Program Value Board:
+      - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
       - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
       - Review Checklist: delivery-excellence/program-value-board/review-template.md
       - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
@@ -113,7 +114,6 @@ nav:
       - Review Checklist: delivery-excellence/architecture-value-board/review-checklist.md
       - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
       - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
-    - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
     - '🌟 Accionisms': delivery-excellence/accionisms.md
     - Key Resources: delivery-excellence/key-resources.md
 

@@ -209,27 +209,40 @@
   background-color: rgba(59, 130, 246, 0.05);
 }
 
-/* Special Items */
-.md-nav__link[href*="maturity-dashboard"],
-.md-nav__link[href*="genai-adoption-report"] {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white !important;
-  font-weight: 600;
-  border-radius: 8px;
-  margin: 1.2rem -0.5rem 1.2rem 0;
-  padding: 0.5rem 1rem;
-  width: calc(100% + 0.5rem);
+/* Special Items - Make them consistent with other menu items */
+.md-nav__link[href*="maturity-dashboard"] {
+  background: none;
+  color: #374151 !important;
+  font-weight: 500;
+  border-radius: 6px;
+  margin: 0.1rem 0;
+  padding: 0.3rem 1rem;
+  width: auto;
+  border-left: 2px solid #e5e7eb;
 }
 
-/* Add extra spacing before GenAI Adoption Report when it follows GenAI Adoption */
+/* GenAI Adoption Report - Make it consistent with other menu items */
 .md-nav__link[href*="genai-adoption-report"] {
-  margin-top: 0.5rem !important;
+  background: none;
+  color: #374151 !important;
+  font-weight: 500;
+  border-radius: 6px;
+  margin: 0.1rem 0;
+  padding: 0.3rem 1rem;
+  width: auto;
+  border-left: 2px solid #e5e7eb;
 }
 
-.md-nav__link[href*="maturity-dashboard"]:hover,
+.md-nav__link[href*="maturity-dashboard"]:hover {
+  background-color: rgba(59, 130, 246, 0.1);
+  color: #1e3a8a !important;
+  border-left-color: #3b82f6;
+}
+
 .md-nav__link[href*="genai-adoption-report"]:hover {
-  background: linear-gradient(135deg, #5a67d8 0%, #667eea 100%);
-  transform: translateY(-1px);
+  background-color: rgba(59, 130, 246, 0.1);
+  color: #1e3a8a !important;
+  border-left-color: #3b82f6;
 }
 
 /* Architecture Value Board Styling */
