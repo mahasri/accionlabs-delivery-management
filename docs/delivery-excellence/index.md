@@ -26,14 +26,7 @@ Comprehensive methodologies and processes for different types of project deliver
 
 </div>
 
-<div class="card" markdown>
 
-### 📅 Delivery Cadences
-Strategic communication and review processes including QBR, MBR, townhalls, and rewards & recognitions to maintain project momentum.
-
-[:octicons-arrow-right-24: View Cadences](delivery-cadences/index.md)
-
-</div>
 
 <div class="card" markdown>
 

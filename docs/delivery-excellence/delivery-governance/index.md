@@ -8,8 +8,6 @@ Our Delivery Governance approach covers the complete spectrum of governance acti
 
 <div class="grid" markdown>
 
-
-
 <div class="card" markdown>
 
 ### 🏗️ Architecture Value Board (AVB)
