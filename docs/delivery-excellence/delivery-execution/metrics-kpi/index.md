@@ -1,7 +1,5 @@
 # Metrics & KPI
 
-![Metrics Overview](../../../assets/media/image1.png)
-
 ## Table of Contents
 
 - [Types of Metrics](#types-of-metrics)
