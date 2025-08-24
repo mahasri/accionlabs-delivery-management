@@ -4,7 +4,7 @@
 
 Accionisms are our core leadership principles and values that guide every aspect of our delivery excellence approach and organizational culture. These principles embody our commitment to excellence, innovation, and value-driven delivery.
 
-## 🌟 Our Principles
+
 
 <style>
     .accionisms-container {
@@ -55,11 +55,7 @@ Accionisms are our core leadership principles and values that guide every aspect
         font-size: 20px;
     }
     
-    .accionism-description {
-        font-size: 0.8rem;
-        color: #6b7280;
-        line-height: 1.4;
-    }
+
     
     .highlight {
         background: rgba(30, 64, 175, 0.15);
@@ -107,16 +103,13 @@ Accionisms are our core leadership principles and values that guide every aspect
 </style>
 
 <div class="accionisms-container">
-    <h1 class="accionisms-title">Our Principles</h1>
+
     
     <div class="accionisms-grid">
         <div class="accionism-card card-1">
             <div class="accionism-title">
                 <span class="accionism-icon">🌍</span>
                 You Are Not Alone - Leverage Larger Accion
-            </div>
-            <div class="accionism-description">
-                Someone would have solved the problem somewhere in Accion. <span class="highlight">Tap into collective wisdom</span> and learn from the experiences of others across the organization.
             </div>
         </div>
 
@@ -125,18 +118,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">💭</span>
                 Give and Accept Direct Feedback
             </div>
-            <div class="accionism-description">
-                Foster a culture of <span class="highlight">honest communication</span>. Learn to both deliver and receive feedback constructively for continuous improvement.
-            </div>
         </div>
 
         <div class="accionism-card card-3">
             <div class="accionism-title">
                 <span class="accionism-icon">🎯</span>
                 Do Simple Things Right and Consistently
-            </div>
-            <div class="accionism-description">
-                Excellence lies in <span class="highlight">consistent execution</span> of fundamental practices. Master the basics before moving to complexity.
             </div>
         </div>
 
@@ -145,18 +132,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">🔧</span>
                 Be Hands-On
             </div>
-            <div class="accionism-description">
-                Know the details, no corner office mentality. Stay connected to the work and <span class="highlight">lead from the front</span> with deep understanding.
-            </div>
         </div>
 
         <div class="accionism-card card-5">
             <div class="accionism-title">
                 <span class="accionism-icon">🎪</span>
                 Identify the Roles
-            </div>
-            <div class="accionism-description">
-                Clearly define <span class="highlight">who is responsible and who is accountable</span>. Eliminate confusion through crystal-clear role definition.
             </div>
         </div>
 
@@ -165,18 +146,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">🌱</span>
                 Shades of Green
             </div>
-            <div class="accionism-description">
-                Embrace nuanced thinking and recognize that most situations exist in <span class="highlight">gradients rather than absolutes</span>.
-            </div>
         </div>
 
         <div class="accionism-card card-7">
             <div class="accionism-title">
                 <span class="accionism-icon">🌈</span>
                 Work-Life Harmony
-            </div>
-            <div class="accionism-description">
-                Strive for <span class="highlight">integration rather than balance</span>. Create sustainable rhythms that honor both professional and personal commitments.
             </div>
         </div>
 
@@ -185,18 +160,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">💝</span>
                 Employee = Customer
             </div>
-            <div class="accionism-description">
-                Treat employees with the same care and attention as customers. <span class="highlight">Internal service excellence</span> drives external success.
-            </div>
         </div>
 
         <div class="accionism-card card-9">
             <div class="accionism-title">
                 <span class="accionism-icon">✨</span>
                 Add Value in Everything You Do
-            </div>
-            <div class="accionism-description">
-                Every action should contribute meaningfully. Ask yourself: <span class="highlight">"How does this create value?"</span> before proceeding.
             </div>
         </div>
 
@@ -205,18 +174,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">🌟</span>
                 Strive for Excellence
             </div>
-            <div class="accionism-description">
-                <span class="highlight">"Excite your customer every day"</span> - Go beyond meeting expectations to create memorable experiences.
-            </div>
         </div>
 
         <div class="accionism-card card-11">
             <div class="accionism-title">
                 <span class="accionism-icon">🎭</span>
                 No Politics - Be Direct
-            </div>
-            <div class="accionism-description">
-                Eliminate office politics through <span class="highlight">transparent, direct communication</span>. Say what you mean with respect and clarity.
             </div>
         </div>
 
@@ -225,18 +188,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">📖</span>
                 Continuous Learning
             </div>
-            <div class="accionism-description">
-                Never stop growing. <span class="highlight">Curiosity and adaptability</span> are essential for staying relevant and effective.
-            </div>
         </div>
 
         <div class="accionism-card card-13">
             <div class="accionism-title">
                 <span class="accionism-icon">🎨</span>
                 Democratizing Innovation
-            </div>
-            <div class="accionism-description">
-                Make innovation accessible to everyone. <span class="highlight">Break down barriers</span> that prevent creative thinking at all levels.
             </div>
         </div>
 
@@ -245,9 +202,6 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">🧠</span>
                 Hire People Smarter Than You
             </div>
-            <div class="accionism-description">
-                "I get scared if I am the smartest in my team." Surround yourself with <span class="highlight">exceptional talent</span> that challenges and elevates you.
-            </div>
         </div>
 
         <div class="accionism-card card-15">
@@ -255,18 +209,12 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <span class="accionism-icon">📈</span>
                 Expect More from All
             </div>
-            <div class="accionism-description">
-                If you need to deliver more, <span class="highlight">raise expectations across the board</span>. High standards lift everyone's performance.
-            </div>
         </div>
 
         <div class="accionism-card card-16">
             <div class="accionism-title">
                 <span class="accionism-icon">🚀</span>
                 Zero Politics - No Bureaucracy
-            </div>
-            <div class="accionism-description">
-                Create an environment of <span class="highlight">simplicity and transparency</span>. Remove unnecessary layers and processes that slow progress.
             </div>
         </div>
     </div>
