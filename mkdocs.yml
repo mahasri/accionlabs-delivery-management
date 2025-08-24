@@ -96,6 +96,7 @@ nav:
     - Delivery Governance:
       - Overview: delivery-excellence/delivery-governance/index.md
       - Daily Ceremonies: delivery-excellence/delivery-cadences/daily-ceremonies.md
+      - Bi-weekly / WSR: delivery-excellence/delivery-cadences/bi-weekly-wsr.md
       - MBR: delivery-excellence/delivery-cadences/bi-weekly-mbr.md
       - QBR: delivery-excellence/delivery-cadences/qbr.md
       - Townhall: delivery-excellence/delivery-cadences/ahm-townhall.md
