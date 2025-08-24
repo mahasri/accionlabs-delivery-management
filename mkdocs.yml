@@ -95,10 +95,13 @@ nav:
       - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
     - Delivery Governance:
       - Overview: delivery-excellence/delivery-governance/index.md
+      - Daily Ceremonies: delivery-excellence/delivery-cadences/daily-ceremonies.md
+      - Bi-weekly / WSR: delivery-excellence/delivery-cadences/bi-weekly-mbr.md
       - QBR: delivery-excellence/delivery-cadences/qbr.md
-      - Bi-weekly/MBR: delivery-excellence/delivery-cadences/bi-weekly-mbr.md
-      - AHM / Townhall: delivery-excellence/delivery-cadences/ahm-townhall.md
-      - Rewards & Recognitions: delivery-excellence/delivery-cadences/rewards-recognitions.md
+      - Townhall: delivery-excellence/delivery-cadences/ahm-townhall.md
+      - Customer Visits: delivery-excellence/delivery-cadences/customer-visits.md
+      - Accolades: delivery-excellence/delivery-cadences/rewards-recognitions.md
+      - CSAT: delivery-excellence/delivery-cadences/csat.md
     - Program Value Board:
       - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
       - Review Checklist: delivery-excellence/program-value-board/review-template.md
