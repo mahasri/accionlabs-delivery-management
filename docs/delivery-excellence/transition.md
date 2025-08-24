@@ -81,14 +81,14 @@ Accion's transition process comprises several detailed phases designed to ensure
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample Transition Plan Document Preview</p>
         <iframe 
-            src="../assets/documents/Transition-plan.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
+            src="../../assets/documents/Transition-plan.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
             width="100%" 
             height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
             title="Sample Transition Plan Document Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 
-            <a href="../assets/documents/Transition-plan.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+            <a href="../../assets/documents/Transition-plan.pdf" target="_blank">Download the sample PDF</a> instead.</p>
         </iframe>
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows the sample transition plan document structure and methodology</em>
