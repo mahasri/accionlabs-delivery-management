@@ -24,7 +24,7 @@ Accionisms are our core leadership principles and values that guide every aspect
     
     .accionisms-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(2, 1fr);
         gap: 20px;
     }
     
@@ -237,40 +237,3 @@ Accionisms are our core leadership principles and values that guide every aspect
         </div>
     </div>
 </div>
-
-## Key Principles Summary
-
-Our Accionisms principles are organized around four core themes:
-
-### 🤝 **Collaboration & Communication**
-- **You Are Not Alone** - Leverage the collective wisdom of the larger Accion organization
-- **Give and Accept Direct Feedback** - Foster honest, constructive communication
-- **No Politics - Be Direct** - Eliminate office politics through transparency
-
-### 🎯 **Excellence & Execution**
-- **Do Simple Things Right and Consistently** - Master the fundamentals
-- **Be Hands-On** - Stay connected to the work and lead from the front
-- **Strive for Excellence** - "Excite your customer every day"
-
-### 🌱 **Growth & Innovation**
-- **Continuous Learning** - Never stop growing and adapting
-- **Democratizing Innovation** - Make innovation accessible to everyone
-- **Hire People Smarter Than You** - Surround yourself with exceptional talent
-
-### 💎 **Value & Culture**
-- **Add Value in Everything You Do** - Every action should contribute meaningfully
-- **Employee = Customer** - Treat employees with the same care as customers
-- **Work-Life Harmony** - Create sustainable integration of work and life
-
-## Integration with Delivery Excellence
-
-These principles are deeply integrated into our delivery excellence framework:
-
-- **Guiding Decision Making** - Every delivery decision is evaluated against these principles
-- **Team Development** - Principles shape our approach to team building and leadership
-- **Client Relationships** - Values inform how we interact with and serve our clients
-- **Continuous Improvement** - Principles drive our commitment to ongoing enhancement
-
----
-
-*Accionisms are not just words on a page—they are the living values that drive our success and shape our culture of delivery excellence.*
