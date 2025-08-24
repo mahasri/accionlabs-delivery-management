@@ -415,7 +415,7 @@ Accionisms are our core leadership principles and values that guide every aspect
                 <div class="principle-description">
                     "I get scared if I am the smartest in my team." Surround yourself with <span class="highlight">exceptional talent</span> that challenges and elevates you.
                 </div>
-            </>
+            </div>
 
             <div class="principle-card">
                 <div class="principle-icon">📈</div>
