@@ -1,28 +1,40 @@
 # Metrics & KPI
 
-## Table of Contents
+## Overview
 
-- [Types of Metrics](#types-of-metrics)
-- [Output or Flow Performance Metrics](#output-or-flow-performance-metrics)
-  - [Team Velocity](#team-velocity)
-  - [Team Throughput](#team-throughput)
-  - [Epic/Feature Throughput](#epicfeature-throughput)
-  - [Defect Count (QA/UAT)](#defect-count-qauat)
-  - [Defect Density (QA/UAT)](#defect-density-qauat)
-  - [Escaped Defects (P1, P2)](#escaped-defects-p1-p2)
-  - [Code Quality/Complexity](#code-qualitycomplexity)
-  - [Code Coverage (Unit Tests)](#code-coverage-unit-tests)
-  - [Test Automation Coverage](#test-automation-coverage)
-  - [Cycle Time and Lead Time (Story)](#cycle-time-and-lead-time-story)
-  - [Epic Cycle Time and Lead Time](#epic-cycle-time-and-lead-time)
-  - [Release/Deployment Frequency](#releasedeployment-frequency)
-  - [Change Failure Rate](#change-failure-rate)
-- [Progress Metrics](#progress-metrics)
-  - [Sprint Burndown/Burndown Chart](#sprint-burndown-burndown-chart)
-  - [Story-Level Cumulative Flow Diagram (CFD)](#story-level-cumulative-flow-diagram-cfd)
-  - [Epic-Level Cumulative Flow Diagram](#epic-level-cumulative-flow-diagram)
-  - [Release Burnup](#release-burnup)
-  - [Initiative Burnup](#initiative-burnup)
+Accionlabs believes in the **AOOI (Action-Oriented Outcome and Impact)** approach as outlined in our [Value-Driven Delivery](../value-driven-delivery/index.md) framework. We ensure that all our key activities and deliverables are systematically measured across three critical dimensions:
+
+- **Performance & Quality**: Measuring how well we deliver against established standards and expectations
+- **Speed & Efficiency**: Tracking the pace of delivery and turnaround times
+- **Innovation & Value Adds**: Quantifying the impact and value creation for our clients and stakeholders
+
+Our comprehensive metrics and KPIs framework enables data-driven decision making, continuous improvement, and transparent reporting to ensure we consistently deliver exceptional value while maintaining the highest standards of quality and performance.
+
+## 📊 Sample Metrics & KPI Reports
+
+<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+    <div style="margin-bottom: 15px;">
+        <h3 style="color: #333; margin-bottom: 10px;">📊 Sample Metrics & KPI Reports</h3>
+        <p style="color: #666; margin-bottom: 20px;">Comprehensive metrics and KPIs framework showcasing our measurement approach and reporting methodology</p>
+    </div>
+    
+    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample Metrics & KPI Reports Preview</p>
+        <iframe 
+            src="../../../assets/documents/SDLC-Metrics-KPIs.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
+            width="100%" 
+            height="600px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            title="Sample Metrics & KPI Reports Preview"
+            frameborder="0">
+            <p>Your browser does not support PDFs. 
+            <a href="../../../assets/documents/SDLC-Metrics-KPIs.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+        </iframe>
+        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows our comprehensive metrics and KPIs framework and measurement methodology</em>
+        </p>
+    </div>
+</div>
 
 ---
 
