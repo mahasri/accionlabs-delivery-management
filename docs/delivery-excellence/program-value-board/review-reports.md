@@ -18,7 +18,7 @@ The Program Value Board conducted comprehensive reviews across client engagement
         <div class="carousel-slide active">
             <div class="slide-content">
                 <div class="slide-number">1 / 3</div>
-                <img src="/accionlabs-delivery-management/assets/media/pvb-overall-report.png" alt="PVB Overall Report" class="carousel-image">
+                <img src="../../../assets/media/pvb-overall-report.png" alt="PVB Overall Report" class="carousel-image">
                 <div class="slide-caption">PVB Overall Review Report</div>
             </div>
         </div>
@@ -26,7 +26,7 @@ The Program Value Board conducted comprehensive reviews across client engagement
         <div class="carousel-slide">
             <div class="slide-content">
                 <div class="slide-number">2 / 3</div>
-                <img src="/accionlabs-delivery-management/assets/media/pvb-review-report-1.png" alt="PVB Review Report 1" class="carousel-image">
+                <img src="../../../assets/media/pvb-review-report-1.png" alt="PVB Review Report 1" class="carousel-image">
                 <div class="slide-caption">PVB Review Report - Detailed Analysis</div>
             </div>
         </div>
@@ -34,7 +34,7 @@ The Program Value Board conducted comprehensive reviews across client engagement
         <div class="carousel-slide">
             <div class="slide-content">
                 <div class="slide-number">3 / 3</div>
-                <img src="/accionlabs-delivery-management/assets/media/pvb-review-report-2.png" alt="PVB Review Report 2" class="carousel-image">
+                <img src="../../../assets/media/pvb-review-report-2.png" alt="PVB Review Report 2" class="carousel-image">
                 <div class="slide-caption">PVB Review Report - Executive Summary</div>
             </div>
         </div>

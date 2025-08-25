@@ -16,7 +16,7 @@ The Architecture Value Board conducted comprehensive reviews across strategic cl
         <div class="carousel-slide active">
             <div class="slide-content">
                 <div class="slide-number">1 / 2</div>
-                <img src="/accionlabs-delivery-management/assets/media/avb-review-report-1.png" alt="AVB Review Report 1" class="carousel-image">
+                <img src="../../../assets/media/avb-review-report-1.png" alt="AVB Review Report 1" class="carousel-image">
                 <div class="slide-caption">AVB Review Report - Technology Architecture Assessment</div>
             </div>
         </div>
@@ -24,7 +24,7 @@ The Architecture Value Board conducted comprehensive reviews across strategic cl
         <div class="carousel-slide">
             <div class="slide-content">
                 <div class="slide-number">2 / 2</div>
-                <img src="/accionlabs-delivery-management/assets/media/avb-review-report-2.png" alt="AVB Review Report 2" class="carousel-image">
+                <img src="../../../assets/media/avb-review-report-2.png" alt="AVB Review Report 2" class="carousel-image">
                 <div class="slide-caption">AVB Review Report - Innovation & Capability Analysis</div>
             </div>
         </div>
