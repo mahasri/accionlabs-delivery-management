@@ -297,7 +297,6 @@ Our structured review framework evaluates:
 
 - **Technology & Platform Architecture**: Cloud utilization, GenAI integration, security frameworks
 - **Product Excellence**: Feature validation, user experience, business value alignment
-- **5P Maturity Assessment**: People, Process, Project, Product, Platform dimensions
 - **Innovation & Value Creation**: AI adoption, automation opportunities, customer-facing solutions
 
 ## GenAI Capability Analysis

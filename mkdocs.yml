@@ -55,24 +55,6 @@ theme:
 
 # Navigation Structure
 nav:
-  - Delivery Handbook:
-    - Introduction: introduction/index.md
-    - Project Initiation: project-initiation/index.md
-    - Transition: transition/index.md
-    - Delivery Execution: delivery-execution/index.md
-    - Value-Driven Delivery: value-driven-delivery/index.md
-    - GenAI Adoption: genai-adoption/index.md
-    - GenAI Statistics Report: genai-adoption/genai-statistics-report.md
-    - Agile Methodologies: agile-methodologies/index.md
-    - Best Practices:
-      - Overview: best-practices/index.md
-      - Requirements Gathering: best-practices/requirements-gathering.md
-      - Architecture & Design: best-practices/architecture-design.md
-      - Development: best-practices/development.md
-      - QA Best Practices: best-practices/qa-best-practices.md
-      - Testing & QA Process: best-practices/testing-qa-process.md
-      - Release Planning: best-practices/release-planning.md
-    - Metrics & KPIs: metrics-kpis/index.md
   - Delivery Excellence:
     - '📚 Delivery Handbook': delivery-excellence/delivery-handbook.md
     - Overview: delivery-excellence/index.md
@@ -100,7 +82,6 @@ nav:
       - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
       - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
     - '🌟 Accionisms': delivery-excellence/accionisms.md
-    - Key Resources: delivery-excellence/key-resources.md
 
 
 

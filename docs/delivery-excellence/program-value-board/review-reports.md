@@ -1,10 +1,8 @@
 # Program Value Board - Review Reports
 
-**Last Updated: August 2025 | Data Source: Q1-Q3 2025 Review Cycles**
-
 ## Executive Overview
 
-The Program Value Board conducted comprehensive reviews across client engagements covering education technology, content management systems, and ERP platforms. Our systematic 5P evaluation framework assessed delivery excellence across 42 total team members spanning diverse industry verticals, demonstrating strong program management capabilities and client partnership success.
+The Program Value Board conducted comprehensive reviews across client engagements covering education technology, content management systems, and ERP platforms. Our systematic 5P evaluation framework assessed delivery excellence across top projects spanning diverse industry verticals, demonstrating strong program management capabilities and client partnership success.
 
 ## PVB Review Reports
 

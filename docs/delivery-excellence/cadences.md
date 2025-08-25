@@ -23,19 +23,7 @@ Daily ceremonies are essential agile practices that ensure team alignment, progr
 - **Participants**: Team leads, project managers
 - **Focus**: Escalation of issues, priority alignment, resource coordination
 
-### Best Practices
 
-- Keep ceremonies time-boxed and focused
-- Encourage active participation from all team members
-- Use visual aids (Kanban boards, burndown charts)
-- Address impediments promptly
-- Maintain consistency in timing and format
-
-### Tools and Templates
-
-- **Standup Templates**: Structured formats for daily updates
-- **Impediment Log**: Tracking and resolution of blockers
-- **Team Metrics**: Velocity, burndown, and progress indicators
 
 ## 📊 Bi-weekly / WSR
 
