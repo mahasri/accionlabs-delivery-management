@@ -60,10 +60,6 @@ nav:
     - Project Initiation: project-initiation/index.md
     - Transition: transition/index.md
     - Delivery Execution: delivery-execution/index.md
-    - Innovation Engineering Services (Architecture & Design): delivery-execution/innovation-engineering-services/index.md
-    - SDLC - New Development: delivery-execution/sdlc-new-development/index.md
-    - SDLC - Transformation Projects: delivery-execution/sdlc-transformation-projects/index.md
-    - SDLC - End-End Ownership: delivery-execution/end-end-ownership.md
     - Value-Driven Delivery: value-driven-delivery/index.md
     - GenAI Adoption: genai-adoption/index.md
     - GenAI Statistics Report: genai-adoption/genai-statistics-report.md
@@ -85,24 +81,13 @@ nav:
     - Transition: delivery-excellence/transition.md
     - Delivery Execution:
       - Overview: delivery-excellence/delivery-execution/index.md
-      - Innovation Engineering Services: delivery-excellence/delivery-execution/innovation-engineering-services/index.md
-      - SDLC - New Development: delivery-excellence/delivery-execution/sdlc-new-development/index.md
-      - SDLC - Transformation Projects: delivery-excellence/delivery-execution/sdlc-transformation-projects/index.md
-      - SDLC - End-End Ownership: delivery-execution/end-end-ownership.md
       - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
       - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
       - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
-      - '🤖 GenAI Adoption Report': genai-adoption/genai-adoption-report.md
     - Delivery Governance:
       - Overview: delivery-excellence/delivery-governance/index.md
-      - Daily Ceremonies: delivery-excellence/delivery-cadences/daily-ceremonies.md
-      - Bi-weekly / WSR: delivery-excellence/delivery-cadences/bi-weekly-wsr.md
-      - MBR: delivery-excellence/delivery-cadences/bi-weekly-mbr.md
-      - QBR: delivery-excellence/delivery-cadences/qbr.md
-      - Townhall: delivery-excellence/delivery-cadences/ahm-townhall.md
-      - Customer Visits: delivery-excellence/delivery-cadences/customer-visits.md
-      - Accolades: delivery-excellence/delivery-cadences/rewards-recognitions.md
-      - CSAT: delivery-excellence/delivery-cadences/csat.md
+    - Cadences: delivery-excellence/cadences.md
+    - Accolades: delivery-excellence/rewards-recognitions.md
     - Program Value Board:
       - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
       - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
@@ -161,9 +146,7 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.emoji
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -180,13 +163,9 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
@@ -200,9 +179,6 @@ extra:
       link: https://linkedin.com/company/accionlabs
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/accionlabs
-  analytics:
-    provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
   generator: false
 
 # Copyright

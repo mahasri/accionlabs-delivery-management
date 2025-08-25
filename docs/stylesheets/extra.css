@@ -198,6 +198,24 @@
 /* Sub-navigation Items */
 .md-nav--primary .md-nav__item--nested .md-nav__link {
   font-weight: 500;
+
+/* Add spacing between Cadences and Delivery Governance labels */
+.md-nav--primary .md-nav__item--nested .md-nav__list {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid rgba(59, 130, 246, 0.1);
+}
+
+/* Specific spacing for Cadences section */
+.md-nav--primary .md-nav__item--nested .md-nav__item--nested {
+  margin-top: 0.75rem;
+}
+
+.md-nav--primary .md-nav__item--nested .md-nav__item--nested > .md-nav__link {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid rgba(245, 158, 11, 0.2);
+}
   color: #6b7280;
   padding: 0.25rem 1rem 0.25rem 2rem;
   margin: 0.05rem 0;

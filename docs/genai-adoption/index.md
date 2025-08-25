@@ -1,13 +1,5 @@
 # Gen AI Adoption
 
-## KAPS Framework
-
-The KAPS framework provides a comprehensive approach to enterprise GenAI transformation, integrating four key pillars: Knowledge, Analytics, Process, and Systems. This holistic framework enables organizations to leverage GenAI capabilities across their entire operational spectrum - from transforming unstructured content into actionable insights, to delivering data-driven analytics, optimizing business processes, and modernizing legacy systems.
-
-<img src="../assets/media/image18.png" style="width:6.5in;height:4.25in" />
-
-By addressing both technological and operational dimensions, KAPS helps organizations systematically identify, implement, and scale GenAI solutions that drive tangible business value. The framework's integrated approach ensures that GenAI adoption aligns with enterprise objectives while maintaining a balanced focus on innovation and practical implementation.
-
 ## Generative AI (GenAI) in SDLC
 
 Projects in Accionlabs have been gradually integrating GenAI across the entire SDLC, focusing on key areas that consume developer time and effort. Accionlabs has established a structured framework that guides teams through systematic implementation while ensuring quality and compliance.
@@ -45,33 +37,47 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 
 ### Key Focus Areas in SDLC
 
-#### Core Development
-
-- Developers utilize GitHub Copilot and Cursor AI within their IDEs for code generation and optimization
-- Language-specific support for Java, Python, HTML/CSS, and SQL query generation
-- AI-assisted code optimization and refactoring
-- Smart API development and debugging support
-
-#### Testing & Quality Assurance
-
-- Automated test case generation from requirements
-- AI-powered test data generation for comprehensive coverage
-- Automated user data entry simulation
-- Integration with testing frameworks like Playwright and Test Rigor
-
-#### Architecture & Design
-
-- AI-assisted system design and architecture recommendations
-- Impact analysis automation
-- Integration planning and system interaction mapping
-- Performance optimization suggestions
-
-#### Requirements & Analysis
-
-- Automated parsing of requirement documents
-- Test case generation from requirement specifications
-- Traceability matrix automation
-- Requirement validation and consistency checking
+<div class="genai-focus-areas">
+    <div class="focus-area-card">
+        <h4>Requirements & Analysis</h4>
+        <ul>
+            <li>Automated parsing of requirement documents</li>
+            <li>Test case generation from requirement specifications</li>
+            <li>Traceability matrix automation</li>
+            <li>Requirement validation and consistency checking</li>
+        </ul>
+    </div>
+    
+    <div class="focus-area-card">
+        <h4>Core Development</h4>
+        <ul>
+            <li>Developers utilize GitHub Copilot and Cursor AI within their IDEs for code generation and optimization</li>
+            <li>Language-specific support for Java, Python, HTML/CSS, and SQL query generation</li>
+            <li>AI-assisted code optimization and refactoring</li>
+            <li>Smart API development and debugging support</li>
+        </ul>
+    </div>
+    
+    <div class="focus-area-card">
+        <h4>Testing & Quality Assurance</h4>
+        <ul>
+            <li>Automated test case generation from requirements</li>
+            <li>AI-powered test data generation for comprehensive coverage</li>
+            <li>Automated user data entry simulation</li>
+            <li>Integration with testing frameworks like Playwright and Test Rigor</li>
+        </ul>
+    </div>
+    
+    <div class="focus-area-card">
+        <h4>Architecture & Design *powered by Breeze.ai</h4>
+        <ul>
+            <li>AI-assisted system design and architecture recommendations</li>
+            <li>Impact analysis automation</li>
+            <li>Integration planning and system interaction mapping</li>
+            <li>Performance optimization suggestions</li>
+        </ul>
+    </div>
+</div>
 
 ### Responsible Usage Guidelines
 
@@ -122,6 +128,57 @@ Few of the solutions already implemented for various customers (as on 12 Feb 202
 - **Generate EHR data and de-identify** for building synthetic data for modeling (1)
 - **Error classification and workflow automation** (1)
 - **API and UI testing Automation** (3)
+
+<style>
+.genai-focus-areas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin: 30px 0;
+}
+
+.focus-area-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.focus-area-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.focus-area-card h4 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 8px;
+}
+
+.focus-area-card ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.focus-area-card li {
+    margin-bottom: 8px;
+    color: #555;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+    .genai-focus-areas {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+}
+</style>
 
 ---
 
