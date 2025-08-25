@@ -794,3 +794,63 @@
     display: none !important;
   }
 }
+
+/* Delivery Handbook page specific styling */
+.delivery-handbook-embed {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+.delivery-handbook-embed iframe {
+    width: 100%;
+    height: 800px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-width: 100%;
+}
+
+/* Ensure sidebar visibility for delivery handbook */
+.md-sidebar--primary {
+    width: 300px !important;
+    min-width: 300px !important;
+}
+
+.md-sidebar--secondary {
+    width: 250px !important;
+    min-width: 250px !important;
+}
+
+/* Responsive adjustments for delivery handbook */
+@media (min-width: 1200px) {
+    .delivery-handbook-embed iframe {
+        height: 900px;
+    }
+}
+
+@media (max-width: 768px) {
+    .delivery-handbook-embed iframe {
+        height: 600px;
+    }
+}
+
+/* Hide sidebar for transition page */
+.transition-page .md-sidebar--primary,
+.transition-page .md-sidebar--secondary {
+    display: none !important;
+}
+
+.transition-page .md-content {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100% !important;
+    padding: 1rem !important;
+}
+
+.transition-page .md-main__inner {
+    margin: 0 !important;
+    max-width: 100% !important;
+}

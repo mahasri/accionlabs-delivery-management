@@ -28,7 +28,6 @@ theme:
     - content.tabs.link
     - content.tooltips
     - header.autohide
-    - navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
@@ -71,11 +70,11 @@ nav:
     - Cadences: delivery-excellence/cadences.md
     - Accolades: delivery-excellence/rewards-recognitions.md
     - Program Value Board:
-      - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
-      - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
-      - Review Checklist: delivery-excellence/program-value-board/review-template.md
-      - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
-      - Review Reports: delivery-excellence/program-value-board/review-reports.md
+        - '🎯 Maturity Dashboard': delivery-excellence/maturity-dashboard.md
+        - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
+        - Review Checklist: delivery-excellence/program-value-board/review-template.md
+        - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
+        - Review Reports: delivery-excellence/program-value-board/review-reports.md
     - Architecture Value Board:
       - Tools & Technologies: delivery-excellence/architecture-value-board/tools-technologies.md
       - Review Checklist: delivery-excellence/architecture-value-board/review-checklist.md

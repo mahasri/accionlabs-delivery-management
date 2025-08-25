@@ -6,7 +6,7 @@ The AccionLabs Delivery Handbook is our comprehensive guide that encompasses all
 
 ## 📚 Accion SDLC Delivery Handbook 2025
 
-<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+<div class="delivery-handbook-embed" style="text-align: center;">
     <div style="margin-bottom: 15px;">
         <h3 style="color: #333; margin-bottom: 10px;">📚 Accion SDLC Delivery Handbook 2025</h3>
         <p style="color: #666; margin-bottom: 20px;">Comprehensive delivery handbook covering SDLC methodologies, best practices, and governance frameworks</p>
@@ -17,8 +17,8 @@ The AccionLabs Delivery Handbook is our comprehensive guide that encompasses all
         <iframe 
             src="../../assets/documents/Accion-SDLC-Delivery%20Handbook-2025.pdf" 
             width="100%" 
-            height="600px" 
-            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            height="900px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); max-width: 100%;" 
             title="Accion SDLC Delivery Handbook 2025 Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 

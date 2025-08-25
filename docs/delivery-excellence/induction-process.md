@@ -62,7 +62,7 @@ This systematic approach ensures that every team member is fully equipped with t
 
 ## 📋 5P Induction Guide
 
-<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+<div class="delivery-handbook-embed" style="text-align: center;">
     <div style="margin-bottom: 15px;">
         <h3 style="color: #333; margin-bottom: 10px;">📋 Sample Induction Document</h3>
         <p style="color: #666; margin-bottom: 20px;">Complete induction guide template with detailed onboarding process framework</p>
@@ -73,8 +73,8 @@ This systematic approach ensures that every team member is fully equipped with t
         <iframe 
             src="../../assets/documents/Induction%20Guide%20-%20Sample.pdf" 
             width="100%" 
-            height="600px" 
-            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            height="900px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); max-width: 100%;" 
             title="Induction Guide Sample Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 

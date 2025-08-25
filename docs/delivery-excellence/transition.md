@@ -68,11 +68,18 @@ Accion's transition process comprises several detailed phases designed to ensure
 5. Independent Ramp Up
 6. Operationalize
 
-![Phase-wise Transition Plan](../assets/media/phase-transition-plan.png)
+<div style="text-align: center; margin: 30px 0;">
+    <img src="../assets/media/phase-transition-plan.png" 
+         alt="Phase-wise Transition Plan" 
+         style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666; font-style: italic;">
+        Phase-wise Transition Plan - Comprehensive Transition Methodology Framework
+    </p>
+</div>
 
 ## 📊 Sample Transition Plan Document
 
-<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+<div class="delivery-handbook-embed" style="text-align: center;">
     <div style="margin-bottom: 15px;">
         <h3 style="color: #333; margin-bottom: 10px;">📊 Sample Transition Plan Document</h3>
         <p style="color: #666; margin-bottom: 20px;">Comprehensive transition plan document showcasing the detailed methodology and approach</p>
@@ -81,10 +88,10 @@ Accion's transition process comprises several detailed phases designed to ensure
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample Transition Plan Document Preview</p>
         <iframe 
-            src="../../assets/documents/Transition-plan.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
+            src="../../assets/documents/Transition-plan.pdf" 
             width="100%" 
-            height="600px" 
-            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            height="900px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); max-width: 100%;" 
             title="Sample Transition Plan Document Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 
@@ -122,5 +129,3 @@ The product heatmap method is an effective method to make the product developmen
 3. **Priority Tagging:** Features are marked with priority indicators to help teams focus on critical components first.
 
 ![Product Heatmap](../assets/media/product-heat-map.png)
-
-
