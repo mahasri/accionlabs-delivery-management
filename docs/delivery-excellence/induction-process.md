@@ -4,6 +4,61 @@
 
 The Induction Process is the foundational step in Accionlabs' delivery excellence framework. It ensures every new team member receives comprehensive onboarding that covers company culture, product knowledge, processes, people integration, and platform familiarization.
 
+### Our 5P Induction Approach
+
+<div style="text-align: center; margin: 30px 0;">
+    <img src="../../assets/media/5P-Induction-Process.png" 
+         alt="5P Induction Process Framework" 
+         style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666; font-style: italic;">
+        5P Induction Process Framework - Comprehensive Resource Onboarding Matrix
+    </p>
+</div>
+
+Our induction process follows a structured **5P Model** that ensures comprehensive resource onboarding across all critical dimensions:
+
+#### **📦 Products**
+- **Accion Perspective**: Services, Products, Clients portfolio
+- **Client Perspective**: Products, Clients, Users, Domain model understanding
+- **Project Perspective**: Key Systems, Use Cases, Scenarios, Functions
+- **Role Perspective**: Role Description, Functional Knowledge, Existing Documentation
+
+#### **🏗️ Platforms**
+- **Accion Perspective**: Key Tech Skills, Guidelines, Best Practices, Tools & Frameworks
+- **Client Perspective**: Tech Landscape, Key Tech Skills, Guidelines, Best Practices, Common APIs, Design Systems
+- **Project Perspective**: Architecture, Tools (Dev, Run), Gap Skills, APIs, Reusables
+- **Role Perspective**: Tools for Role, Coding Guidelines, Code Snippets
+
+#### **👥 People**
+- **Accion Perspective**: Org Chart, Key Leaders, Point Contacts, Approval POCs, Culture
+- **Client Perspective**: Org Chart, Key Leaders, Primary PoCs, Culture
+- **Project Perspective**: Leaders/Skills, Roles/Responsibilities, Contact Model
+- **Role Perspective**: Team Members, Know-your-partner relationships
+
+#### **⚙️ Process**
+- **Accion Perspective**: SDLC process, HR processes, Security process
+- **Client Perspective**: SDLC, Compliance, Recruiting/HR, Governance
+- **Project Perspective**: Code Management/QA, Release Process, CI/CD Process, Communication
+- **Role Perspective**: Dev/QA Process, Version Management, Status Reporting
+
+#### **📋 Projects**
+- **Accion Perspective**: Key Initiatives, Reuse/Shared Projects
+- **Client Perspective**: Program Roadmap, Transfer Projects
+- **Project Perspective**: Workstreams, Past projects, Current projects, Resources, Key Milestones
+- **Role Perspective**: Work-in-Progress, Key Milestones
+
+### **Induction Flow & Methodology**
+
+Our induction approach combines multiple learning modalities to ensure rapid productivity:
+
+- **📚 Structured Learning**: Wiki-based 5P Model documentation and AV packages
+- **📋 Detailed Tracking**: Comprehensive Induction Plan with progress monitoring
+- **🎓 Blended Approach**: In-classroom sessions, self-paced learning, and mini-projects
+- **⏱️ Rapid Onboarding**: Target resource productivity within 1-3 weeks
+- **🤝 Buddy System**: Core resources facilitate rapid induction for add-on resources
+
+This systematic approach ensures that every team member is fully equipped with the knowledge, tools, and connections needed to contribute effectively from day one.
+
 
 ## 📋 5P Induction Guide
 
