@@ -50,7 +50,7 @@ nav:
     - Overview: delivery-excellence/index.md
     - '📋 Delivery Guidelines':
       - '📚 Delivery Handbook': delivery-excellence/delivery-handbook.md
-      - Checklist: delivery-excellence/checklist.md
+      - '📋 Checklists, Templates': delivery-excellence/checklist.md
       - Induction: delivery-excellence/induction-process.md
       - Transition: delivery-excellence/transition.md
     - '⚡ Delivery Execution':
