@@ -96,16 +96,10 @@ Accion's transition process comprises several detailed phases designed to ensure
                     <img src="../../assets/media/transition-1.png" alt="Transition Plan - Overview" style="width: 100%; height: auto; display: block;">
                 </div>
                 <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
-                    <img src="../../assets/media/transition-2.png" alt="Transition Plan - Timeline" style="width: 100%; height: auto; display: block;">
-                </div>
-                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
                     <img src="../../assets/media/transition-3.png" alt="Transition Plan - Phase Activities" style="width: 100%; height: auto; display: block;">
                 </div>
                 <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
                     <img src="../../assets/media/transition-4.png" alt="Transition Plan - Next Steps" style="width: 100%; height: auto; display: block;">
-                </div>
-                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
-                    <img src="../../assets/media/transition-5.png" alt="Transition Plan - Gantt Chart" style="width: 100%; height: auto; display: block;">
                 </div>
                 <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
                     <img src="../../assets/media/transition-6.png" alt="Transition Plan - Hypercare Governance" style="width: 100%; height: auto; display: block;">
@@ -115,12 +109,6 @@ Accion's transition process comprises several detailed phases designed to ensure
                 </div>
                 <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
                     <img src="../../assets/media/transition-8.png" alt="Transition Plan - Organization Structure" style="width: 100%; height: auto; display: block;">
-                </div>
-                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
-                    <img src="../../assets/media/transition-9.png" alt="Transition Plan - Steady State Governance" style="width: 100%; height: auto; display: block;">
-                </div>
-                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
-                    <img src="../../assets/media/transition-10.png" alt="Transition Plan - Time Zone Overlap" style="width: 100%; height: auto; display: block;">
                 </div>
             </div>
             
@@ -136,10 +124,6 @@ Accion's transition process comprises several detailed phases designed to ensure
                 <span class="dot" onclick="currentSlide(4)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
                 <span class="dot" onclick="currentSlide(5)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
                 <span class="dot" onclick="currentSlide(6)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
-                <span class="dot" onclick="currentSlide(7)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
-                <span class="dot" onclick="currentSlide(8)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
-                <span class="dot" onclick="currentSlide(9)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
-                <span class="dot" onclick="currentSlide(10)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
             </div>
         </div>
         
