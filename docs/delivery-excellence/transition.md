@@ -68,14 +68,9 @@ Accion's transition process comprises several detailed phases designed to ensure
 5. Independent Ramp Up
 6. Operationalize
 
-<div style="text-align: center; margin: 30px 0;">
-    <img src="../assets/media/phase-transition-plan.png" 
-         alt="Phase-wise Transition Plan" 
-         style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666; font-style: italic;">
-        Phase-wise Transition Plan - Comprehensive Transition Methodology Framework
-    </p>
-</div>
+![Phase-wise Transition Plan](../assets/media/phase-transition-plan.png)
+
+*Phase-wise Transition Plan - Comprehensive Transition Methodology Framework*
 
 ## 📊 Sample Transition Plan Document
 
