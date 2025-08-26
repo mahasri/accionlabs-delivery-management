@@ -329,11 +329,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 #### GenAI Impact Reports {#genai-impact-reports}
 
 <div class="reports-carousel">
-    <div class="carousel-header">
-        <h3>📊 GenAI Impact Reports</h3>
-        <p>Comprehensive analysis of GenAI adoption and effectiveness across our development processes</p>
-    </div>
-    
     <div class="carousel-container">
         <div class="carousel-slide active">
             <div class="slide-content">
