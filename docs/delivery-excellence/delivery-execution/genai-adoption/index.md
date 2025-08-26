@@ -301,22 +301,22 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <h4>Code Generation & Development</h4>
             <ul>
                 <li><strong>30%</strong> of code now AI-generated → <strong>15%</strong> productivity boost</li>
-                <li><strong>53%</strong> more Pull Requests delivered</li>
-                <li><strong>12%</strong> faster deployment to production</li>
+                <li><strong>12%</strong> reduction in deployment cycle time</li>
             </ul>
         </div>
         
         <div class="impact-category">
             <h4>Requirements & Planning</h4>
             <ul>
-                <li><strong>100%</strong> of user stories generated with GenAI</li>
+                <li><strong>< 10%</strong> deviation in sprint plan vs achieved variance</li>
+                <li><strong>> 60%</strong> automated Requirements → user story generation</li>
             </ul>
         </div>
         
         <div class="impact-category">
             <h4>Quality & Efficiency</h4>
             <ul>
-                <li><strong>50%</strong> fewer defects in production code</li>
+                <li><strong>50%</strong> reduction in QA defect density</li>
                 <li><strong>60%</strong> more test cases automated</li>
                 <li><strong>31%</strong> reduction in development time per feature</li>
             </ul>
