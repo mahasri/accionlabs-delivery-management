@@ -30,7 +30,7 @@ To ensure that Accion's culture of outcome and action, rapid response, and team 
 
 Accion executes the progressive induction by following
 
-**Accionlabs Induction Framework (5P Model)** This methodology incorporates the five key aspects of induction: Product, Platform, People, Process, and Program across four levels: Accion, Client, Project, and Role. This tested and proven induction methodology ensures that each incremental team member of the progressive induction process works exactly as planned with minimal dependence on the individual's experience with the transition process. This also ensures adherence to the think ahead, plan ahead principle.
+**Accionlabs Induction Framework (5P Model)** This methodology incorporates the five key aspects of induction: Product, Platform, People, Process, and Program across four levels: Accion, Client, Project, and Role. This tested and proven induction methodology ensures that each incremental team member of the progressive induction process works exactly as planned with minimal dependency on the individual's experience with the transition process. This also ensures adherence to the think ahead, plan ahead principle.
 
 ### Hypercare Governance Mode
 
