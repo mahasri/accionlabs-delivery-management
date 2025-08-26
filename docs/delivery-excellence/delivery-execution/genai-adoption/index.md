@@ -65,9 +65,9 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 <div class="metrics-dashboard">
     <div class="metrics-container">
         <div class="metric-card">
-            <div class="metric-value">100%</div>
-            <div class="metric-label">GenAI Tools in SDLC</div>
-            <div class="metric-source">Source: SDLC integration data</div>
+            <div class="metric-value">45%</div>
+            <div class="metric-label">Customers using GenAI</div>
+            <div class="metric-source">Source: Customer adoption data</div>
         </div>
         
         <div class="metric-card">
