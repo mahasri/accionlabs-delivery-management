@@ -31,7 +31,7 @@ This section provides comprehensive reports on our technology stack and tools go
     </div>
     
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <img src="../../../assets/media/tools-landscape.png" 
+        <img src="../../../assets/media/Tools-landscape.png" 
              alt="AccionLabs Tools Landscape" 
              style="width: 100%; max-width: 1200px; height: auto; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
