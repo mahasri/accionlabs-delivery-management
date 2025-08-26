@@ -70,6 +70,10 @@ Accion's transition methodology is built on proven principles that ensure succes
 
 Accion's transition process comprises several detailed phases designed to ensure a smooth and efficient transition. This comprehensive process includes the following phases:
 
+![Phase-wise Transition Plan](../assets/media/phase-transition-plan.png)
+
+*Phase-wise Transition Plan - Comprehensive Transition Methodology Framework*
+
 1. Prepare
 2. Plan
 3. Initiate
@@ -77,35 +81,104 @@ Accion's transition process comprises several detailed phases designed to ensure
 5. Independent Ramp Up
 6. Operationalize
 
-![Phase-wise Transition Plan](../assets/media/phase-transition-plan.png)
-
-*Phase-wise Transition Plan - Comprehensive Transition Methodology Framework*
-
-## 📊 Sample Transition Plan Document
+## 📊 Sample Transition Plan
 
 <div class="delivery-handbook-embed" style="text-align: center;">
-    <div style="margin-bottom: 15px;">
-        <h3 style="color: #333; margin-bottom: 10px;">📊 Sample Transition Plan Document</h3>
-        <p style="color: #666; margin-bottom: 20px;">Comprehensive transition plan document showcasing the detailed methodology and approach</p>
-    </div>
     
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample Transition Plan Document Preview</p>
-        <iframe 
-            src="../../assets/documents/Transition-plan.pdf" 
-            width="100%" 
-            height="900px" 
-            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); max-width: 100%;" 
-            title="Sample Transition Plan Document Preview"
-            frameborder="0">
-            <p>Your browser does not support PDFs. 
-            <a href="../../assets/documents/Transition-plan.pdf" target="_blank">Download the sample PDF</a> instead.</p>
-        </iframe>
-        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
-            💡 <em>Above shows the sample transition plan document structure and methodology</em>
+        
+        <!-- Carousel Container -->
+        <div class="carousel-container" style="position: relative; max-width: 100%; margin: 0 auto;">
+            <!-- Carousel Slides -->
+            <div class="carousel-slides" style="display: flex; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-1.png" alt="Transition Plan - Overview" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-2.png" alt="Transition Plan - Timeline" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-3.png" alt="Transition Plan - Phase Activities" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-4.png" alt="Transition Plan - Next Steps" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-5.png" alt="Transition Plan - Gantt Chart" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-6.png" alt="Transition Plan - Hypercare Governance" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-7.png" alt="Transition Plan - Communication" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-8.png" alt="Transition Plan - Organization Structure" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-9.png" alt="Transition Plan - Steady State Governance" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../assets/media/transition-10.png" alt="Transition Plan - Time Zone Overlap" style="width: 100%; height: auto; display: block;">
+                </div>
+            </div>
+            
+            <!-- Navigation Buttons -->
+            <button class="carousel-btn prev" onclick="changeSlide(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.7); color: white; border: none; padding: 12px 16px; border-radius: 50%; cursor: pointer; font-size: 18px; z-index: 10;">‹</button>
+            <button class="carousel-btn next" onclick="changeSlide(1)" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.7); color: white; border: none; padding: 12px 16px; border-radius: 50%; cursor: pointer; font-size: 18px; z-index: 10;">›</button>
+            
+            <!-- Dots Indicator -->
+            <div class="carousel-dots" style="text-align: center; margin-top: 15px;">
+                <span class="dot active" onclick="currentSlide(1)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(2)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(3)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(4)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(5)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(6)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(7)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(8)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(9)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(10)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+            </div>
+        </div>
+        
+        <p style="margin-top: 15px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows the sample transition plan document structure and methodology - Use navigation arrows or dots to browse through all slides</em>
         </p>
     </div>
 </div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function changeSlide(n) {
+    showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+    showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+    let i;
+    let slides = document.querySelectorAll('.carousel-slide');
+    let dots = document.querySelectorAll('.dot');
+    
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.transform = `translateX(-${(slideIndex-1) * 100}%)`;
+    }
+    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].style.backgroundColor = '#bbb';
+    }
+    dots[slideIndex-1].style.backgroundColor = '#007bff';
+}
+</script>
 
 
 
