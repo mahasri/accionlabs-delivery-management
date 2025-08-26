@@ -40,7 +40,7 @@ Through systematic evaluation and continuous improvement, the PVB ensures:
 
 ## Quick Navigation
 
-- [🎯 Maturity Dashboard](maturity-dashboard.md) - Real-time delivery excellence metrics
+- [🎯 Maturity Dashboard](../maturity-dashboard.md) - Real-time delivery excellence metrics
 - [Metrics & Methodologies](process-metrics.md) - Process evaluation and improvement
 - [Review Checklist](review-template.md) - Structured assessment framework
 - [PVB Review Team](pvb-review-team.md) - Team composition and responsibilities

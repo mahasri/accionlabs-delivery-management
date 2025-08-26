@@ -1,67 +1,47 @@
-# Architecture Value Board (AVB)
+# Architecture Value Board
+
+## Overview
 
 The Architecture Value Board (AVB) provides comprehensive technical governance for architecture decisions, technology choices, and technical excellence across all delivery projects. This framework ensures consistent technical standards, optimal technology selection, and architectural excellence.
 
-## 🎯 AVB Overview
+## Key Focus Areas
 
-Our Architecture Value Board framework is built on six core pillars:
+### 🛠️ Technology Governance
+Comprehensive governance of technology stack selection, tool integration, and technical standards to ensure optimal technology choices.
 
-<div class="grid" markdown>
+### 📊 Architecture Review
+Structured review criteria and assessment framework for technical decisions and architecture to maintain high-quality standards.
 
-<div class="card" markdown>
+### 👥 Technical Excellence
+Technical review team composition, roles, and expertise areas for architecture governance and continuous improvement.
 
-### 🛠️ Tools & Technologies
-Comprehensive governance of technology stack selection, tool integration, and technical standards.
+### 📈 Performance Monitoring
+Comprehensive review reports, assessment results, and governance outcomes to track technical excellence.
 
-[:octicons-arrow-right-24: View Framework](tools-technologies.md)
+## AVB Review Streams
 
-</div>
+The Architecture Value Board operates through multiple review streams:
 
-<div class="card" markdown>
+- **Tools & Technologies**: Technology stack evaluation and standards
+- **Review Framework**: Structured assessment templates and checklists
+- **Team Assessment**: Technical team performance and expertise reviews
+- **Reporting**: Detailed technical analysis and architectural insights
 
-### ✅ Review Checklist
-Structured review criteria and assessment framework for technical decisions and architecture.
+## Value Creation
 
-[:octicons-arrow-right-24: View Checklist](review-checklist.md)
+Through systematic technical governance and continuous improvement, the AVB ensures:
 
-</div>
+- **Technical Excellence**: Consistent application of architectural best practices
+- **Technology Optimization**: Optimal technology stack selection and integration
+- **Quality Assurance**: High-quality technical standards and code quality
+- **Innovation Adoption**: Integration of new technologies and architectural patterns
+- **Risk Mitigation**: Early identification and resolution of technical issues
 
-<div class="card" markdown>
+## Quick Navigation
 
-### 👥 AVB Team
-Technical review team composition, roles, and expertise areas for architecture governance.
-
-[:octicons-arrow-right-24: View Team](avb-review-team.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 📊 Review Reports
-Comprehensive review reports, assessment results, and governance outcomes.
-
-[:octicons-arrow-right-24: View Reports](review-reports.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 📚 Best Practices
-Technical excellence standards and best practices for architecture and development.
-
-[:octicons-arrow-right-24: View Practices](best-practices.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 📅 Schedule
-Review scheduling, cadence, and governance timeline for technical decisions.
-
-[:octicons-arrow-right-24: View Schedule](schedule.md)
-
-</div>
-
-</div>
+- [🛠️ Tools & Technologies](tools-technologies.md) - Technology stack and standards
+- [✅ Review Checklist](review-checklist.md) - Technical assessment framework
+- [👥 AVB Review Team](avb-review-team.md) - Team composition and expertise
+- [📊 Review Reports](review-reports.md) - Technical analysis and insights
 
 

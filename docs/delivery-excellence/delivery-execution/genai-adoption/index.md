@@ -840,12 +840,6 @@ The implementation framework provides a structured approach to GenAI adoption ac
     color: #495057;
 }
 
-
-    color: #333;
-    font-weight: 500;
-    border: 1px solid #e0e0e0;
-}
-
 /* GenAI Effectiveness Section Styles */
 .genai-effectiveness-section {
     margin: 30px 0;
