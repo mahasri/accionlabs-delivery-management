@@ -27,20 +27,12 @@ theme:
     - content.code.select
     - content.tabs.link
     - content.tooltips
-    - header.autohide
+    - navigation.expand
     - navigation.footer
     - navigation.indexes
-    - navigation.instant
-    - navigation.instant.delay
-    - navigation.instant.loading
-    - navigation.instant.previous
-    - navigation.prune
     - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-    - navigation.footer
     - search.highlight
     - search.share
     - search.suggest
@@ -55,32 +47,38 @@ theme:
 # Navigation Structure
 nav:
   - Delivery Excellence:
-    - '📚 Delivery Handbook': delivery-excellence/delivery-handbook.md
     - Overview: delivery-excellence/index.md
-    - Checklist: delivery-excellence/checklist.md
-    - Induction: delivery-excellence/induction-process.md
-    - Transition: delivery-excellence/transition.md
-    - '⚡ Delivery Execution': delivery-excellence/delivery-execution/index.md
-    - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
-    - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
-    - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
-    - '🏛️ Delivery Governance': delivery-excellence/delivery-governance/index.md
-    - Cadences: delivery-excellence/cadences.md
-    - Accolades: delivery-excellence/rewards-recognitions.md
-    - '📊 Program Value Board': delivery-excellence/program-value-board/index.md
-    - Maturity Dashboard: delivery-excellence/maturity-dashboard.md
-    - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
-    - Review Checklist: delivery-excellence/program-value-board/review-template.md
-    - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
-    - Review Reports: delivery-excellence/program-value-board/review-reports.md
-    - '🏗️ Architecture Value Board': delivery-excellence/architecture-value-board/index.md
-    - Tools & Technologies: delivery-excellence/architecture-value-board/tools-technologies.md
-    - Review Checklist: delivery-excellence/architecture-value-board/review-checklist.md
-    - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
-    - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
-    - '🌟 Accionisms': delivery-excellence/accionisms.md
-    - '💎 Value Patterns': delivery-excellence/value-patterns.md
-    - '🚨 Red Patterns': delivery-excellence/red-patterns.md
+    - '📋 Delivery Guidelines':
+      - '📚 Delivery Handbook': delivery-excellence/delivery-handbook.md
+      - Checklist: delivery-excellence/checklist.md
+      - Induction: delivery-excellence/induction-process.md
+      - Transition: delivery-excellence/transition.md
+    - '⚡ Delivery Execution':
+      - Overview: delivery-excellence/delivery-execution/index.md
+      - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
+      - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
+      - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
+    - '🏛️ Delivery Governance':
+      - Overview: delivery-excellence/delivery-governance/index.md
+      - Cadences: delivery-excellence/cadences.md
+      - Accolades: delivery-excellence/rewards-recognitions.md
+    - '📊 Program Value Board':
+      - Overview: delivery-excellence/program-value-board/index.md
+      - Maturity Dashboard: delivery-excellence/maturity-dashboard.md
+      - Metrics & Methodologies: delivery-excellence/program-value-board/process-metrics.md
+      - Review Checklist: delivery-excellence/program-value-board/review-template.md
+      - PVB Review Team: delivery-excellence/program-value-board/pvb-review-team.md
+      - Review Reports: delivery-excellence/program-value-board/review-reports.md
+    - '🏗️ Architecture Value Board':
+      - Overview: delivery-excellence/architecture-value-board/index.md
+      - Tools & Technologies: delivery-excellence/architecture-value-board/tools-technologies.md
+      - Review Checklist: delivery-excellence/architecture-value-board/review-checklist.md
+      - AVB Review Team: delivery-excellence/architecture-value-board/avb-review-team.md
+      - Review Reports: delivery-excellence/architecture-value-board/review-reports.md
+    - Accion Principles:
+      - '🌟 Accionisms': delivery-excellence/accionisms.md
+      - '💎 Value Patterns': delivery-excellence/value-patterns.md
+      - '🚨 Red Patterns': delivery-excellence/red-patterns.md
 
 
 
@@ -98,7 +96,7 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/mermaid@8.13.0/dist/mermaid.min.js
   - javascripts/mermaid-init.js
-  - javascripts/collapsible-nav.js
+  # - javascripts/collapsible-nav.js  # Disabled - conflicts with Material theme
 
 
 

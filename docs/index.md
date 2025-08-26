@@ -1,196 +1,49 @@
-# AccionLabs Delivery Management Portal
+# Accion Labs Delivery Management
 
-Welcome to the comprehensive AccionLabs Delivery Management Portal - your central hub for delivery excellence, governance, and best practices.
+Welcome to the comprehensive Delivery Management handbook and resources for Accion Labs.
 
-**Redirecting to Delivery Excellence...**
+## 🎯 Overview
 
-<script>
-window.location.href = 'delivery-excellence/';
-</script>
+This handbook serves as the definitive reference for our SDLC methodologies, best practices, governance frameworks, and delivery processes.
 
-## 🎯 Our Three Pillars of Delivery Excellence
+## 📚 What You'll Find Here
 
-<div class="grid">
+### Delivery Excellence
+- **Delivery Handbook** - Core methodologies and processes
+- **Checklists** - Essential quality gates and checkpoints  
+- **Induction Process** - Onboarding guidelines for new team members
+- **Transition Guidelines** - Project handover best practices
 
-<div class="card primary-card">
-
-### 📚 Delivery Handbook
-**Complete delivery methodology and comprehensive best practices**
-
-The foundational knowledge base containing our complete delivery methodology, frameworks, and proven practices.
-
-**Key Areas:**
-- **Introduction** - Overview and methodology foundation
-- **Project Initiation** - Getting started with projects
-- **Delivery Execution** - Core delivery processes and SDLC
-- **Value-Driven Delivery** - Maximizing business value
-- **Agile Methodologies** - Scrum, Kanban, SAFe, and more
-- **GenAI Adoption** - AI integration strategies and frameworks
-- **Best Practices** - Architecture, development, QA, and testing
-- **Metrics & KPIs** - Performance measurement and DORA metrics
-- **Transition Management** - Smooth project transitions
-
-[Explore Delivery Handbook →](introduction/index.md)
-
-</div>
-
-<div class="card primary-card">
-
-### 🎯 Delivery Excellence
-**Structured frameworks, tools, and operational excellence**
-
-Practical tools, templates, and checklists to ensure consistent delivery execution across all projects.
-
-**Key Areas:**
-- **Checklists** - Pre-kickoff, kick-off, induction, performance reviews
-- **Templates** - QBR, MBR, All Is Well reports, project charters
-- **Induction Guide** - Comprehensive team onboarding framework
-- **Standardized Processes** - Consistent delivery approach
-- **Quality Assurance** - Testing and QA best practices
-- **Release Planning** - Structured release management
-
-[View Delivery Excellence →](delivery-excellence/)
-
-</div>
-
-<div class="card primary-card">
+### ⚡ Delivery Execution
+- **Value-Driven Delivery** - Focus on customer value and outcomes
+- **Metrics & KPI** - Key performance indicators and measurement
+- **GenAI Adoption** - AI integration strategies and guidelines
 
 ### 🏛️ Delivery Governance
-**Strategic oversight, value management, and quality assurance**
+- **Cadences** - Regular review and improvement cycles
+- **Recognition & Rewards** - Team achievement and motivation programs
 
-Governance frameworks and oversight mechanisms to ensure delivery quality and strategic alignment.
+### 📊 Program Value Board
+- **Maturity Dashboard** - Delivery excellence assessment
+- **Process Metrics** - Performance measurement and analytics
+- **Review Templates** - Standardized assessment frameworks
 
-**Key Areas:**
-- **Maturity Dashboard** - Performance tracking and metrics
-- **Review Processes** - Quality gates and assessments
-- **Architecture Value Board** - Technical governance and decisions
-- **Program Value Board** - Strategic value management
-- **Governance Framework** - Structured oversight approach
-- **Value Board Activities** - Strategic alignment and value creation
+### 🏗️ Architecture Value Board
+- **Tools & Technologies** - Approved technology stack
+- **Review Processes** - Architecture assessment guidelines
 
-[Access Governance →](delivery-governance/)
+### 📖 Resources
+- **🌟 Accionisms** - Core principles and values
+- **💎 Value Patterns** - Best practices for delivery excellence
+- **🚨 Red Patterns** - Early warning signs and risk indicators
 
-</div>
+## 🚀 Getting Started
 
-</div>
+1. **New Team Members** - Start with the [Induction Process](delivery-excellence/induction-process.md)
+2. **Project Teams** - Review the [Delivery Handbook](delivery-excellence/delivery-handbook.md) 
+3. **Leadership** - Check the [Maturity Dashboard](delivery-excellence/maturity-dashboard.md)
+4. **Quality Focus** - Implement [Value Patterns](delivery-excellence/value-patterns.md) and watch for [Red Patterns](delivery-excellence/red-patterns.md)
 
-## 🚀 Quick Access to Essential Resources
+## 💡 Continuous Improvement
 
-<div class="grid secondary-grid">
-
-<div class="card">
-
-### 📋 Key Checklists
-- [Checklist](delivery-excellence/checklist.md) - Project checklists and templates
-- [Induction Guide](delivery-excellence/induction-process.md) - Team onboarding
-- [Architecture Review](delivery-excellence/architecture-value-board/review-checklist.md) - Technical validation
-
-</div>
-
-<div class="card">
-
-### 📄 Key Templates
-- [QBR Template](delivery-excellence/delivery-cadences/qbr.md) - Quarterly Business Review
-- [MBR Template](delivery-excellence/delivery-cadences/bi-weekly-mbr.md) - Monthly Business Review
-- [All Is Well Report](delivery-excellence/templates/all-is-well-report.md) - Status updates
-- [Project Charter](delivery-excellence/templates/project-charter.md) - Project definition
-
-</div>
-
-<div class="card">
-
-### 🏛️ Governance Tools
-- [Architecture Value Board](delivery-excellence/architecture-value-board/tools-technologies.md) - Technical decisions
-- [Program Value Board](delivery-excellence/program-value-board/process-metrics.md) - Strategic oversight
-- [Review Process](delivery-excellence/delivery-governance/index.md) - Quality gates
-- [Maturity Dashboard](delivery-excellence/maturity-dashboard.md) - Performance tracking
-
-</div>
-
-<div class="card">
-
-### 📊 Metrics & Analytics
-- [DORA Metrics](metrics-kpis/dora-metrics.md) - Delivery performance
-- [Support Projects](metrics-kpis/support-projects.md) - Support metrics
-- [Project Performance](delivery-excellence/maturity-dashboard.md) - Live project metrics
-- [Quality Metrics](best-practices/qa-best-practices.md) - Delivery quality indicators
-
-</div>
-
-</div>
-
-## 📈 Key Performance Indicators
-
-<div class="metrics-grid">
-
-<div class="metric-card">
-<div class="metric-value">{{ active_projects }}</div>
-<div class="metric-label">Active Projects</div>
-</div>
-
-<div class="metric-card">
-<div class="metric-value">{{ delivery_success_rate }}</div>
-<div class="metric-label">Delivery Success Rate</div>
-</div>
-
-<div class="metric-card">
-<div class="metric-value">{{ client_satisfaction }}</div>
-<div class="metric-label">Client Satisfaction</div>
-</div>
-
-<div class="metric-card">
-<div class="metric-value">{{ team_productivity }}</div>
-<div class="metric-label">Team Productivity</div>
-</div>
-
-</div>
-
-## 🛠️ Integrated Tools & Technologies
-
-- **Project Management** - Jira, Azure DevOps, Asana
-- **Communication** - Microsoft Teams, Slack, Zoom
-- **Documentation** - SharePoint, Confluence, Notion
-- **Analytics** - Power BI, Tableau, Looker Studio
-- **Development** - GitHub, GitLab, Azure Repos
-- **Monitoring** - Application Insights, New Relic, Datadog
-
-## 📞 Support & Resources
-
-### 🆘 Getting Help
-- **PMO Team**: pmo@accionlabs.com
-- **Technical Support**: tech-support@accionlabs.com
-- **Delivery Excellence**: delivery@accionlabs.com
-- **Governance Support**: governance@accionlabs.com
-
-### 📚 Learning Resources
-- [Delivery Handbook](introduction/index.md) - Complete methodology
-- [Best Practices](best-practices/index.md) - Proven approaches
-- [Agile Methodologies](agile-methodologies/index.md) - Framework guides
-
-## 🔄 Recent Activity
-
-- **Last Updated**: {{ git_revision_date_localized }}
-- **Portal Version**: 2.0
-- **Handbook Version**: 1.0
-- **Governance Framework**: Active
-
----
-
-## 🎉 Getting Started
-
-### For New Team Members
-1. **Start Here** → [Delivery Handbook Introduction](introduction/index.md)
-2. **Team Onboarding** → [Induction Guide](delivery-excellence/induction-process.md)
-3. **Best Practices** → [Development Guidelines](best-practices/development.md)
-
-### For Project Managers
-1. **Project Setup** → [Checklist](delivery-excellence/checklist.md)
-2. **Templates** → [Delivery Excellence Templates](delivery-excellence/templates/index.md)
-3. **Governance** → [Value Board Governance](delivery-excellence/delivery-governance/index.md)
-
-### For Technical Leads
-1. **Architecture Review** → [Architecture Value Board](delivery-excellence/architecture-value-board/tools-technologies.md)
-2. **Best Practices** → [Architecture & Design](best-practices/architecture-design.md)
-3. **Quality Assurance** → [QA Best Practices](best-practices/qa-best-practices.md)
-
-**Welcome to the future of delivery excellence at AccionLabs!** 🚀 
+This handbook is a living document that evolves with our practices and learnings. Contributions and feedback are welcome to keep our delivery excellence standards current and effective.
