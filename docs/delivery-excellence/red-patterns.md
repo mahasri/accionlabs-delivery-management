@@ -18,7 +18,7 @@
     
     .red-patterns-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(3, 1fr);
         gap: 20px;
     }
     
@@ -53,14 +53,46 @@
         line-height: 1.5;
     }
     
-    /* Hide RHS table of contents for this page */
+    /* Completely hide RHS table of contents for this page */
     .md-sidebar--secondary {
         display: none !important;
+        width: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
     
     /* Adjust main content width when RHS is hidden */
     .md-content {
         margin-right: 0 !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    
+    /* Ensure the main container uses full width */
+    .md-main {
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    /* Adjust the main content area */
+    .md-main__inner {
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    /* Remove any grid layout that might be causing the RHS space */
+    .md-grid {
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
+    
+    /* Ensure the page uses full width */
+    .md-typeset {
+        max-width: 100% !important;
+        margin: 0 !important;
     }
     
     @media (max-width: 768px) {
@@ -74,17 +106,7 @@
 </style>
 
 <div class="red-patterns-container">
-    <h1 class="red-patterns-title">Red Patterns</h1>
-    
     <div class="red-patterns-grid">
-        <div class="red-pattern-card">
-            <div class="red-pattern-icon">😐</div>
-            <div class="red-pattern-title">Mediocre Performance Acceptance</div>
-            <div class="red-pattern-description">
-                Team is just meeting expectations without striving for excellence or continuous improvement.
-            </div>
-        </div>
-
         <div class="red-pattern-card">
             <div class="red-pattern-icon">🤐</div>
             <div class="red-pattern-title">Silent Disagreement</div>
@@ -234,6 +256,14 @@
             <div class="red-pattern-title">Micromanagement</div>
             <div class="red-pattern-description">
                 Excessive oversight and control that stifles creativity and team autonomy.
+            </div>
+        </div>
+
+        <div class="red-pattern-card">
+            <div class="red-pattern-icon">😐</div>
+            <div class="red-pattern-title">Mediocre Performance Acceptance</div>
+            <div class="red-pattern-description">
+                Team is just meeting expectations without striving for excellence or continuous improvement.
             </div>
         </div>
     </div>

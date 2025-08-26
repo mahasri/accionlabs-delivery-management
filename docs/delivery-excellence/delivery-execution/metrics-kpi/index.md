@@ -10,31 +10,6 @@ Accionlabs believes in the **AOOI (Action-Oriented Outcome and Impact)** approac
 
 Our comprehensive metrics and KPIs framework enables data-driven decision making, continuous improvement, and transparent reporting to ensure we consistently deliver exceptional value while maintaining the highest standards of quality and performance.
 
-## 📊 Sample Metrics & KPI Reports
-
-<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
-    <div style="margin-bottom: 15px;">
-        <h3 style="color: #333; margin-bottom: 10px;">📊 Sample Metrics & KPI Reports</h3>
-        <p style="color: #666; margin-bottom: 20px;">Comprehensive metrics and KPIs framework showcasing our measurement approach and reporting methodology</p>
-    </div>
-    
-    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Sample Metrics & KPI Reports Preview</p>
-        <iframe 
-            src="../../../assets/documents/SDLC-Metrics-KPIs.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
-            width="100%" 
-            height="600px" 
-            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
-            title="Sample Metrics & KPI Reports Preview"
-            frameborder="0">
-            <p>Your browser does not support PDFs. 
-            <a href="../../../assets/documents/SDLC-Metrics-KPIs.pdf" target="_blank">Download the sample PDF</a> instead.</p>
-        </iframe>
-        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
-            💡 <em>Above shows our comprehensive metrics and KPIs framework and measurement methodology</em>
-        </p>
-    </div>
-</div>
 
 ---
 
@@ -367,3 +342,89 @@ The interpretation guidelines will also be similar to Release Burnup, with some 
 
 - There could be more scope changes if the initiative spans across multiple releases
 - We might see slower pace or flatter sections in Initiative Burnup if teams tend to context-switch regularly across initiatives.
+
+## 📊 Sample Metrics & KPI Reports
+
+<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Metrics & KPI Reports Preview</p>
+        
+        <!-- Carousel Container -->
+        <div class="carousel-container" style="position: relative; max-width: 100%; margin: 0 auto;">
+            <!-- Carousel Slides -->
+            <div class="carousel-slides" style="display: flex; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-1.png" alt="Metrics Report - Overview" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-2.png" alt="Metrics Report - Performance" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-3.png" alt="Metrics Report - Trends" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-4.png" alt="Metrics Report - Analysis" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-5.png" alt="Metrics Report - Dashboard" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-6.png" alt="Metrics Report - Insights" style="width: 100%; height: auto; display: block;">
+                </div>
+                <div class="carousel-slide" style="min-width: 100%; transition: transform 0.5s ease-in-out;">
+                    <img src="../../../assets/media/Metrics-report-7.png" alt="Metrics Report - Summary" style="width: 100%; height: auto; display: block;">
+                </div>
+            </div>
+            
+            <!-- Navigation Buttons -->
+            <button class="carousel-btn prev" onclick="changeSlide(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.7); color: white; border: none; padding: 12px 16px; border-radius: 50%; cursor: pointer; font-size: 18px; z-index: 10;">‹</button>
+            <button class="carousel-btn next" onclick="changeSlide(1)" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.7); color: white; border: none; padding: 12px 16px; border-radius: 50%; cursor: pointer; font-size: 18px; z-index: 10;">›</button>
+            
+            <!-- Dots Indicator -->
+            <div class="carousel-dots" style="text-align: center; margin-top: 15px;">
+                <span class="dot active" onclick="currentSlide(1)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(2)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(3)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(4)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(5)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(6)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+                <span class="dot" onclick="currentSlide(7)" style="height: 12px; width: 12px; margin: 0 4px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;"></span>
+            </div>
+        </div>
+        
+        <p style="margin-top: 15px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows our comprehensive metrics and KPI reports - Use navigation arrows or dots to browse through all reports</em>
+        </p>
+    </div>
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function changeSlide(n) {
+    showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+    showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+    let i;
+    let slides = document.querySelectorAll('.carousel-slide');
+    let dots = document.querySelectorAll('.dot');
+    
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.transform = `translateX(-${(slideIndex-1) * 100}%)`;
+    }
+    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].style.backgroundColor = '#bbb';
+    }
+    dots[slideIndex-1].style.backgroundColor = '#007bff';
+}
+</script>

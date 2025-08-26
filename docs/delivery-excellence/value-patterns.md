@@ -18,7 +18,7 @@
     
     .value-patterns-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(3, 1fr);
         gap: 20px;
     }
     
@@ -53,14 +53,46 @@
         line-height: 1.5;
     }
     
-    /* Hide RHS table of contents for this page */
+    /* Completely hide RHS table of contents for this page */
     .md-sidebar--secondary {
         display: none !important;
+        width: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
     
     /* Adjust main content width when RHS is hidden */
     .md-content {
         margin-right: 0 !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    
+    /* Ensure the main container uses full width */
+    .md-main {
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    /* Adjust the main content area */
+    .md-main__inner {
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    /* Remove any grid layout that might be causing the RHS space */
+    .md-grid {
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
+    
+    /* Ensure the page uses full width */
+    .md-typeset {
+        max-width: 100% !important;
+        margin: 0 !important;
     }
     
     @media (max-width: 768px) {
@@ -74,8 +106,6 @@
 </style>
 
 <div class="value-patterns-container">
-    <h1 class="value-patterns-title">Value Patterns</h1>
-    
     <div class="value-patterns-grid">
         <div class="value-pattern-card">
             <div class="value-pattern-icon">📚</div>
