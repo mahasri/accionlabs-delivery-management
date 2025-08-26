@@ -15,7 +15,6 @@
   /* Double ensure no RHS on small mobile */
   .md-sidebar--secondary,
   .md-toc,
-  .md-nav--secondary,
   aside.md-sidebar--secondary,
   [data-md-component="toc"] {
     display: none !important;
@@ -91,15 +90,18 @@
   .md-sidebar--primary {
     width: 250px !important;
     max-width: 80vw !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    z-index: 1 !important;
   }
   
   /* COMPREHENSIVE RHS hiding on mobile - multiple approaches */
   .md-sidebar--secondary,
   .md-toc,
-  .md-nav--secondary,
   aside.md-sidebar--secondary,
-  [data-md-component="toc"],
-  .md-nav[data-md-level="1"] {
+  [data-md-component="toc"] {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
@@ -135,12 +137,25 @@
   .md-nav__link {
     font-size: 0.9rem !important;
     padding: 0.4rem 0.8rem !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
   
   /* Mobile section headers */
   .md-nav--primary .md-nav__item--nested > .md-nav__link {
     font-size: 0.85rem !important;
     padding: 0.5rem 0.8rem !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+  
+  /* Ensure LHS navigation items are visible */
+  .md-nav--primary .md-nav__item {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
 }
 
