@@ -295,6 +295,8 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
 
 ### GenAI Effectiveness {#genai-effectiveness}
 
+<p style="font-size: 0.9em; color: #666; margin-top: -10px; margin-bottom: 15px; font-style: italic;">(insights from 12 projects)</p>
+
 <div class="genai-effectiveness-section">
     <div class="impact-grid">
         <div class="impact-category">

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Induction Process is the foundational step in Accionlabs' delivery excellence framework. It ensures every new team member receives comprehensive onboarding that covers company culture, product knowledge, processes, people integration, and platform familiarization.
+Accion executes the progressive induction by following the Accionlabs Induction Framework (5P Model). This methodology incorporates the five key aspects of induction: Product, Platform, People, Process, and Program across four levels: Accion, Client, Project, and Role. This tested and proven induction methodology ensures that each incremental team member of the progressive induction process works exactly as planned with minimal dependency on the individual's experience with the transition process.
 
 ### Our 5P Induction Approach
 
@@ -71,9 +71,9 @@ This systematic approach ensures that every team member is fully equipped with t
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📋 Induction Guide Template Preview</p>
         <iframe 
-            src="../../assets/documents/Induction%20Guide%20-%20Sample.pdf" 
+            src="../../assets/documents/Induction%20Guide%20-%20Sample.pdf#page=1&view=FitH&zoom=page-width" 
             width="100%" 
-            height="900px" 
+            height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); max-width: 100%;" 
             title="Induction Guide Sample Preview"
             frameborder="0">

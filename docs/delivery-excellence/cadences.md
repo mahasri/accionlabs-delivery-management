@@ -52,7 +52,7 @@ Bi-weekly Work Status Reports (WSR) provide comprehensive project progress updat
         <iframe 
             src="../../assets/documents/CIS-Q2 - 2025-240825-094619.pdf#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitH&zoom=page-width" 
             width="100%" 
-            height="800px" 
+            height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
             title="Sample Bi-weekly Report Preview"
             frameborder="0">
@@ -68,6 +68,55 @@ Bi-weekly Work Status Reports (WSR) provide comprehensive project progress updat
                target="_blank" 
                style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
                 📥 Download WSR Template
+            </a>
+        </div>
+    </div>
+</div>
+
+## 📊 MBR (Monthly Business Review)
+
+Monthly Business Reviews provide detailed monthly performance analysis and strategic insights for ongoing project management and decision-making.
+
+### Content Guidelines
+
+1. **Executive Summary**
+2. **Monthly Performance Metrics**
+3. **Project Status & Progress**
+4. **Key Achievements & Milestones**
+5. **Challenges & Risk Mitigation**
+6. **Resource Utilization**
+7. **Financial Performance**
+8. **Quality Metrics & KPIs**
+9. **Customer Satisfaction**
+10. **Next Month's Objectives**
+
+### 📊 Sample MBR Report
+
+<div style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+    <div style="margin-bottom: 15px;">
+        <h3 style="color: #333; margin-bottom: 10px;">📊 Sample MBR Report</h3>
+        <p style="color: #666; margin-bottom: 20px;">Comprehensive monthly business review with detailed performance metrics and strategic insights</p>
+    </div>
+    
+    <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <p style="color: #666; font-style: italic; margin-bottom: 15px;">📊 Sample MBR Report Preview</p>
+        <iframe 
+            src="../../assets/documents/Accionlabs-MBR-Sample.pdf#page=1&view=FitH&zoom=page-width" 
+            width="100%" 
+            height="600px" 
+            style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
+            title="Sample MBR Report Preview"
+            frameborder="0">
+            <p>Your browser does not support PDFs. 
+            <a href="../../assets/documents/Accionlabs-MBR-Sample.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+        </iframe>
+        <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
+            💡 <em>Above shows the sample MBR structure • Use the button below to download the template</em>
+        </p>
+        
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="https://tinyurl.com/WSRTemp" class="download-button" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;">
+                📥 Download Template
             </a>
         </div>
     </div>
@@ -101,14 +150,14 @@ Quarterly Business Reviews provide strategic oversight and comprehensive perform
     <div style="background-color: white; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="color: #666; font-style: italic; margin-bottom: 15px;">📊 Sample QBR Report Preview</p>
         <iframe 
-            src="../../assets/documents/Accion%20Cision%20QBR%20%20-%20Q1%202025.pdf" 
+            src="../../assets/documents/Accionlabs-QBR-Sample.pdf" 
             width="100%" 
             height="600px" 
             style="border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" 
             title="Sample QBR Report Preview"
             frameborder="0">
             <p>Your browser does not support PDFs. 
-            <a href="../../assets/documents/Accion%20Cision%20QBR%20%20-%20Q1%202025.pdf" target="_blank">Download the sample PDF</a> instead.</p>
+            <a href="../../assets/documents/Accionlabs-QBR-Sample.pdf" target="_blank">Download the sample PDF</a> instead.</p>
         </iframe>
         <p style="margin-top: 10px; font-size: 12px; color: #888; text-align: center;">
             💡 <em>Above shows the sample QBR structure • Use the button below to download the template</em>
