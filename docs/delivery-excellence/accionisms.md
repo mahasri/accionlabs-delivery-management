@@ -1,71 +1,34 @@
-# Accionisms - Leadership Principles
-
-## Overview
-
-Accionisms are our core leadership principles and values that guide every aspect of our delivery excellence approach and organizational culture. These principles embody our commitment to excellence, innovation, and value-driven delivery.
-
-
+# Accionisms
 
 <style>
     .accionisms-container {
         max-width: 1200px;
-        margin: 30px auto;
-        padding: 30px;
+        margin: 20px auto;
+        padding: 20px;
         font-family: 'Segoe UI', Arial, sans-serif;
     }
     
     .accionisms-title {
         text-align: center;
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         color: #1e40af;
-        margin-bottom: 40px;
-        font-weight: 600;
+        margin-bottom: 30px;
+        font-weight: bold;
     }
     
     .accionisms-grid {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 30px;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
     }
     
     .accionism-card {
         background: white;
-        padding: 25px;
-        border-radius: 10px;
-        box-shadow: 0 3px 12px rgba(0,0,0,0.08);
-        border-left: 3px solid;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        border: 1px solid #e5e7eb;
-    }
-    
-    .accionism-card:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 6px 20px rgba(0,0,0,0.12);
-    }
-    
-    .accionism-title {
-        font-size: 0.95rem;
-        font-weight: 500;
-        color: #374151;
-        margin-bottom: 0;
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        line-height: 1.4;
-    }
-    
-    .accionism-icon {
-        font-size: 18px;
-        flex-shrink: 0;
-    }
-    
-
-    
-    .highlight {
-        background: rgba(30, 64, 175, 0.1);
-        padding: 2px 6px;
-        border-radius: 4px;
-        font-weight: 500;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        border-left: 4px solid;
+        transition: transform 0.3s ease;
     }
     
     /* Individual card colors */
@@ -86,23 +49,28 @@ Accionisms are our core leadership principles and values that guide every aspect
     .card-15 { border-left-color: #155e75; }
     .card-16 { border-left-color: #991b1b; }
     
-    @media (max-width: 768px) {
-        .accionisms-grid {
-            grid-template-columns: 1fr;
-            gap: 20px;
-        }
-        .accionisms-title {
-            font-size: 1.8rem;
-        }
-        .accionisms-container {
-            padding: 20px;
-            margin: 20px auto;
-        }
-        .accionism-card {
-            padding: 20px;
-        }
+    .accionism-card:hover {
+        transform: translateY(-5px);
     }
-
+    
+    .accionism-icon {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .accionism-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #1f2937;
+        margin-bottom: 8px;
+    }
+    
+    .accionism-description {
+        font-size: 0.9rem;
+        color: #6b7280;
+        line-height: 1.5;
+    }
+    
     /* Hide RHS table of contents for this page */
     .md-sidebar--secondary {
         display: none !important;
@@ -112,121 +80,146 @@ Accionisms are our core leadership principles and values that guide every aspect
     .md-content {
         margin-right: 0 !important;
     }
+    
+    @media (max-width: 768px) {
+        .accionisms-grid {
+            grid-template-columns: 1fr;
+        }
+        .accionisms-title {
+            font-size: 2rem;
+        }
+    }
 </style>
 
 <div class="accionisms-container">
-
+    <h1 class="accionisms-title">Accionisms</h1>
     
     <div class="accionisms-grid">
         <div class="accionism-card card-1">
-            <div class="accionism-title">
-                <span class="accionism-icon">🌍</span>
-                You Are Not Alone - Leverage Larger Accion
+            <div class="accionism-icon">🌍</div>
+            <div class="accionism-title">You Are Not Alone - Leverage Larger Accion</div>
+            <div class="accionism-description">
+                Someone would have solved the problem somewhere in Accion. Tap into collective wisdom and learn from the experiences of others across the organization.
             </div>
         </div>
 
         <div class="accionism-card card-2">
-            <div class="accionism-title">
-                <span class="accionism-icon">💭</span>
-                Give and Accept Direct Feedback
+            <div class="accionism-icon">💭</div>
+            <div class="accionism-title">Give and Accept Direct Feedback</div>
+            <div class="accionism-description">
+                Foster a culture of honest communication. Learn to both deliver and receive feedback constructively for continuous improvement.
             </div>
         </div>
 
         <div class="accionism-card card-3">
-            <div class="accionism-title">
-                <span class="accionism-icon">🎯</span>
-                Do Simple Things Right and Consistently
+            <div class="accionism-icon">🎯</div>
+            <div class="accionism-title">Do Simple Things Right and Consistently</div>
+            <div class="accionism-description">
+                Excellence lies in consistent execution of fundamental practices. Master the basics before moving to complexity.
             </div>
         </div>
 
         <div class="accionism-card card-4">
-            <div class="accionism-title">
-                <span class="accionism-icon">🔧</span>
-                Be Hands-On
+            <div class="accionism-icon">🔧</div>
+            <div class="accionism-title">Be Hands-On</div>
+            <div class="accionism-description">
+                Know the details, no corner office mentality. Stay connected to the work and lead from the front with deep understanding.
             </div>
         </div>
 
         <div class="accionism-card card-5">
-            <div class="accionism-title">
-                <span class="accionism-icon">🎪</span>
-                Identify the Roles
+            <div class="accionism-icon">🎪</div>
+            <div class="accionism-title">Identify the Roles</div>
+            <div class="accionism-description">
+                Clearly define who is responsible and who is accountable. Eliminate confusion through crystal-clear role definition.
             </div>
         </div>
 
         <div class="accionism-card card-6">
-            <div class="accionism-title">
-                <span class="accionism-icon">🌱</span>
-                Shades of Green
+            <div class="accionism-icon">🌱</div>
+            <div class="accionism-title">Shades of Green</div>
+            <div class="accionism-description">
+                Embrace nuanced thinking and recognize that most situations exist in gradients rather than absolutes.
             </div>
         </div>
 
         <div class="accionism-card card-7">
-            <div class="accionism-title">
-                <span class="accionism-icon">🌈</span>
-                Work-Life Harmony
+            <div class="accionism-icon">🌈</div>
+            <div class="accionism-title">Work-Life Harmony</div>
+            <div class="accionism-description">
+                Strive for integration rather than balance. Create sustainable rhythms that honor both professional and personal commitments.
             </div>
         </div>
 
         <div class="accionism-card card-8">
-            <div class="accionism-title">
-                <span class="accionism-icon">💝</span>
-                Employee = Customer
+            <div class="accionism-icon">💝</div>
+            <div class="accionism-title">Employee = Customer</div>
+            <div class="accionism-description">
+                Treat employees with the same care and attention as customers. Internal service excellence drives external success.
             </div>
         </div>
 
         <div class="accionism-card card-9">
-            <div class="accionism-title">
-                <span class="accionism-icon">✨</span>
-                Add Value in Everything You Do
+            <div class="accionism-icon">✨</div>
+            <div class="accionism-title">Add Value in Everything You Do</div>
+            <div class="accionism-description">
+                Every action should contribute meaningfully. Ask yourself: "How does this create value?" before proceeding.
             </div>
         </div>
 
         <div class="accionism-card card-10">
-            <div class="accionism-title">
-                <span class="accionism-icon">🌟</span>
-                Strive for Excellence
+            <div class="accionism-icon">🌟</div>
+            <div class="accionism-title">Strive for Excellence</div>
+            <div class="accionism-description">
+                "Excite your customer every day" - Go beyond meeting expectations to create memorable experiences.
             </div>
         </div>
 
         <div class="accionism-card card-11">
-            <div class="accionism-title">
-                <span class="accionism-icon">🎭</span>
-                No Politics - Be Direct
+            <div class="accionism-icon">🎭</div>
+            <div class="accionism-title">No Politics - Be Direct</div>
+            <div class="accionism-description">
+                Eliminate office politics through transparent, direct communication. Say what you mean with respect and clarity.
             </div>
         </div>
 
         <div class="accionism-card card-12">
-            <div class="accionism-title">
-                <span class="accionism-icon">📖</span>
-                Continuous Learning
+            <div class="accionism-icon">📖</div>
+            <div class="accionism-title">Continuous Learning</div>
+            <div class="accionism-description">
+                Never stop growing. Curiosity and adaptability are essential for staying relevant and effective.
             </div>
         </div>
 
         <div class="accionism-card card-13">
-            <div class="accionism-title">
-                <span class="accionism-icon">🎨</span>
-                Democratizing Innovation
+            <div class="accionism-icon">🎨</div>
+            <div class="accionism-title">Democratizing Innovation</div>
+            <div class="accionism-description">
+                Make innovation accessible to everyone. Break down barriers that prevent creative thinking at all levels.
             </div>
         </div>
 
         <div class="accionism-card card-14">
-            <div class="accionism-title">
-                <span class="accionism-icon">🧠</span>
-                Hire People Smarter Than You
+            <div class="accionism-icon">🧠</div>
+            <div class="accionism-title">Hire People Smarter Than You</div>
+            <div class="accionism-description">
+                "I get scared if I am the smartest in my team." Surround yourself with exceptional talent that challenges and elevates you.
             </div>
         </div>
 
         <div class="accionism-card card-15">
-            <div class="accionism-title">
-                <span class="accionism-icon">📈</span>
-                Expect More from All
+            <div class="accionism-icon">📈</div>
+            <div class="accionism-title">Expect More from All</div>
+            <div class="accionism-description">
+                If you need to deliver more, raise expectations across the board. High standards lift everyone's performance.
             </div>
         </div>
 
         <div class="accionism-card card-16">
-            <div class="accionism-title">
-                <span class="accionism-icon">🚀</span>
-                Zero Politics - No Bureaucracy
+            <div class="accionism-icon">🚀</div>
+            <div class="accionism-title">Zero Politics - No Bureaucracy</div>
+            <div class="accionism-description">
+                Create an environment of simplicity and transparency. Remove unnecessary layers and processes that slow progress.
             </div>
         </div>
     </div>

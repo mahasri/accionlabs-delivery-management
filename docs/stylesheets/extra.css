@@ -66,7 +66,7 @@
 
 /* Navigation Styling */
 .md-nav__title {
-  color: #1e3a8a;
+  color: #3b82f6;
   font-weight: 800;
   font-size: 1.1rem;
   border-bottom: 2px solid #e2e8f0;
@@ -78,21 +78,21 @@
 
 /* Main Section Titles (Delivery Excellence, Delivery Handbook) */
 .md-sidebar--primary .md-nav__title {
-  font-weight: 800;
-  color: #1e3a8a;
-  background-color: transparent;
-  border-left: none;
+  font-weight: 900;
+  color: #3b82f6;
+  background: transparent;
+  border-left: 3px solid #3b82f6;
   border-bottom: 2px solid #e2e8f0;
-  margin: 0.5rem 0 0.3rem 0;
-  padding: 0.6rem 1rem;
-  border-radius: 0;
-  font-size: 0.9rem;
+  margin: 0.8rem 0 0.5rem 0;
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  font-size: 1rem;
   width: 100%;
   cursor: default;
   position: relative;
   transition: all 0.2s ease;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 /* Remove collapsible arrows */
@@ -124,19 +124,10 @@
 }
 
 /* Alternative selectors for MkDocs Material theme */
+/* Remove collapsible arrows from section labels */
 .md-nav--primary .md-nav__item--nested > .md-nav__link::after {
-  content: '▼';
-  position: absolute;
-  right: 1rem;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 0.7rem;
-  color: #1e3a8a;
-  transition: transform 0.2s ease;
-}
-
-.md-nav--primary .md-nav__item--nested > .md-nav__link.collapsed::after {
-  transform: translateY(-50%) rotate(-90deg);
+  content: '';
+  display: none;
 }
 
 .md-nav--primary .md-nav__item--nested > .md-nav__link {
@@ -184,16 +175,42 @@
 /* Section Headers - Main sections and nested section headers */
 .md-nav--primary .md-nav__item--nested > .md-nav__link,
 .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
-  font-weight: 700;
-  color: #1e3a8a;
-  background-color: rgba(245, 158, 11, 0.1);
-  border-left: 3px solid #f59e0b;
+  font-weight: 800;
+  color: #3b82f6;
+  background: transparent;
+  border-left: 3px solid #3b82f6;
   border-bottom: none;
-  margin: 0.2rem -0.5rem 0.2rem 0;
-  padding: 0.4rem 1rem;
+  margin: 0.3rem -0.5rem 0.3rem 0;
+  padding: 0.6rem 1rem;
   border-radius: 6px;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   width: calc(100% + 0.5rem);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  position: relative;
+  cursor: default;
+}
+
+/* Section Group Separators */
+.md-nav--primary .md-nav__item--nested {
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(245, 158, 11, 0.1);
+}
+
+/* Section Group Titles - Enhanced styling */
+.md-nav--primary .md-nav__item--nested > .md-nav__link::before {
+  content: '';
+  display: none;
+}
+
+/* Enhanced section group styling */
+.md-nav--primary .md-nav__item--nested > .md-nav__link {
+  position: relative;
+}
+
+.md-nav--primary .md-nav__item--nested > .md-nav__link:hover {
+  background-color: rgba(59, 130, 246, 0.05);
 }
 
 /* Sub-navigation Items */
