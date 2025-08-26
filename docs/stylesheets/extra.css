@@ -7,12 +7,7 @@
 
 /* Extra small screens (phones in portrait) */
 @media (max-width: 480px) {
-  .md-sidebar--primary {
-    width: 260px !important;
-    max-width: 85vw !important;
-  }
-  
-  /* Double ensure no RHS on small mobile */
+  /* Hide RHS on small mobile */
   .md-sidebar--secondary,
   .md-toc,
   aside.md-sidebar--secondary,
@@ -23,16 +18,6 @@
     opacity: 0 !important;
     position: absolute !important;
     left: -9999px !important;
-  }
-  
-  .md-nav__link {
-    font-size: 0.85rem !important;
-    padding: 0.35rem 0.6rem !important;
-  }
-  
-  .md-nav--primary .md-nav__item--nested > .md-nav__link {
-    font-size: 0.8rem !important;
-    padding: 0.4rem 0.6rem !important;
   }
   
   .md-content {
@@ -86,18 +71,7 @@
 
 /* Mobile responsive */
 @media (max-width: 76.1875em) {
-  /* Mobile sidebar - narrower and responsive */
-  .md-sidebar--primary {
-    width: 250px !important;
-    max-width: 80vw !important;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    position: relative !important;
-    z-index: 1 !important;
-  }
-  
-  /* COMPREHENSIVE RHS hiding on mobile - multiple approaches */
+  /* Hide RHS sidebar on mobile */
   .md-sidebar--secondary,
   .md-toc,
   aside.md-sidebar--secondary,
@@ -113,49 +87,11 @@
     pointer-events: none !important;
   }
   
-  /* Reset grid layout for mobile */
-  .md-main {
-    display: block !important;
-    grid-template-columns: none !important;
-    grid-template-areas: none !important;
-  }
-  
-  .md-main__inner {
-    display: block !important;
-    margin: 0 !important;
-    width: 100% !important;
-  }
-  
+  /* Let Material theme handle mobile navigation - minimal interference */
   .md-content {
     padding: 1rem !important;
     width: 100% !important;
     margin: 0 !important;
-    margin-right: 0 !important;
-  }
-  
-  /* Ensure mobile navigation doesn't overflow */
-  .md-nav__link {
-    font-size: 0.9rem !important;
-    padding: 0.4rem 0.8rem !important;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-  
-  /* Mobile section headers */
-  .md-nav--primary .md-nav__item--nested > .md-nav__link {
-    font-size: 0.85rem !important;
-    padding: 0.5rem 0.8rem !important;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-  
-  /* Ensure LHS navigation items are visible */
-  .md-nav--primary .md-nav__item {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
   }
 }
 
