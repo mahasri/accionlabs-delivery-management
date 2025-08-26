@@ -321,15 +321,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
                 <li><strong>31%</strong> reduction in development time per feature</li>
             </ul>
         </div>
-        
-        <div class="impact-category">
-            <h4>Team Impact</h4>
-            <ul>
-                <li>Developer satisfaction up <strong>29%</strong> (7→9 out of 10)</li>
-                <li><strong>50%</strong> of support tickets resolved using AI</li>
-                <li><strong>50%</strong> faster proof-of-concept development</li>
-            </ul>
-        </div>
     </div>
 </div>
 
@@ -346,7 +337,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">1 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-1.png" alt="GenAI Impact Report 1" class="carousel-image">
-                <div class="slide-caption">Code Generated Through AI</div>
             </div>
         </div>
         
@@ -354,7 +344,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">2 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-2.png" alt="GenAI Impact Report 2" class="carousel-image">
-                <div class="slide-caption">Increased PR Count</div>
             </div>
         </div>
         
@@ -362,7 +351,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">3 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-3.png" alt="GenAI Impact Report 3" class="carousel-image">
-                <div class="slide-caption">Improved Issue Resolution</div>
             </div>
         </div>
         
@@ -370,7 +358,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">4 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-4.png" alt="GenAI Impact Report 4" class="carousel-image">
-                <div class="slide-caption">Product Roadmap Evolution</div>
             </div>
         </div>
         
@@ -378,7 +365,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">5 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-5.png" alt="GenAI Impact Report 5" class="carousel-image">
-                <div class="slide-caption">Development Team Performance</div>
             </div>
         </div>
         
@@ -386,7 +372,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">6 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-6.png" alt="GenAI Impact Report 6" class="carousel-image">
-                <div class="slide-caption">GitHub Copilot Usage</div>
             </div>
         </div>
         
@@ -394,7 +379,6 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
             <div class="slide-content">
                 <div class="slide-number">7 / 7</div>
                 <img src="../../../assets/media/GenAI-Impact-7.png" alt="GenAI Impact Report 7" class="carousel-image">
-                <div class="slide-caption">GenAI Metrics Overview</div>
             </div>
         </div>
     </div>
