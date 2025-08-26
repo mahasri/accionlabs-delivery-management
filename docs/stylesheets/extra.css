@@ -1075,55 +1075,10 @@
     display: none !important;
   }
   
-  /* Mobile Navigation - Ensure hamburger menu works */
-  .md-sidebar--primary {
-    position: fixed !important;
-    top: 60px !important;
-    left: 0 !important;
-    height: calc(100vh - 60px) !important;
-    z-index: 1000 !important;
-    background: white !important;
-    box-shadow: 2px 0 8px rgba(0,0,0,0.1) !important;
-    overflow-y: auto !important;
-    transform: translateX(-100%) !important;
-    transition: transform 0.3s ease !important;
-    width: 280px !important;
-    max-width: 280px !important;
-  }
-  
-  .md-sidebar--primary[data-md-state="lock"] {
-    transform: translateX(0) !important;
-  }
-  
-  /* Ensure main content doesn't overlap */
-  .md-main__inner {
-    margin-left: 0 !important;
-    transition: margin-left 0.3s ease !important;
-    width: 100% !important;
-    max-width: 100% !important;
-  }
-  
-  /* Make navigation scrollable */
+  /* Ensure navigation is scrollable on mobile */
   .md-nav--primary {
-    height: 100% !important;
+    max-height: calc(100vh - 120px) !important;
     overflow-y: auto !important;
-    padding-bottom: 2rem !important;
-  }
-  
-  .md-nav--primary .md-nav__list {
-    height: auto !important;
-    overflow-y: visible !important;
-  }
-  
-  .md-nav--primary .md-nav__item {
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-  
-  /* Overlay for mobile menu */
-  .md-overlay {
-    background-color: rgba(0, 0, 0, 0.5) !important;
-    z-index: 999 !important;
   }
   
   /* Ensure content is properly positioned */
@@ -1132,11 +1087,6 @@
     max-width: 100% !important;
     margin: 0 !important;
     padding: 1rem !important;
-  }
-  
-  .md-main {
-    margin-top: 60px !important;
-    width: 100% !important;
   }
   
   /* Mobile-specific navigation improvements */
@@ -1163,25 +1113,7 @@
   }
 }
 
-@media (max-width: 480px) {
-  .md-sidebar--primary {
-    width: 90vw !important;
-    max-width: 280px !important;
-  }
-  
-  .md-main__inner {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 !important;
-  }
-  
-  .md-content {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 !important;
-    padding: 0.5rem !important;
-  }
-}
+
 
 /* Delivery Handbook page specific styling */
 .delivery-handbook-embed {
