@@ -39,7 +39,7 @@ Accion's transition methodology is built on proven principles that ensure succes
 - **Culture transfer** of outcome-focused delivery approach
 - **Proven transition expertise** ensures methodology execution
 
-![EDC Organization Structure](../assets/media/EDC-Org-Structure.png)
+
 
 #### Hypercare Governance (90-120 days)
 
