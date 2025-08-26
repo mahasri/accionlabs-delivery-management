@@ -58,6 +58,12 @@ nav:
       - Value-Driven Delivery: delivery-excellence/delivery-execution/value-driven-delivery/index.md
       - Metrics & KPI: delivery-excellence/delivery-execution/metrics-kpi/index.md
       - GenAI Adoption: delivery-excellence/delivery-execution/genai-adoption/index.md
+    - '📚 Learning':
+      - Tech Tuesday: delivery-excellence/learning/tech-tuesday.md
+      - Value Wednesday: delivery-excellence/learning/value-wednesday.md
+      - Democon: delivery-excellence/learning/democon.md
+      - Friday Learnings: delivery-excellence/learning/friday-learnings.md
+      - GenAI Training Summary: delivery-excellence/learning/genai-training-summary.md
     - '🏛️ Delivery Governance':
       - Overview: delivery-excellence/delivery-governance/index.md
       - Cadences: delivery-excellence/cadences.md
