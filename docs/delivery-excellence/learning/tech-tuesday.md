@@ -1,7 +1,5 @@
 # Tech Tuesday
 
-## Overview
-
 Tech Tuesday is our weekly technology learning and knowledge sharing session focused on emerging technologies, best practices, and technical innovations.
 
 ## 📊 Session Metrics

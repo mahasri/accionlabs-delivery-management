@@ -1,7 +1,5 @@
 # Value Wednesday
 
-## Overview
-
 Value Wednesday is our weekly value-focused learning and knowledge sharing session designed to foster a value mindset across delivery teams. These sessions showcase real-world value generation, customer impact stories, and practical implementation strategies that have directly contributed to enhanced customer satisfaction and business outcomes.
 
 Through structured presentations, case studies, and interactive discussions, Value Wednesday has become instrumental in helping delivery teams understand how to identify, measure, and deliver tangible value to customers. The program has successfully transformed how teams approach their projects, emphasizing value-driven delivery over traditional task completion.
