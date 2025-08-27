@@ -1,87 +1,147 @@
 # GenAI Training Summary
 
-## Overview
+Our comprehensive GenAI training program is designed to equip teams with cutting-edge AI capabilities and align with customer-preferred GenAI platforms. This initiative focuses on practical application, certification attainment, and platform-specific expertise to drive AI-driven solutions.
 
-This section provides comprehensive summaries of our Generative AI training programs, workshops, and learning initiatives designed to enhance team capabilities in AI technologies and applications.
+## 📈 Learning Effectiveness
 
-## 🤖 Training Programs
-
-<div style="background: #f0f8ff; padding: 20px; border-radius: 8px; border-left: 4px solid #4facfe; margin: 20px 0;">
-    <h3 style="color: #333; margin-bottom: 15px;">🎓 Current Training Initiatives</h3>
-    <p style="color: #666; margin-bottom: 15px;">Overview of active GenAI training programs and learning paths.</p>
-</div>
-
-## 📚 Training Modules
-
-<div style="background: #f0fff4; padding: 20px; border-radius: 8px; margin: 20px 0;">
-    <h3 style="color: #333; margin-bottom: 15px;">📖 Core Learning Areas</h3>
-    <ul style="color: #666; line-height: 1.6;">
-        <li><strong>AI Fundamentals</strong>: Understanding AI/ML basics and concepts</li>
-        <li><strong>GenAI Tools</strong>: Hands-on experience with popular GenAI platforms</li>
-        <li><strong>Prompt Engineering</strong>: Best practices for effective AI interactions</li>
-        <li><strong>Integration Patterns</strong>: How to integrate GenAI into existing workflows</li>
-        <li><strong>Ethics & Governance</strong>: Responsible AI usage and compliance</li>
-        <li><strong>Use Case Development</strong>: Practical applications in delivery processes</li>
-    </ul>
-</div>
-
-## 📊 Training Statistics
-
-<div style="background: #fffbf0; padding: 20px; border-radius: 8px; margin: 20px 0;">
-    <h3 style="color: #333; margin-bottom: 15px;">📈 Training Metrics</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-top: 15px;">
-        <div style="text-align: center; padding: 15px; background: white; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <div style="font-size: 24px; font-weight: bold; color: #667eea;">0</div>
-            <div style="font-size: 14px; color: #666;">Participants Trained</div>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border: 1px solid #e9ecef;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+        <div style="text-align: center;">
+            <div style="font-size: 24px; font-weight: bold; color: #4caf50;">70%</div>
+            <div style="font-size: 14px; color: #666;">Confidence Uplift</div>
         </div>
-        <div style="text-align: center; padding: 15px; background: white; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <div style="font-size: 24px; font-weight: bold; color: #28a745;">0</div>
-            <div style="font-size: 14px; color: #666;">Training Modules</div>
+        <div style="text-align: center;">
+            <div style="font-size: 24px; font-weight: bold; color: #2196f3;">60%</div>
+            <div style="font-size: 14px; color: #666;">Application Rate</div>
         </div>
-        <div style="text-align: center; padding: 15px; background: white; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <div style="font-size: 24px; font-weight: bold; color: #ffc107;">0%</div>
-            <div style="font-size: 14px; color: #666;">Completion Rate</div>
+        <div style="text-align: center;">
+            <div style="font-size: 24px; font-weight: bold; color: #ff9800;">90%</div>
+            <div style="font-size: 14px; color: #666;">Satisfaction Rate</div>
         </div>
     </div>
 </div>
 
-## 🎯 Learning Outcomes
+## 🎯 Training Categories
 
-- **Technical Proficiency**: Mastery of GenAI tools and technologies
-- **Practical Application**: Ability to implement GenAI solutions in real projects
-- **Best Practices**: Understanding of effective AI integration patterns
-- **Risk Management**: Knowledge of AI ethics, governance, and compliance
-- **Innovation**: Skills to identify and develop new AI use cases
-
-## 📅 Upcoming Training Sessions
-
-<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
-    <h3 style="color: #333; margin-bottom: 10px;">📅 Next Training Session</h3>
-    <p style="color: #666; margin-bottom: 15px;">Stay tuned for our next GenAI training session!</p>
+<div style="background: #f8f9fa; padding: 30px; border-radius: 12px; margin: 30px 0; border: 1px solid #e9ecef;">
+    <h3 style="text-align: center; color: #333; margin-bottom: 30px;">📚 Comprehensive Training Programs</h3>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px;">
+        <div style="text-align: center; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 4px solid #f44336;">
+            <div style="font-size: 18px; font-weight: bold; color: #333; margin-bottom: 15px;">AI Foundations and Prompting</div>
+            <div style="font-size: 14px; color: #666; text-align: left;">
+                • Prompt Engineering – Unlocking AI for Everyone<br>
+                • Foundations of Generative AI<br>
+                • GEN AI for Software Engineers<br>
+                • Large Language Models Explained<br>
+                • Semantic Engineering & Knowledge Graphs<br>
+                • Responsible AI & Ethics
+            </div>
+        </div>
+        
+        <div style="text-align: center; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 4px solid #2196f3;">
+            <div style="font-size: 18px; font-weight: bold; color: #333; margin-bottom: 15px;">Applied AI Development and Tools</div>
+            <div style="font-size: 14px; color: #666; text-align: left;">
+                • Complete OpenAI API Course<br>
+                • LlamaIndex – Build LLM Powered Apps<br>
+                • LLM Fine-Tuning on OpenAI<br>
+                • Copilot Trainings (Cursor, Windsurf, Tabnine, GitHub Copilot)<br>
+                • LangChain & RAG Development<br>
+                • Vector Databases
+            </div>
+        </div>
+        
+        <div style="text-align: center; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 4px solid #ff9800;">
+            <div style="font-size: 18px; font-weight: bold; color: #333; margin-bottom: 15px;">Agentic & Advanced AI</div>
+            <div style="font-size: 14px; color: #666; text-align: left;">
+                • Agentic AI<br>
+                • KAPS Sessions – Advanced applied AI use cases<br>
+                • Breeze AI<br>
+                • Multi-Agent Systems with LangGraph<br>
+                • Autonomous Workflow Orchestration<br>
+                • AI in Knowledge Management & Information Retrieval
+            </div>
+        </div>
+        
+        <div style="text-align: center; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 4px solid #4caf50;">
+            <div style="font-size: 18px; font-weight: bold; color: #333; margin-bottom: 15px;">Leadership and Strategic AI</div>
+            <div style="font-size: 14px; color: #666; text-align: left;">
+                • Gen AI for Leaders<br>
+                • AI Strategy & Business Transformation<br>
+                • Responsible AI for Business Leaders<br>
+                • Case Studies: AI Impact Across Industries
+            </div>
+        </div>
+    </div>
 </div>
 
-## 📚 Training Resources
+## 🏆 Focused Training Programs
 
-<div style="background: #fff0ff; padding: 20px; border-radius: 8px; margin: 20px 0;">
-    <h3 style="color: #333; margin-bottom: 15px;">📖 Learning Materials</h3>
-    <ul style="color: #666; line-height: 1.6;">
-        <li>Training videos and recorded sessions</li>
-        <li>Hands-on exercises and assignments</li>
-        <li>Best practice guides and documentation</li>
-        <li>Case studies and real-world examples</li>
-        <li>Assessment tools and certification paths</li>
-    </ul>
+Our program is crafted to help teams align better with client's focus area on using Vertex AI for their AI-driven solutions. 
+We promote certifications and focused training programs tailored to customer's preferred GenAI platforms. 
+Below certifications are obtained as a timebound program leveraging Google's <a href="https://www.cloudskillsboost.google/" target="_blank" style="color: #2e7d32; text-decoration: underline;">cloudskillsboost</a> event.
+
+Google VertexAI badges and certificates achieved by 97 team members
+
+## 🏅 Google Vertex AI Badges
+
+<div style="background: white; padding: 30px; border-radius: 12px; margin: 30px 0; border: 2px solid #e9ecef; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h3 style="text-align: center; color: #333; margin-bottom: 30px;">🎖️ Google Cloud Skills Boost Certifications</h3>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-0.png" alt="Gen AI: Beyond the Chatbot" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Gen AI: Beyond the Chatbot</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-1.png" alt="Gen AI Agents: Transform Your Organization" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Gen AI Agents: Transform Your Organization</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-2.png" alt="Create Image Captioning Models" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Create Image Captioning Models</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-3.png" alt="Encoder-Decoder Architecture" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Encoder-Decoder Architecture</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-3.1.png" alt="Introduction to Generative AI Studio" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Introduction to Generative AI Studio</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-3.5.png" alt="Attention Mechanism" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Attention Mechanism</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-4.png" alt="Introduction to Responsible AI" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Introduction to Responsible AI</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-5.png" alt="Advanced AI Badge" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">Advanced AI Concepts</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-6.png" alt="AI Development Badge" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">AI Development</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-7.png" alt="AI Implementation Badge" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">AI Implementation</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-8.png" alt="AI Strategy Badge" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">AI Strategy</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-9.png" alt="AI Leadership Badge" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">AI Leadership</div>
+        </div>
+        <div style="text-align: center;">
+            <img src="../../../assets/media/Vertexai-Badge-11.png" alt="AI Innovation Badge" style="width: 100%; max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+            <div style="margin-top: 10px; font-weight: bold; color: #333; font-size: 14px;">AI Innovation</div>
+        </div>
+    </div>
 </div>
 
-## 🔄 Training Process
 
-1. **Assessment**: Evaluate current AI knowledge and skills
-2. **Customization**: Tailor training to team needs and project requirements
-3. **Delivery**: Interactive sessions with hands-on practice
-4. **Application**: Real-world implementation in projects
-5. **Evaluation**: Measure learning outcomes and impact
-6. **Continuous Learning**: Ongoing updates and advanced training
-
----
-
-*For more information about GenAI training programs or to enroll in upcoming sessions, please contact the Learning & Development team.*
