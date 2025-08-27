@@ -58,7 +58,7 @@ There are various assumptions and myths about value:
 
 Cultivating a "value creation" mindset is essential across all roles and functions of a delivery life cycle and should extend beyond individual responsibilities, with an emphasis on limitless value addition. It serves as a consistent driving force to make a meaningful impact in our engagements.
 
-## AOOI (Accion Outcome-Oriented Innovation)
+## AOOI (Activity, Output, Outcome and Impact)
 
 <img src="../../../assets/media/image16.png" style="width:6.5in;height:5.91667in" />
 
