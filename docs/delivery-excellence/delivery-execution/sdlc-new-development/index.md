@@ -264,4 +264,4 @@ By focusing on these key activities, the development phase ensures that the soft
 
 ---
 
-*Previous: [Innovation Engineering Services](../innovation-engineering-services/index.md)* | *Next: [SDLC - Transformation Projects](../sdlc-transformation-projects/index.md)*
+*Previous: [Innovation Engineering Services](../innovation-engineering-services/index.md)*

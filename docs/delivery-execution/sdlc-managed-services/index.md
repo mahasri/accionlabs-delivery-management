@@ -113,4 +113,4 @@ Support services efficiently manage escalations to higher support tiers or speci
 
 ---
 
-*Previous: [SDLC - Transformation Projects](../sdlc-transformation-projects/index.md)* | *Next: [Value-Driven Delivery](../../value-driven-delivery/index.md)*
+*Next: [Value-Driven Delivery](../../value-driven-delivery/index.md)*
