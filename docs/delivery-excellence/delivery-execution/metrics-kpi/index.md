@@ -2,7 +2,7 @@
 
 ## Overview
 
-Accionlabs believes in the **AOOI (Action-Oriented Outcome and Impact)** approach as outlined in our [Value-Driven Delivery](../value-driven-delivery/index.md) framework. We ensure that all our key activities and deliverables are systematically measured across three critical dimensions:
+Accionlabs believes in the **Activity, Output, Outcome and Impact** approach as outlined in our [Value-Driven Delivery](../value-driven-delivery/index.md) framework. We ensure that all our key activities and deliverables are systematically measured across three critical dimensions:
 
 - **Performance & Quality**: Measuring how well we deliver against established standards and expectations
 - **Speed & Efficiency**: Tracking the pace of delivery and turnaround times
