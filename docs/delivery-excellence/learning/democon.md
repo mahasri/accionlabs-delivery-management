@@ -1,4 +1,4 @@
-# Democon
+# DemoCon Thursday
 
 Democon is our demonstration and conversation series designed for the broader audience including our business units. This platform enables us to make more personalized conversations with customers, stay on top of technology and transformations with real-life scenarios from within the system. Through interactive demonstrations and engaging discussions, we showcase our capabilities, share insights, and foster meaningful dialogues that drive innovation and customer success.
 

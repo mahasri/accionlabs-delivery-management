@@ -4,106 +4,89 @@ Value Wednesday is our weekly value-focused learning and knowledge sharing sessi
 
 Through structured presentations, case studies, and interactive discussions, Value Wednesday has become instrumental in helping delivery teams understand how to identify, measure, and deliver tangible value to customers. The program has successfully transformed how teams approach their projects, emphasizing value-driven delivery over traditional task completion.
 
-## 📊 Value Generation Metrics
-
-<div style="background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%); padding: 20px; border-radius: 12px; margin: 20px 0; text-align: center;">
-    <h3 style="margin-bottom: 20px; color: #2e7d32;">📈 Value Wednesday Impact Statistics</h3>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border: 1px solid #e9ecef;">
     <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 5px; color: #2e7d32;">239</div>
-            <div style="font-size: 16px; color: #388e3c;">Total values added (from Jan '24)</div>
+            <div style="font-size: 24px; font-weight: bold; color: #2e7d32;">239</div>
+            <div style="font-size: 14px; color: #666;">Total values added (from Jan '24)</div>
         </div>
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 5px; color: #2e7d32;">49</div>
-            <div style="font-size: 16px; color: #388e3c;">Values Added (2025 YTD)</div>
+            <div style="font-size: 24px; font-weight: bold; color: #2e7d32;">49</div>
+            <div style="font-size: 14px; color: #666;">Values Added (2025 YTD)</div>
         </div>
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 5px; color: #2e7d32;">96</div>
-            <div style="font-size: 16px; color: #388e3c;">Projects Impacted</div>
+            <div style="font-size: 24px; font-weight: bold; color: #2e7d32;">96</div>
+            <div style="font-size: 14px; color: #666;">Projects Impacted</div>
         </div>
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 5px; color: #2e7d32;">54</div>
-            <div style="font-size: 16px; color: #388e3c;">Sessions Conducted</div>
+            <div style="font-size: 24px; font-weight: bold; color: #2e7d32;">54</div>
+            <div style="font-size: 14px; color: #666;">Sessions Conducted</div>
         </div>
     </div>
 </div>
 
-## 🎯 Categories of Value Adds
-
-<div style="background: #f8f9fa; padding: 30px; border-radius: 12px; margin: 30px 0; border: 1px solid #e9ecef;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin: 30px 0;">
     
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #2e7d32;">Test Automation</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #1976d2;">Performance Improvement</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fff3e0 0%, #ffcc80 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #f57c00;">Migration Projects</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #7b1fa2;">CI/CD Automation</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #c2185b;">Security Enhancements</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #00796b;">Data & BI Solutions</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f1f8e9 0%, #dcedc8 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #689f38;">Tooling & Development</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #3f51b5;">Multimodal AI</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #ff8f00;">GenAI in SDLC</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fafafa 0%, #eeeeee 100%); border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <div style="font-size: 18px; font-weight: bold; color: #616161;">AI-powered Documentation</div>
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #e9ecef;">
+        <h3 style="color: #333; margin-bottom: 15px;">Categories of Value Adds</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
+            <div style="text-align: center; padding: 15px; background: #e8f5e8; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #2e7d32;">Test Automation</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #e3f2fd; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #1976d2;">Performance Improvement</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #fff3e0; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #f57c00;">Migration Projects</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #f3e5f5; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #7b1fa2;">CI/CD Automation</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #fce4ec; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #c2185b;">Security Enhancements</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #e0f2f1; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #00796b;">Data & BI Solutions</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #f1f8e9; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #689f38;">Tooling & Development</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #e8eaf6; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #3f51b5;">Multimodal AI</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #fff8e1; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #ff8f00;">GenAI in SDLC</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #fafafa; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #616161;">AI-powered Documentation</div>
+            </div>
         </div>
     </div>
-</div>
-
-## 🎯 Key Areas of Impact
-
-<div style="background: white; padding: 30px; border-radius: 12px; margin: 30px 0; border: 2px solid #e9ecef; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); color: #1976d2; border-radius: 8px;">
-            <div style="font-size: 18px; font-weight: bold;">Productivity Boost</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%); color: #2e7d32; border-radius: 8px;">
-            <div style="font-size: 18px; font-weight: bold;">Security & System Stability</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%); color: #0277bd; border-radius: 8px;">
-            <div style="font-size: 18px; font-weight: bold;">Innovation</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f1f8e9 0%, #dcedc8 100%); color: #558b2f; border-radius: 8px;">
-            <div style="font-size: 18px; font-weight: bold;">Quality of Work</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%); color: #00695c; border-radius: 8px;">
-            <div style="font-size: 18px; font-weight: bold;">Revenue Growth</div>
-        </div>
-        
-        <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); color: #7b1fa2; border-radius: 8px;">
-            <div style="font-size: 18px; font-weight: bold;">Business Value</div>
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #e9ecef;">
+        <h3 style="color: #333; margin-bottom: 15px;">Key Areas of Impact</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
+            <div style="text-align: center; padding: 15px; background: #e3f2fd; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #1976d2;">Productivity Boost</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #e8f5e8; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #2e7d32;">Security & System Stability</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #e1f5fe; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #0277bd;">Innovation</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #f1f8e9; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #558b2f;">Quality of Work</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #e0f2f1; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #00695c;">Revenue Growth</div>
+            </div>
+            <div style="text-align: center; padding: 15px; background: #f3e5f5; border-radius: 6px;">
+                <div style="font-size: 16px; font-weight: bold; color: #7b1fa2;">Business Value</div>
+            </div>
         </div>
     </div>
+    
 </div>
 
 ## 🏆 Top 10 Value Sessions

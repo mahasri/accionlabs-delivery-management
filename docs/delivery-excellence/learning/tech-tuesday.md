@@ -2,22 +2,19 @@
 
 Tech Tuesday is our weekly technology learning and knowledge sharing session focused on emerging technologies, best practices, and technical innovations.
 
-## 📊 Session Metrics
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 12px; margin: 20px 0; text-align: center;">
-    <h3 style="margin-bottom: 25px;">📈 Tech Tuesday Statistics</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border: 1px solid #e9ecef;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">98</div>
-            <div style="font-size: 16px; opacity: 0.9;">Total Sessions (since Jan 2024)</div>
+            <div style="font-size: 24px; font-weight: bold; color: #667eea;">98</div>
+            <div style="font-size: 14px; color: #666;">Total Sessions (since Jan 2024)</div>
         </div>
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">37</div>
-            <div style="font-size: 16px; opacity: 0.9;">Sessions in 2025</div>
+            <div style="font-size: 24px; font-weight: bold; color: #667eea;">37</div>
+            <div style="font-size: 14px; color: #666;">Sessions in 2025</div>
         </div>
         <div style="text-align: center;">
-            <div style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">130</div>
-            <div style="font-size: 16px; opacity: 0.9;">Total Presenters</div>
+            <div style="font-size: 24px; font-weight: bold; color: #667eea;">130</div>
+            <div style="font-size: 14px; color: #666;">Total Presenters</div>
         </div>
     </div>
 </div>

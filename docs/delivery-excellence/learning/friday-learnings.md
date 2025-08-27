@@ -1,4 +1,4 @@
-# Friday Learnings
+# Friday Learning Hour
 
 Friday Learnings is our weekly knowledge sharing platform where leaders share insights, best practices, and key takeaways from their participation in various training programs, certifications, workshops, and industry summits. This program ensures that valuable knowledge gained from external learning experiences is disseminated across the organization, maximizing the return on investment in leadership development.
 

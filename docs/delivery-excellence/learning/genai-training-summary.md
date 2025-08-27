@@ -1,4 +1,4 @@
-# GenAI Training Summary
+# Exclusive GenAI Training
 
 Our comprehensive GenAI training program is designed to equip teams with cutting-edge AI capabilities and align with customer-preferred GenAI platforms. This initiative focuses on practical application, certification attainment, and platform-specific expertise to drive AI-driven solutions.
 
