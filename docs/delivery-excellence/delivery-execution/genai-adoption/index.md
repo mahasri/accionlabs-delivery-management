@@ -395,6 +395,44 @@ The implementation is supported by dedicated Centers of Excellence (CoE) that pr
     </div>
 </div>
 
+##### View Individual Reports
+
+<div class="individual-reports-section">
+    <div class="reports-list">
+        <div class="report-item">
+            <a href="../../../assets/documents/GenAI-Usage-Report-Hivemindd.pdf" target="_blank" class="report-link">
+                <span class="report-icon">📊</span>
+                <span class="report-name">Hivemindd</span>
+                <span class="report-arrow">→</span>
+            </a>
+        </div>
+        
+        <div class="report-item">
+            <a href="../../../assets/documents/GenAI-Usage-Report-LeadVenture.pdf" target="_blank" class="report-link">
+                <span class="report-icon">📊</span>
+                <span class="report-name">Lead Venture</span>
+                <span class="report-arrow">→</span>
+            </a>
+        </div>
+        
+        <div class="report-item">
+            <a href="../../../assets/documents/GenAI-Usage-Report-DDI.pdf" target="_blank" class="report-link">
+                <span class="report-icon">📊</span>
+                <span class="report-name">DDI</span>
+                <span class="report-arrow">→</span>
+            </a>
+        </div>
+        
+        <div class="report-item">
+            <a href="../../../assets/documents/GenAI-Usage-Report-GoEducate.pdf" target="_blank" class="report-link">
+                <span class="report-icon">📊</span>
+                <span class="report-name">Go Educate</span>
+                <span class="report-arrow">→</span>
+            </a>
+        </div>
+    </div>
+</div>
+
 ### Implementation Framework {#implementation-framework}
 
 The implementation framework provides a structured approach to GenAI adoption across different phases of the SDLC, ensuring consistent quality and compliance while maximizing the benefits of AI-assisted development.
@@ -1078,6 +1116,72 @@ The implementation framework provides a structured approach to GenAI adoption ac
     }
 }
 
+/* Individual Reports Section Styles */
+.individual-reports-section {
+    margin: 30px 0;
+    padding: 25px;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+}
+
+.reports-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.report-item {
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.report-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: #3182ce;
+}
+
+.report-link {
+    display: flex;
+    align-items: center;
+    padding: 16px 20px;
+    text-decoration: none;
+    color: #2d3748;
+    transition: all 0.3s ease;
+}
+
+.report-link:hover {
+    color: #3182ce;
+    text-decoration: none;
+}
+
+.report-icon {
+    font-size: 1.2rem;
+    margin-right: 12px;
+    color: #3182ce;
+}
+
+.report-name {
+    flex: 1;
+    font-weight: 500;
+    font-size: 0.95rem;
+}
+
+.report-arrow {
+    font-size: 1.1rem;
+    color: #3182ce;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+}
+
+.report-link:hover .report-arrow {
+    transform: translateX(4px);
+}
+
 @media (max-width: 768px) {
     .reports-carousel {
         padding: 20px;
@@ -1235,6 +1339,29 @@ The implementation framework provides a structured approach to GenAI adoption ac
 
     .chart-metrics {
         font-size: 0.7rem;
+    }
+    
+    /* Individual Reports Mobile Styles */
+    .individual-reports-section {
+        padding: 20px;
+        margin: 20px 0;
+    }
+    
+    .report-link {
+        padding: 12px 16px;
+    }
+    
+    .report-name {
+        font-size: 0.9rem;
+    }
+    
+    .report-icon {
+        font-size: 1rem;
+        margin-right: 8px;
+    }
+    
+    .report-arrow {
+        font-size: 1rem;
     }
 }
 </style>
